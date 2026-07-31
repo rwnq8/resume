@@ -13,7 +13,7 @@
       "deposit_id": "21724536",
       "tag": "v3.2",
       "published_at": "2026-07-31",
-      "changes": "Red-team kaizen audit: 10/10 verified Zenodo DOIs, CC-BY-4.0 license, LinkedIn/ISNI badges, CITATION.cff, LICENSE, .gitignore, PDF download link, contact footers. 2 HARD + 8 SOFT fixes applied."
+      "changes": "Kaizen v1: DOI table fix (10/10 verified DOIs), CC-BY-4.0 license, LinkedIn/ISNI badges, CITATION.cff, LICENSE, .gitignore, PDF download link, contact footers. Red-team v2: 2 HARD fixes (DOI misattribution 17176733→21016993, CITATION.cff stale v3.1→v3.2), 6 SOFT fixes (42 Theses v2.0→v3.0, PDF link accuracy, stats precision, publication count 526+→649+, domain/type breakdown scaling, title format). Iteration v3: missed 42 Theses v2.0→v3.0 in PORTFOLIO §6 Zenodo References."
     }
   ]
 }

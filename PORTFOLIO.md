@@ -102,7 +102,7 @@ A methodological framework for evaluating claims across domains without being tr
 - **The Conditional Advantage:** A systematic epistemic hygiene audit of quantum computational advantage claims, distinguishing genuine physical speedup from aspirational forecasting, benchmark cherry-picking, and classical-algorithm straw-manning
 - **42 Theses on Pattern-Based Reality:** A synthesis monograph connecting pattern-first ontology across physics, computation, biology, and social systems
 
-**Zenodo References:** *The Scaffold-Lock Hypothesis*, *The Re-Entry Thesis*, *The Conditional Advantage*, *42 Theses on Pattern-Based Reality* v2.0
+**Zenodo References:** *The Scaffold-Lock Hypothesis*, *The Re-Entry Thesis*, *The Conditional Advantage*, *42 Theses on Pattern-Based Reality* v3.0
 
 ### 7. Consilience Methodology — Cross-Domain Innovation
 
