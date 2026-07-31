@@ -1,0 +1,229 @@
+# Research Portfolio — Deep Synthesis
+
+This document provides a detailed, recruiter-friendly synthesis of my research programs, methodologies, and the intellectual architecture connecting my work across quantum computing, artificial intelligence, and cross-domain systems.
+
+---
+
+## Research Architecture
+
+My work operates across three interconnected layers, each building on the one beneath it:
+
+```
+┌─────────────────────────────────────────────────────────────┐
+│  LAYER 3: Cross-Domain Synthesis & Methodology              │
+│  (Scaffold-Invariant Analysis, Epistemic Hygiene,           │
+│   Structural Pattern Recognition, Consilience Discovery)    │
+├─────────────────────────────────────────────────────────────┤
+│  LAYER 2: Application Domains                               │
+│  (Quantum Computing, AI/ML, Information Theory,             │
+│   Legal Tech, Infrastructure Modeling)                      │
+├─────────────────────────────────────────────────────────────┤
+│  LAYER 1: Foundational Formalisms                           │
+│  (p-Adic Analysis, Ultrametric Geometry, Sheaf Theory,      │
+│   Algebraic Topology, Category Theory, Measure Theory)      │
+└─────────────────────────────────────────────────────────────┘
+```
+
+This is not a grab-bag of papers — it is a coherent research program where formal foundations (Layer 1) generate domain applications (Layer 2), and the patterns observed across domains feed back into cross-domain methodology (Layer 3).
+
+---
+
+## Core Research Programs
+
+### 1. Ultrametric Quantum Computing (UQC) — 50+ Documents
+
+**The Problem:** Conventional quantum computing architectures face an existential scaling challenge. Superconducting qubits require millikelvin temperatures (~15 mK), supplied by dilution refrigerators providing ~50 μW of cooling. A fault-tolerant logical qubit requires ~1,000 physical qubits. Even modest quantum computers would need megawatts of room-temperature power to sustain microwatts of cooling — a thermodynamic dead end.
+
+**The UQC Solution:** UQC embeds error suppression in the hardware geometry itself, using ultrametric (hierarchical, tree-structured) spaces where the strong triangle inequality (d(x,z) ≤ max{d(x,y), d(y,z)}) provides a natural error barrier. In ultrametric space, small perturbations cannot accumulate across hierarchical boundaries — faults remain localized by the geometry rather than propagating. This potentially eliminates the 1,000:1 physical-to-logical qubit overhead entirely.
+
+**Key technical contributions:**
+- **Ultrametric encoding:** Qubits are organized in a p-adic hierarchical structure where logical gates operate on clusters rather than individual qubits
+- **Hardware-level error suppression:** Fault tolerance emerges from the metric properties of the architecture, not from software-layer error correction codes
+- **4-Kelvin topological variant:** A parallel track using 45° twisted Bi-2212 high-temperature superconductors at commercially accessible 4K temperatures, with predicted thermal stability margin Γ ≈ 80
+
+**Zenodo References:** Ultrametric Quantum Computation series (v0.1–v1.0), *Orchestrating the Quantum Future* roadmap series
+
+### 2. The Thermodynamic Imperative — 4-Kelvin Quantum Roadmap
+
+**The Argument:** I published the first quantitative, system-level analysis showing that the quantum computing industry's reliance on dilution refrigeration is a thermodynamic scaling dead end. The analysis is simple but inescapable:
+
+| Metric | Dilution Refrigerator | Commercial Cryocooler | Ratio |
+|:-------|:----------------------|:----------------------|:------|
+| Operating temperature | ~15 mK | 4 K | 267× warmer |
+| Cooling power | ~50 μW | ~1 W | 20,000× more cooling |
+| Room-temp power input | ~10 kW | ~7 kW | — |
+| Infrastructure | $500K+, custom installation | Off-the-shelf, rack-mountable | — |
+
+**The Roadmap:** Published a complete technical roadmap for 4-Kelvin quantum processing using:
+- Twisted high-temperature superconductors (Bi-2212 at 45° twist angle)
+- Topological qubit encodings with predicted Γ ≈ 80 thermal stability margin
+- Commercially available cryocooler hardware (no custom dilution units)
+- Room for 10,000+ physical qubits in a single rack-mountable unit
+
+**Zenodo References:** *Orchestrating the Quantum Future* v1.0–v1.1, *The Thermodynamic Imperative*
+
+### 3. The Adelic Qubit — A Manufacturable Quantum Architecture
+
+**The Problem:** Quantum architectures remain trapped in an "aesthetic formalism" where designs are mathematically elegant but lack a clear path to fabrication. They specify operations on abstract Hilbert spaces without addressing the physical instantiation problem.
+
+**The Solution:** The Adelic Qubit is a complete hardware/software architecture specification where every mathematical abstraction has a direct physical counterpart. The "adelic" framework unifies information across all completions of the rational numbers (real, p-adic for every prime p) — a mathematical structure that naturally encodes the hierarchical, multi-scale nature of quantum systems.
+
+**Key features:**
+- Complete specification from device physics through application layer
+- Manufacturable using existing semiconductor fabrication techniques
+- Software stack designed for compiler optimization, not manually coded gates
+- Architecture validated against quantum advantage benchmarking frameworks
+
+**Zenodo References:** *The Adelic Qubit* v1.0–v1.1 DOI series
+
+### 4. Prime-Attentive Neural Networks (PANNs)
+
+**The Problem:** Transformer architectures scale attention quadratically (O(n²)), creating fundamental computational bottlenecks. Biological neural systems achieve similar feats with architectures that look nothing like transformers.
+
+**The Solution:** PANNs replace dense attention matrices with sparse, number-theoretically structured attention patterns. By organizing neurons along prime-indexed paths, the network achieves:
+- Near-linear scaling (O(n log n) in key configurations)
+- Natural hierarchical information routing
+- Built-in inductive biases toward modular structure
+
+The architecture draws on p-adic number theory — the same mathematical framework underlying UQC — creating a unified formal foundation across both quantum and classical computation.
+
+**Zenodo References:** Prime-Attentive Neural Networks series, *Alpha Pi Project* monograph
+
+### 5. Quantum Resonance Computing (QRC)
+
+A field-based alternative quantum computing paradigm that treats computation as a resonant process in a structured field, rather than as gate operations on discrete qubits. QRC explores whether the gate model itself — treating computation as a sequence of discrete operations — is the wrong abstraction for quantum systems.
+
+### 6. Epistemic Hygiene & Scaffold-Invariant Analysis
+
+A methodological framework for evaluating claims across domains without being trapped by domain-specific notation or social proof. Key contributions:
+
+- **The Scaffold-Lock Hypothesis:** Demonstrates how notational and formal choices (the "scaffolding") in one domain systematically marginalize structurally identical insights from other domains
+- **The Re-Entry Thesis:** Shows that self-referential paradoxes (Liar paradox, Gödel incompleteness, Russell's paradox, measurement problem) share a common structural invariant — re-entry of a system's output into its input — and that recognizing this invariant dissolves apparent conflicts
+- **The Conditional Advantage:** A systematic epistemic hygiene audit of quantum computational advantage claims, distinguishing genuine physical speedup from aspirational forecasting, benchmark cherry-picking, and classical-algorithm straw-manning
+- **42 Theses on Pattern-Based Reality:** A synthesis monograph connecting pattern-first ontology across physics, computation, biology, and social systems
+
+**Zenodo References:** *The Scaffold-Lock Hypothesis*, *The Re-Entry Thesis*, *The Conditional Advantage*, *42 Theses on Pattern-Based Reality* v2.0
+
+### 7. Consilience Methodology — Cross-Domain Innovation
+
+A systematic framework for discovering structural isomorphisms across seemingly unrelated domains and translating them into novel research programs. Rather than relying on serendipitous analogies, the consilience methodology:
+
+1. Identifies structural patterns (not surface analogies) that recur across domains
+2. Translates concepts across domain lexicons while preserving mathematical structure
+3. Generates testable predictions by asking: "If X works in domain A, what should we observe in domain B?"
+4. Produces novel research programs that no single domain would have generated on its own
+
+This methodology has produced research programs including: cardiac signal processing → quantum state readout (the Alpha Pi Project), ultrametric geometry → quantum error correction (UQC), and number theory → neural architecture (PANNs).
+
+---
+
+## Product & Platform Leadership
+
+### AARP Livability Index
+
+The Livability Index is a national-scale platform that scores every neighborhood and community in the United States across seven categories of livability: housing, neighborhood, transportation, environment, health, engagement, and opportunity.
+
+**My role:** Product Manager and Senior Methods Advisor. Full product lifecycle ownership across multiple public releases.
+
+**Technical scale:**
+- 50+ distinct data sources integrated into a unified scoring framework
+- National coverage at the census tract and block-group level
+- Customizable weighting engine allowing users to adjust category importance
+- Public-facing web platform with API access for researchers
+
+**Impact:** Cited in 20+ academic and policy studies. Used by municipal planners, community development organizations, and grant-makers nationwide. Informed the World Health Organization's Age-Friendly Cities framework adaptation for the United States.
+
+### Empowering Change — AI for Legal Access
+
+Founded and led a 501(c)(3) nonprofit building an LLM-powered legal navigation platform for self-represented litigants. The platform provided:
+
+1. **Document Drafting:** AI-assisted generation of court filings, motions, and responses
+2. **Procedural Guidance:** Step-by-step navigation of legal processes in plain English
+3. **Legal Jargon Translation:** Real-time translation of legal terminology into accessible language
+
+**Validation:** Product design was directly informed by my experience as a pro se litigant in San Francisco tenant rights cases — using the product myself to validate its utility.
+
+**Media:** Featured in national media coverage of AI-driven legal democratization.
+
+### FHWA National Travel Forecasting Model
+
+Led key technical components of the national Tour-Based Model System, a large-scale agent-based simulation of long-distance passenger travel in the United States. Managed $1.5M+ in federal R&D contracts with full procurement authority as certified Contracting Officer's Representative.
+
+---
+
+## Publication Metrics
+
+### By Domain
+
+| Domain | Approximate Publications | Key Outputs |
+|:-------|:------------------------|:------------|
+| Quantum Computing | 150+ | UQC, QRC, Adelic Qubit, 4K Roadmap, Thermodynamic Imperative |
+| AI & Machine Learning | 100+ | PANNs, Alpha Pi Project, LLM systems |
+| Cross-Domain Methodology | 120+ | Scaffold-Lock, Re-Entry, Consilience, Epistemic Hygiene |
+| Information Theory & Signal Processing | 80+ | Adelic Rate-Distortion, Information Spectrum |
+| Systems & Infrastructure | 50+ | Transportation modeling, data integration, GIS |
+| Synthesis & Meta-Work | 30+ | 42 Theses, General Theory of Process, portfolio syntheses |
+
+### By Type
+
+| Type | Count |
+|:-----|:------|
+| Technical Reports & Working Papers | ~350 |
+| Preprints | ~80 |
+| Monographs & Books | ~30 |
+| Meta-Analyses & Syntheses | ~20 |
+| Datasets & Software | ~40 |
+
+### Zenodo Statistics (All Publications)
+
+- **Total publications:** 526+
+- **Cumulative unique views:** 14,000+
+- **Cumulative unique downloads:** 169+
+- **Most viewed paper:** Resume (13,958 views)
+
+---
+
+## What Makes This Profile Distinctive
+
+### 1. Rigor Backed by Volume
+
+Many researchers claim cross-domain expertise. I have published 526+ documents across quantum computing, AI, information theory, and systems engineering — the paper trail is public, peer-accessible, and internally consistent. A recruiter or technical interviewer can trace the intellectual architecture directly through the publications.
+
+### 2. Theory-to-Product Pipeline
+
+I do not just publish papers — I build products that operate at national scale. The AARP Livability Index, Empowering Change platform, and FHWA forecasting model are not proofs of concept; they are deployed systems used by millions of people and cited in policy and academic literature. The quantum architectures (UQC, Adelic Qubit) are designed with manufacturing pathways, not just mathematical elegance.
+
+### 3. Thermodynamic Grounding
+
+My quantum computing work is distinguished by its grounding in engineering reality. The thermodynamic scaling argument is not a theoretical critique — it is a quantitative analysis using published specifications for commercially available hardware. This is the kind of systems-level thinking that distinguishes a research leader from a theorist.
+
+### 4. Epistemic Rigor
+
+The epistemic hygiene methodology — scaffold-invariant analysis, structural pattern recognition, consilience discovery — provides a repeatable framework for evaluating claims across domains. This is directly applicable to: technical due diligence (VC), technology roadmapping (corporate R&D), research program design (government labs), and competitive intelligence (strategy).
+
+### 5. Open Science by Default
+
+All 526+ publications are open-access with permanent DOIs. No paywalls. No institutional access requirements. This is not just a philosophical commitment — it means my entire body of work is immediately verifiable by any hiring manager, technical interviewer, or due diligence analyst.
+
+---
+
+## Selected Publication DOIs
+
+| Title | DOI | Domain |
+|:------|:----|:-------|
+| Orchestrating the Quantum Future v1.0 | 10.5281/zenodo.17176733 (concept) | Quantum |
+| The Adelic Qubit v1.1 | QNFO/adelic-shannon-theory | Quantum |
+| The Scaffold-Lock Hypothesis | (Zenodo) | Methodology |
+| The Conditional Advantage | (Zenodo) | Methodology |
+| The Re-Entry Thesis | (Zenodo) | Methodology |
+| 42 Theses on Pattern-Based Reality v2.0 | (Zenodo) | Synthesis |
+| JPCUB as a Leading Indicator | 10.5281/zenodo.21716180 | Computing |
+| Computing After Silicon | 10.5281/zenodo.21713202 | Computing |
+| Adelic Rate-Distortion Theory | 10.5281/zenodo.21710936 | Information Theory |
+| QWAV Commercial Platform Architecture v2.3 | 10.5281/zenodo.21713222 | Systems |
+
+*For the complete publication list, visit [Zenodo](https://zenodo.org/search?q=Quni-Gudzinas&sort=mostrecent) or [ResearchGate](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas).*
+
+---
+
+*This portfolio synthesizes work published under Rowan Brad Quni-Gudzinas (2024–present) and earlier professional work. All research publications are open-access on Zenodo.*
