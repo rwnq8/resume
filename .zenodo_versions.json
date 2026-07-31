@@ -1,0 +1,19 @@
+{
+  "concept_doi": "10.5281/zenodo.17176733",
+  "latest_deposit_id": "21724536",
+  "versions": [
+    {
+      "doi": "10.5281/zenodo.21311053",
+      "deposit_id": "21311053",
+      "tag": "v3.1",
+      "published_at": "2026-07-11"
+    },
+    {
+      "doi": "10.5281/zenodo.21724536",
+      "deposit_id": "21724536",
+      "tag": "v3.2",
+      "published_at": "2026-07-31",
+      "changes": "Red-team kaizen audit: 10/10 verified Zenodo DOIs, CC-BY-4.0 license, LinkedIn/ISNI badges, CITATION.cff, LICENSE, .gitignore, PDF download link, contact footers. 2 HARD + 8 SOFT fixes applied."
+    }
+  ]
+}
