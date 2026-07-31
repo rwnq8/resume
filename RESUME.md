@@ -8,7 +8,7 @@ rowan.quni@outlook.com | **ORCID:** [0009-0002-4317-5604](https://orcid.org/0009
 
 ## PROFESSIONAL SUMMARY
 
-I design architectures, build products, and publish research at the intersection of quantum computing, artificial intelligence, and large-scale systems. Over 20 years, I have: delivered national-scale platforms (AARP Livability Index); founded an AI nonprofit featured in national media (Empowering Change); and published the quantitative case that the quantum computing industry's current trajectory is a thermodynamic dead end. I bring 526+ publications, a patent portfolio, and a rigorous methodology for epistemic hygiene audits and cross-domain innovation — most recently, 9 papers published in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, and the adelic qubit architecture. I am seeking a VP, Director, or Research Partner role where I can set technical vision, build teams, and turn breakthrough ideas into market reality.
+I design architectures, build products, and publish research at the intersection of quantum computing, artificial intelligence, and large-scale systems. Over 20 years, I have: delivered national-scale platforms (AARP Livability Index); founded an AI nonprofit featured in national media (Empowering Change); and published the quantitative case that the quantum computing industry's current trajectory is a thermodynamic dead end. I bring 649+ publications, a patent portfolio, and a rigorous methodology for epistemic hygiene audits and cross-domain innovation — most recently, 9 papers published in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, and the adelic qubit architecture. I am seeking a VP, Director, or Research Partner role where I can set technical vision, build teams, and turn breakthrough ideas into market reality.
 
 ---
 
@@ -34,7 +34,7 @@ Took Empowering Change from incorporation through public launch. Built an LLM-po
 
 Certified Contracting Officer's Representative at U.S. Department of Transportation. Full oversight of technical performance, budgets, milestones, and contractor deliverables. Led key components of a national forecasting model that informs federal infrastructure investment. Clearance-eligible.
 
-### 526+ publications, a patent portfolio, COR certification, and twenty years of sustained output across government, consulting, nonprofit, and independent research.
+### 649+ publications, a patent portfolio, COR certification, and twenty years of sustained output across government, consulting, nonprofit, and independent research.
 
 Open-access body of work spanning quantum architecture, AI/ML systems, signal processing, epistemic hygiene methodology, and scaffold-invariant analysis — freely accessible on Zenodo and ResearchGate. Patent portfolio covering quantum computing architectures, neural network designs, and foundational computing paradigms.
 
@@ -45,7 +45,7 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 ### Principal Investigator & Founder
 **QWAV / QNFO** — Independent Research | 2024–Present
 
-**Research Output:** Published 526+ scholarly works spanning quantum computing architecture, AI/ML systems, signal processing, epistemic hygiene methodology, scaffold-invariant analysis, and cross-domain methodology — all open-access on Zenodo, ResearchGate, and SSRN. Recent output includes 9 papers in a single week (July 2026) on quantum foundations, structural formalism analysis, and the adelic qubit architecture.
+**Research Output:** Published 649+ scholarly works spanning quantum computing architecture, AI/ML systems, signal processing, epistemic hygiene methodology, scaffold-invariant analysis, and cross-domain methodology — all open-access on Zenodo, ResearchGate, and SSRN. Recent output includes 9 papers in a single week (July 2026) on quantum foundations, structural formalism analysis, and the adelic qubit architecture.
 
 **Quantum Computing:** Published the quantitative case against dilution-refrigerated quantum architectures: ~50 μW of cooling at millikelvin versus ~1 W at 4 Kelvin — a 20,000× gap that fundamentally limits scalability. Published a complete 4-Kelvin topological processing roadmap using 45° twisted Bi-2212 superconductors (predicted thermal stability margin Γ ≈ 80). Designed Ultrametric Quantum Computing (UQC), embedding error suppression in the hardware geometry — potentially eliminating the 1,000:1 qubit overhead of conventional error correction. Proposed Quantum Resonance Computing (QRC), a field-based alternative paradigm. Published across 50+ documents. Patents developed.
 
@@ -109,7 +109,7 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 
 ## PUBLICATIONS & INTELLECTUAL PROPERTY
 
-- **526+ scholarly works** published open-access on Zenodo, ResearchGate, and SSRN — freely accessible, no paywalls. Works span preprints, technical reports, and books across quantum architecture, AI/ML, signal processing, epistemic hygiene methodology, and scaffold-invariant cross-domain analysis.
+- **649+ scholarly works** published open-access on Zenodo, ResearchGate, and SSRN — freely accessible, no paywalls. Works span preprints, technical reports, and books across quantum architecture, AI/ML, signal processing, epistemic hygiene methodology, and scaffold-invariant cross-domain analysis.
 - **Patent portfolio** covering quantum computing architectures (UQC, QRC, 4-Kelvin topological processing), neural network designs (Prime-Attentive Neural Networks), and foundational computing paradigms.
 - **Representative works:**
   - *Orchestrating the Quantum Future* — 4-Kelvin quantum computing roadmap (v1.0–v1.1)
@@ -120,7 +120,7 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
   - *The Thermodynamic Imperative* — Quantitative analysis of quantum scaling limits
   - *The Conditional Advantage* — Epistemic hygiene audit of quantum computational advantage claims
   - *The Re-Entry Thesis* — Structural invariance of self-referential paradoxes across disciplines
-  - *42 Theses on Pattern-Based Reality* — Synthesis monograph (v2.0, July 2026)
+  - *42 Theses on Pattern-Based Reality* — Synthesis monograph (v3.0, July 2026)
   - *Alpha Pi Project* — 7-chapter monograph: cardiac signal processing → quantum architecture
   - *A General Theory of Process* — Cross-domain isomorphism framework
   - *The Information Spectrum* — Book-length treatment of information theory
@@ -148,15 +148,15 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 | Sector | Representative Roles | Why This Profile Fits |
 |:-------|:---------------------|:----------------------|
 | **Quantum Computing** | VP/Director of Quantum Research, Architecture, Hardware, or Engineering; Chief Quantum Scientist; Distinguished Engineer | Published architectures (UQC, QRC, 4K topological). Quantitative scaling analysis. 50+ technical documents. Patent portfolio |
-| **AI & Machine Learning** | VP/Director of AI Research, Applied AI, or ML Engineering; Chief AI Scientist | PANNs architecture. Launched LLM-based platform. Data science leadership at national scale. 526+ publications |
+| **AI & Machine Learning** | VP/Director of AI Research, Applied AI, or ML Engineering; Chief AI Scientist | PANNs architecture. Launched LLM-based platform. Data science leadership at national scale. 649+ publications |
 | **Big Tech & Platforms** | Director of Research, VP Emerging Technology, Distinguished Scientist, Director of Advanced Technology | Cross-domain expertise (quantum + AI + systems). Product leadership at national scale. Patent portfolio |
 | **Defense & National Security** | Director of Quantum Research, Chief Scientist, VP Advanced Technology, Senior Technical Fellow or Advisor | COR certification (clearance-eligible). Federal agency experience. Quantum architectures. Complex systems modeling |
 | **Government Labs & FFRDCs** | Director of Quantum Research, Chief Scientist, Program Director, Senior Technical Advisor | COR certification. Federal program management. Quantum computing R&D. Publication record |
-| **Venture Capital** | Research Partner, Technical Fellow, Entrepreneur in Residence, Director of Deep Tech Research | Technical evaluation (quantum + AI). 526+ publications. Founded two organizations. Product leadership |
-| **Consulting** | Director/VP of Quantum Practice, VP of AI & Advanced Analytics, Senior Expert/Fellow, Practice Lead for Emerging Technology | Prior Deloitte experience. Client communication. 526+ publications. Cross-domain methodology |
+| **Venture Capital** | Research Partner, Technical Fellow, Entrepreneur in Residence, Director of Deep Tech Research | Technical evaluation (quantum + AI). 649+ publications. Founded two organizations. Product leadership |
+| **Consulting** | Director/VP of Quantum Practice, VP of AI & Advanced Analytics, Senior Expert/Fellow, Practice Lead for Emerging Technology | Prior Deloitte experience. Client communication. 649+ publications. Cross-domain methodology |
 | **Startups & Scale-ups** | CTO, Co-Founder/CEO, VP of Engineering, Head of Research, Chief Product Officer | Founded two organizations. Product leadership (AARP, Empowering Change). Patent strategy. Technical vision |
 | **Financial Services** | VP of Quantum or Advanced Computing, Director of Advanced Analytics, Head of Computational Research | Quantum architectures for optimization and risk. Data science at scale. Systems modeling |
-| **Policy & Think Tanks** | Senior Fellow, Director of Technology or Innovation Policy, Research Director | 526+ publications. Federal policy experience (AARP, FHWA). Cross-domain expertise |
+| **Policy & Think Tanks** | Senior Fellow, Director of Technology or Innovation Policy, Research Director | 649+ publications. Federal policy experience (AARP, FHWA). Cross-domain expertise |
 
 ---
 
@@ -165,4 +165,4 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 - **Name History:** Formerly known professionally as Brad Gudzinas. All research since 2024 published under Rowan Brad Quni-Gudzinas.
 - **Location:** Open to remote, hybrid, or on-site. Willing to relocate.
 - **Resume DOI (canonical published version):** [10.5281/zenodo.21724536](https://doi.org/10.5281/zenodo.21724536)
-- **Download the full portfolio (PDF + source):** [Zenodo v3.2](https://doi.org/10.5281/zenodo.21724536)
+- **Download the full portfolio (source files + provenance bundle):** [Zenodo v3.2](https://doi.org/10.5281/zenodo.21724536)

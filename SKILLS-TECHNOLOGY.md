@@ -45,7 +45,7 @@ This document maps my expertise across technology domains with concrete evidence
 | Go-to-market planning | Advanced | Empowering Change: nonprofit launch strategy + national media coverage |
 | Cross-functional team building | Advanced | Led teams across data science, engineering, policy, and stakeholder functions |
 | User-centered design | Expert | Pro se litigation → product design feedback loop (Empowering Change) |
-| Technical writing for executives | Expert | 526+ publications; policy briefs; technical roadmaps; architecture specifications |
+| Technical writing for executives | Expert | 649+ publications; policy briefs; technical roadmaps; architecture specifications |
 
 ---
 
@@ -68,7 +68,7 @@ This document maps my expertise across technology domains with concrete evidence
 |:-----------|:------|:---------|
 | Independent research program design | Expert | Designed and executed 7 coherent, interconnected research programs over 2 years |
 | Patent strategy | Advanced | Patent portfolio: quantum architectures, neural networks, foundational computing |
-| Open science dissemination | Expert | 526+ open-access publications with permanent DOIs on Zenodo |
+| Open science dissemination | Expert | 649+ open-access publications with permanent DOIs on Zenodo |
 | Technology commercialization | Advanced | Product roadmaps with manufacturing pathways (Adelic Qubit, 4K topological) |
 | Federal grant & contract management | Expert | COR-certified; managed $1.5M+ in federal R&D contracts with full procurement authority |
 | Technical due diligence | Expert | Epistemic hygiene methodology directly applicable to VC/diligence evaluation |

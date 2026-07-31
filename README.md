@@ -3,7 +3,7 @@
 ### Research & Technology Leader — Quantum Computing · AI · National-Scale Systems
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4317--5604-a6ce39?logo=orcid)](https://orcid.org/0009-0002-4317-5604)
-[![Zenodo](https://img.shields.io/badge/Zenodo-526%2B%20publications-blue?logo=zenodo)](https://zenodo.org/search?q=Quni-Gudzinas)
+[![Zenodo](https://img.shields.io/badge/Zenodo-649%2B%20publications-blue?logo=zenodo)](https://zenodo.org/search?q=Quni-Gudzinas)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?logo=researchgate)](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowanquni/)
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
@@ -28,7 +28,7 @@
 | Metric | |
 |:---|---:|
 | **Years of experience** | 20+ |
-| **Published works** | 526+ (open-access on Zenodo) |
+| **Published works** | 649+ (open-access on Zenodo) |
 | **Cumulative views** | 14,000+ (Zenodo) |
 | **Cumulative downloads** | 169+ (Zenodo) |
 | **Patent portfolio** | Quantum architectures, neural networks, foundational computing |

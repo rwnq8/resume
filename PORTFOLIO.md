@@ -157,29 +157,29 @@ Led key technical components of the national Tour-Based Model System, a large-sc
 
 | Domain | Approximate Publications | Key Outputs |
 |:-------|:------------------------|:------------|
-| Quantum Computing | 150+ | UQC, QRC, Adelic Qubit, 4K Roadmap, Thermodynamic Imperative |
-| AI & Machine Learning | 100+ | PANNs, Alpha Pi Project, LLM systems |
-| Cross-Domain Methodology | 120+ | Scaffold-Lock, Re-Entry, Consilience, Epistemic Hygiene |
-| Information Theory & Signal Processing | 80+ | Adelic Rate-Distortion, Information Spectrum |
-| Systems & Infrastructure | 50+ | Transportation modeling, data integration, GIS |
-| Synthesis & Meta-Work | 30+ | 42 Theses, General Theory of Process, portfolio syntheses |
+| Quantum Computing | ~190 | UQC, QRC, Adelic Qubit, 4K Roadmap, Thermodynamic Imperative |
+| AI & Machine Learning | ~120 | PANNs, Alpha Pi Project, LLM systems |
+| Cross-Domain Methodology | ~150 | Scaffold-Lock, Re-Entry, Consilience, Epistemic Hygiene |
+| Information Theory & Signal Processing | ~100 | Adelic Rate-Distortion, Information Spectrum |
+| Systems & Infrastructure | ~60 | Transportation modeling, data integration, GIS |
+| Synthesis & Meta-Work | ~40 | 42 Theses, General Theory of Process, portfolio syntheses |
 
 ### By Type
 
 | Type | Count |
 |:-----|:------|
-| Technical Reports & Working Papers | ~350 |
-| Preprints | ~80 |
-| Monographs & Books | ~30 |
-| Meta-Analyses & Syntheses | ~20 |
-| Datasets & Software | ~40 |
+| Technical Reports & Working Papers | ~430 |
+| Preprints | ~100 |
+| Monographs & Books | ~40 |
+| Meta-Analyses & Syntheses | ~30 |
+| Datasets & Software | ~50 |
 
 ### Zenodo Statistics (All Publications)
 
-- **Total publications:** 526+
+- **Total publications:** 649+ (live Zenodo search count as of July 2026)
 - **Cumulative unique views:** 14,000+
 - **Cumulative unique downloads:** 169+
-- **Most viewed paper:** Resume (13,958 views)
+- **Most viewed paper:** Resume (14,000+ views, accumulated across all versions)
 
 ---
 
@@ -187,7 +187,7 @@ Led key technical components of the national Tour-Based Model System, a large-sc
 
 ### 1. Rigor Backed by Volume
 
-Many researchers claim cross-domain expertise. I have published 526+ documents across quantum computing, AI, information theory, and systems engineering — the paper trail is public, peer-accessible, and internally consistent. A recruiter or technical interviewer can trace the intellectual architecture directly through the publications.
+Many researchers claim cross-domain expertise. I have published 649+ documents across quantum computing, AI, information theory, and systems engineering — the paper trail is public, peer-accessible, and internally consistent. A recruiter or technical interviewer can trace the intellectual architecture directly through the publications.
 
 ### 2. Theory-to-Product Pipeline
 
@@ -203,7 +203,7 @@ The epistemic hygiene methodology — scaffold-invariant analysis, structural pa
 
 ### 5. Open Science by Default
 
-All 526+ publications are open-access with permanent DOIs. No paywalls. No institutional access requirements. This is not just a philosophical commitment — it means my entire body of work is immediately verifiable by any hiring manager, technical interviewer, or due diligence analyst.
+All 649+ publications are open-access with permanent DOIs. No paywalls. No institutional access requirements. This is not just a philosophical commitment — it means my entire body of work is immediately verifiable by any hiring manager, technical interviewer, or due diligence analyst.
 
 ---
 
@@ -211,7 +211,7 @@ All 526+ publications are open-access with permanent DOIs. No paywalls. No insti
 
 | Title | DOI | Domain |
 |:------|:----|:-------|
-| Orchestrating the Quantum Future v1.0 | [10.5281/zenodo.17176733](https://doi.org/10.5281/zenodo.17176733) | Quantum |
+| Orchestrating the Quantum Future v1.0 | [10.5281/zenodo.21016993](https://doi.org/10.5281/zenodo.21016993) | Quantum |
 | The Adelic Qubit v1.1 | [10.5281/zenodo.21221823](https://doi.org/10.5281/zenodo.21221823) | Quantum |
 | The Scaffold-Lock Hypothesis | [10.5281/zenodo.21282108](https://doi.org/10.5281/zenodo.21282108) | Methodology |
 | The Conditional Advantage | [10.5281/zenodo.21304444](https://doi.org/10.5281/zenodo.21304444) | Methodology |
