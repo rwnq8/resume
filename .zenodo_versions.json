@@ -20,7 +20,7 @@
       "deposit_id": "21725453",
       "tag": "v3.3",
       "published_at": "2026-07-31",
-      "changes": "Deep expansion: added 4 new research program sections (Adelic Rate-Distortion Theory, JPCUB as a Leading Indicator, Computing After Silicon forecast 2026-2050, QWAV Commercial Platform Architecture v2.3). Updated professional summary, representative works, Impact Highlights. Added computing paradigm forecasting to skills matrix. First version with rendered 29-page PDF. 9 files including PROVENANCE-BUNDLE.zip."
+      "changes": "Deep expansion: added 4 new research program sections (Adelic Rate-Distortion Theory, JPCUB as a Leading Indicator, Computing After Silicon forecast 2026-2050, QWAV Commercial Platform Architecture v2.3). Updated professional summary, representative works, Impact Highlights. Added computing paradigm forecasting to skills matrix. First version with rendered 29-page PDF. 9 files including PROVENANCE-BUNDLE.zip. Post-publish red-team v4: 0 HARD, 1 SOFT (experience section synced to match expanded summary — 3→5 domains). Mojibake scan clean (8/8). 11/11 DOIs verified."
     }
   ]
 }

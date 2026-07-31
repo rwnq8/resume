@@ -45,7 +45,7 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 ### Principal Investigator & Founder
 **QWAV / QNFO** — Independent Research | 2024–Present
 
-**Research Output:** Published 649+ scholarly works spanning quantum computing architecture, AI/ML systems, signal processing, epistemic hygiene methodology, scaffold-invariant analysis, and cross-domain methodology — all open-access on Zenodo, ResearchGate, and SSRN. Recent output includes 9 papers in a single week (July 2026) on quantum foundations, structural formalism analysis, and the adelic qubit architecture.
+**Research Output:** Published 649+ scholarly works spanning quantum computing architecture, AI/ML systems, signal processing, epistemic hygiene methodology, scaffold-invariant analysis, and cross-domain methodology — all open-access on Zenodo, ResearchGate, and SSRN. Recent output includes 9 papers in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, the adelic qubit architecture, computing paradigm forecasting, and information theory.
 
 **Quantum Computing:** Published the quantitative case against dilution-refrigerated quantum architectures: ~50 μW of cooling at millikelvin versus ~1 W at 4 Kelvin — a 20,000× gap that fundamentally limits scalability. Published a complete 4-Kelvin topological processing roadmap using 45° twisted Bi-2212 superconductors (predicted thermal stability margin Γ ≈ 80). Designed Ultrametric Quantum Computing (UQC), embedding error suppression in the hardware geometry — potentially eliminating the 1,000:1 qubit overhead of conventional error correction. Proposed Quantum Resonance Computing (QRC), a field-based alternative paradigm. Published across 50+ documents. Patents developed.
 
