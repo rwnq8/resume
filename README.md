@@ -7,7 +7,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?logo=researchgate)](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowanquni/)
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
-![Resume Version](https://img.shields.io/badge/resume-v3.2-green)
+![Resume Version](https://img.shields.io/badge/resume-v3.3-green)
 
 ---
 
@@ -45,6 +45,8 @@
 **🏙️ Led the product that scores every neighborhood in America.** Product Manager for the AARP Livability Index: integrated 50+ data sources across 7 domains to score every U.S. neighborhood. Cited in 20+ academic and policy studies.
 
 **🤖 Founded an AI nonprofit. Built the product. Made national news.** Took Empowering Change from incorporation through public launch. Built an LLM-powered legal navigation platform. Featured in national media for pioneering AI-driven legal democratization.
+
+**📊 Built the quantitative framework that predicts computing's next paradigm shift.** Developed JPCUB — Joules per Computational Unit of Benefit — as a leading indicator retrospectively validated against 6 historical transitions (vacuum tubes through AI accelerators). Published a history-constrained forecast of computing machine evolution 2026–2050 assessing 7 post-silicon candidates with 12 dated, falsifiable predictions. The forecast independently identifies quantum error correction as the binding constraint — directly motivating QWAV's hardware-level error suppression architecture.
 
 ## Target Roles
 

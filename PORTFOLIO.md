@@ -76,7 +76,17 @@ This is not a grab-bag of papers — it is a coherent research program where for
 
 **Zenodo References:** *The Adelic Qubit* v1.0–v1.1 DOI series
 
-### 4. Prime-Attentive Neural Networks (PANNs)
+### 4. Adelic Rate-Distortion Theory — Completing the Shannon Foundation
+
+**The Problem:** Shannon's classical rate-distortion theory operates entirely in the real numbers, optimizing for Euclidean fidelity. But information in nature is encoded across all completions of the rational numbers — real and p-adic for every prime p — and a purely real-valued distortion measure misses structure that a p-adic measure would capture.
+
+**The Solution:** Completes the Adelic Shannon Theory foundation trilogy, generalizing rate-distortion theory to the adele ring — the simultaneous product of all completions of ℚ. Defines a p-adic distortion measure d_p(x,x̂) = p^{-v_p(x-x̂)} that penalizes information loss in ultrametric spaces differently than Euclidean loss. Proves the adelic Shannon lower bound: no adelic code can achieve below the information-theoretic minimum that respects all completions simultaneously. Establishes the Gaussian entropic number as the hardest source to compress across all completions. Computational verification with rate-distortion curves confirms the theoretical bounds.
+
+**Applications:** Directly informs quantum state compression protocols (UQC and Adelic Qubit both operate in p-adic/ultrametric spaces), neural network compression (PANNs use number-theoretic attention patterns), and any information-processing system where hierarchical structure matters.
+
+**Zenodo References:** *Adelic Rate-Distortion Theory* v1.1
+
+### 5. Prime-Attentive Neural Networks (PANNs)
 
 **The Problem:** Transformer architectures scale attention quadratically (O(n²)), creating fundamental computational bottlenecks. Biological neural systems achieve similar feats with architectures that look nothing like transformers.
 
@@ -89,11 +99,31 @@ The architecture draws on p-adic number theory — the same mathematical framewo
 
 **Zenodo References:** Prime-Attentive Neural Networks series, *Alpha Pi Project* monograph
 
-### 5. Quantum Resonance Computing (QRC)
+### 6. Quantum Resonance Computing (QRC)
 
 A field-based alternative quantum computing paradigm that treats computation as a resonant process in a structured field, rather than as gate operations on discrete qubits. QRC explores whether the gate model itself — treating computation as a sequence of discrete operations — is the wrong abstraction for quantum systems.
 
-### 6. Epistemic Hygiene & Scaffold-Invariant Analysis
+### 7. JPCUB — Leading Indicator of Computing Paradigm Shifts
+
+**The Problem:** Computing history is a sequence of substrate transitions — vacuum tubes → transistors → integrated circuits → multicore → GPU → TPU/AI accelerators — each triggered when the prior architecture exhausted a fundamental resource constraint. But how do you know when the next transition is imminent, and which candidate paradigm will win?
+
+**The JPCUB Solution:** JPCUB (Joules per Computational Unit of Benefit) measures the energy cost per unit of useful computation, normalized across architectures. When JPCUB plateaus for an incumbent, a paradigm shift becomes thermodynamically inevitable — the physics of energy dissipation forces a change regardless of market dynamics or institutional inertia. Retrospectively validated against all 6 historical transitions with measurable lead times. Prospectively applied to 7 post-silicon candidates — quantum computing, neuromorphic, optical, reversible, probabilistic, cryogenic CMOS, and heterogeneous convergence — with dated, falsifiable predictions registered for each.
+
+**Key finding:** The shift from vacuum tubes to transistors was not a lucky accident — it followed the same JPCUB plateau pattern that preceded every subsequent transition. This is a falsifiable, quantitative framework for predicting when computing will change and which direction it will take.
+
+**Zenodo References:** *JPCUB as a Leading Indicator of Computing Paradigm Shifts* v1.2
+
+### 8. Computing After Silicon — History-Constrained Forecast, 2026–2050
+
+**The Problem:** Post-silicon computing forecasting is dominated by vendor roadmaps (each company predicting its own technology will win) and academic wishcasting (each lab predicting its own approach will scale). What would a genuinely independent, evidence-grounded forecast look like?
+
+**The Solution:** Extends the JPCUB framework into a full history-constrained forecast of computing machine evolution from 2026 through 2050. Synthesizes paradigm-shift history through a cross-domain lens — physics (thermodynamic constraints), information theory (rate-distortion bounds), economics (cost-per-compute trends), and biology (evolutionary selection pressures on competing architectures). Assesses the same 7 post-silicon candidates and registers 12 dated, falsifiable predictions for 2030–2040 verification.
+
+**Central finding:** Heterogeneous convergence — no single paradigm will "win." AI accelerators, quantum co-processors, and probabilistic architectures will co-exist in a tiered compute fabric, with quantum error correction identified as the binding constraint on the quantum component. This independently validates QWAV's UQC architecture, which embeds error suppression in hardware geometry rather than relying on software-level error correction that the forecast projects will remain the bottleneck through 2040.
+
+**Zenodo References:** *Computing After Silicon* v1.0, *JPCUB as a Leading Indicator* v1.2
+
+### 9. Epistemic Hygiene & Scaffold-Invariant Analysis
 
 A methodological framework for evaluating claims across domains without being trapped by domain-specific notation or social proof. Key contributions:
 
@@ -104,7 +134,7 @@ A methodological framework for evaluating claims across domains without being tr
 
 **Zenodo References:** *The Scaffold-Lock Hypothesis*, *The Re-Entry Thesis*, *The Conditional Advantage*, *42 Theses on Pattern-Based Reality* v3.0
 
-### 7. Consilience Methodology — Cross-Domain Innovation
+### 10. Consilience Methodology — Cross-Domain Innovation
 
 A systematic framework for discovering structural isomorphisms across seemingly unrelated domains and translating them into novel research programs. Rather than relying on serendipitous analogies, the consilience methodology:
 
@@ -114,6 +144,18 @@ A systematic framework for discovering structural isomorphisms across seemingly 
 4. Produces novel research programs that no single domain would have generated on its own
 
 This methodology has produced research programs including: cardiac signal processing → quantum state readout (the Alpha Pi Project), ultrametric geometry → quantum error correction (UQC), and number theory → neural architecture (PANNs).
+
+---
+
+### 11. QWAV Commercial Platform Architecture
+
+**The Problem:** Quantum computing startups pitch separate hardware and software stacks with no unified commercial architecture showing how research outputs become product capabilities on a defined, externally verifiable timeline.
+
+**The Solution:** A strategic architecture whitepaper defining QWAV's full technology stack — from device physics through application layer — with a product roadmap anchored to independently verifiable milestones. The July 2026 v2.3 update cross-references the *Computing After Silicon* forecast (DOI 10.5281/zenodo.21713202), establishing the external falsification timeline against which QWAV's technology milestones can be independently tracked. The forecast identifies quantum error correction as the binding constraint on the post-silicon trajectory through 2040 — and QWAV's UQC architecture addresses this directly through hardware-level error suppression, bypassing the software-layer bottleneck entirely.
+
+**Key features:** Complete technology stack definition, independent external verification timeline via falsifiable forecast predictions, manufacturing-pathway specifications for 4-Kelvin topological processing, patent portfolio alignment.
+
+**Zenodo References:** *QWAV Commercial Platform Architecture* v2.3
 
 ---
 

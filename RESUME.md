@@ -8,7 +8,7 @@ rowan.quni@outlook.com | **ORCID:** [0009-0002-4317-5604](https://orcid.org/0009
 
 ## PROFESSIONAL SUMMARY
 
-I design architectures, build products, and publish research at the intersection of quantum computing, artificial intelligence, and large-scale systems. Over 20 years, I have: delivered national-scale platforms (AARP Livability Index); founded an AI nonprofit featured in national media (Empowering Change); and published the quantitative case that the quantum computing industry's current trajectory is a thermodynamic dead end. I bring 649+ publications, a patent portfolio, and a rigorous methodology for epistemic hygiene audits and cross-domain innovation — most recently, 9 papers published in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, and the adelic qubit architecture. I am seeking a VP, Director, or Research Partner role where I can set technical vision, build teams, and turn breakthrough ideas into market reality.
+I design architectures, build products, and publish research at the intersection of quantum computing, artificial intelligence, and large-scale systems. Over 20 years, I have: delivered national-scale platforms (AARP Livability Index); founded an AI nonprofit featured in national media (Empowering Change); and published the quantitative case that the quantum computing industry's current trajectory is a thermodynamic dead end. I bring 649+ publications, a patent portfolio, and a rigorous methodology for epistemic hygiene audits and cross-domain innovation — most recently, 9 papers published in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, the adelic qubit architecture, computing paradigm forecasting, and information theory. I am seeking a VP, Director, or Research Partner role where I can set technical vision, build teams, and turn breakthrough ideas into market reality.
 
 ---
 
@@ -120,6 +120,10 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
   - *The Thermodynamic Imperative* — Quantitative analysis of quantum scaling limits
   - *The Conditional Advantage* — Epistemic hygiene audit of quantum computational advantage claims
   - *The Re-Entry Thesis* — Structural invariance of self-referential paradoxes across disciplines
+  - *JPCUB as a Leading Indicator* — Quantitative computing paradigm-shift forecasting validated against 6 historical transitions (v1.2)
+  - *Computing After Silicon* — History-constrained forecast of computing machine evolution 2026–2050 with 12 falsifiable predictions
+  - *Adelic Rate-Distortion Theory* — Completes the Adelic Shannon Theory trilogy; generalizes rate-distortion to the adele ring (v1.1)
+  - *QWAV Commercial Platform Architecture v2.3* — Strategic whitepaper with external verification timeline
   - *42 Theses on Pattern-Based Reality* — Synthesis monograph (v3.0, July 2026)
   - *Alpha Pi Project* — 7-chapter monograph: cardiac signal processing → quantum architecture
   - *A General Theory of Process* — Cross-domain isomorphism framework
@@ -164,5 +168,5 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 
 - **Name History:** Formerly known professionally as Brad Gudzinas. All research since 2024 published under Rowan Brad Quni-Gudzinas.
 - **Location:** Open to remote, hybrid, or on-site. Willing to relocate.
-- **Resume DOI (canonical published version):** [10.5281/zenodo.21724536](https://doi.org/10.5281/zenodo.21724536)
-- **Download the full portfolio (source files + provenance bundle):** [Zenodo v3.2](https://doi.org/10.5281/zenodo.21724536)
+- **Resume DOI (canonical published version):** [10.5281/zenodo.21725453](https://doi.org/10.5281/zenodo.21725453)
+- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.3](https://doi.org/10.5281/zenodo.21725453)
