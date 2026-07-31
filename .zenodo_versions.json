@@ -1,6 +1,6 @@
 {
   "concept_doi": "10.5281/zenodo.17176733",
-  "latest_deposit_id": "21725453",
+  "latest_deposit_id": "21725614",
   "versions": [
     {
       "doi": "10.5281/zenodo.21311053",
@@ -20,7 +20,14 @@
       "deposit_id": "21725453",
       "tag": "v3.3",
       "published_at": "2026-07-31",
-      "changes": "Deep expansion: added 4 new research program sections (Adelic Rate-Distortion Theory, JPCUB as a Leading Indicator, Computing After Silicon forecast 2026-2050, QWAV Commercial Platform Architecture v2.3). Updated professional summary, representative works, Impact Highlights. Added computing paradigm forecasting to skills matrix. First version with rendered 29-page PDF. 9 files including PROVENANCE-BUNDLE.zip. Post-publish red-team v4: 0 HARD, 1 SOFT (experience section synced to match expanded summary — 3→5 domains). Mojibake scan clean (8/8). 11/11 DOIs verified."
+      "changes": "Deep expansion: added 4 new research program sections. Updated professional summary, representative works, Impact Highlights. First PDF (29 pp, 9-file deposit). Post-publish red-team v4: 0 HARD, 1 SOFT (experience section sync). Mojibake scan clean (8/8). 11/11 DOIs verified."
+    },
+    {
+      "doi": "10.5281/zenodo.21725614",
+      "deposit_id": "21725614",
+      "tag": "v3.4",
+      "published_at": "2026-07-31",
+      "changes": "MOJIBAKE REMEDIATION: v3.3 PDF had 275 U+FFFF glyph-miss errors (box-drawing chars, emojis, combining diacritics). Root cause: xelatex text font can't render Unicode outside math mode. Fix: added build-resume-pdf.py preprocessor stripping all non-font chars, added fontspec/xunicode/textcomp packages. Rebuilt PDF: 29 pages, ZERO rendering errors (verified PyMuPDF). Added build-resume-pdf.py to repo for future builds."
     }
   ]
 }

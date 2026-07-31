@@ -7,7 +7,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?logo=researchgate)](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowanquni/)
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
-![Resume Version](https://img.shields.io/badge/resume-v3.3-green)
+![Resume Version](https://img.shields.io/badge/resume-v3.4-green)
 
 ---
 
