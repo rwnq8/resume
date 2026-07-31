@@ -211,19 +211,23 @@ All 526+ publications are open-access with permanent DOIs. No paywalls. No insti
 
 | Title | DOI | Domain |
 |:------|:----|:-------|
-| Orchestrating the Quantum Future v1.0 | 10.5281/zenodo.17176733 (concept) | Quantum |
-| The Adelic Qubit v1.1 | QNFO/adelic-shannon-theory | Quantum |
-| The Scaffold-Lock Hypothesis | (Zenodo) | Methodology |
-| The Conditional Advantage | (Zenodo) | Methodology |
-| The Re-Entry Thesis | (Zenodo) | Methodology |
-| 42 Theses on Pattern-Based Reality v2.0 | (Zenodo) | Synthesis |
-| JPCUB as a Leading Indicator | 10.5281/zenodo.21716180 | Computing |
-| Computing After Silicon | 10.5281/zenodo.21713202 | Computing |
-| Adelic Rate-Distortion Theory | 10.5281/zenodo.21710936 | Information Theory |
-| QWAV Commercial Platform Architecture v2.3 | 10.5281/zenodo.21713222 | Systems |
+| Orchestrating the Quantum Future v1.0 | [10.5281/zenodo.17176733](https://doi.org/10.5281/zenodo.17176733) | Quantum |
+| The Adelic Qubit v1.1 | [10.5281/zenodo.21221823](https://doi.org/10.5281/zenodo.21221823) | Quantum |
+| The Scaffold-Lock Hypothesis | [10.5281/zenodo.21282108](https://doi.org/10.5281/zenodo.21282108) | Methodology |
+| The Conditional Advantage | [10.5281/zenodo.21304444](https://doi.org/10.5281/zenodo.21304444) | Methodology |
+| The Re-Entry Thesis | [10.5281/zenodo.21254993](https://doi.org/10.5281/zenodo.21254993) | Methodology |
+| 42 Theses on Pattern-Based Reality v3.0 | [10.5281/zenodo.21389470](https://doi.org/10.5281/zenodo.21389470) | Synthesis |
+| JPCUB as a Leading Indicator | [10.5281/zenodo.21716180](https://doi.org/10.5281/zenodo.21716180) | Computing |
+| Computing After Silicon | [10.5281/zenodo.21713202](https://doi.org/10.5281/zenodo.21713202) | Computing |
+| Adelic Rate-Distortion Theory | [10.5281/zenodo.21710936](https://doi.org/10.5281/zenodo.21710936) | Information Theory |
+| QWAV Commercial Platform Architecture v2.3 | [10.5281/zenodo.21713222](https://doi.org/10.5281/zenodo.21713222) | Systems |
 
-*For the complete publication list, visit [Zenodo](https://zenodo.org/search?q=Quni-Gudzinas&sort=mostrecent) or [ResearchGate](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas).*
+*All DOIs resolve to open-access publications on Zenodo. For the complete publication list, visit [Zenodo](https://zenodo.org/search?q=Quni-Gudzinas&sort=mostrecent) or [ResearchGate](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas).*
 
 ---
 
 *This portfolio synthesizes work published under Rowan Brad Quni-Gudzinas (2024–present) and earlier professional work. All research publications are open-access on Zenodo.*
+
+---
+
+**Contact:** rowan.quni@outlook.com | [ORCID](https://orcid.org/0009-0002-4317-5604) | [ResearchGate](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas) | [LinkedIn](https://www.linkedin.com/in/rowanquni/) | [Zenodo](https://zenodo.org/search?q=Quni-Gudzinas) | [GitHub](https://github.com/QNFO/resume)

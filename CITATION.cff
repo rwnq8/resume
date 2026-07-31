@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this portfolio content, please cite it as below."
+authors:
+  - family-names: Quni-Gudzinas
+    given-names: Rowan Brad
+    orcid: https://orcid.org/0009-0002-4317-5604
+title: "Rowan Brad Quni-Gudzinas — Research & Technology Leader Portfolio"
+version: 3.1
+doi: 10.5281/zenodo.21311053
+date-released: 2026-07-31
+url: https://github.com/QNFO/resume

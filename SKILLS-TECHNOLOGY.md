@@ -132,3 +132,7 @@ This document maps my expertise across technology domains with concrete evidence
 ---
 
 *Evidence for all claims is publicly verifiable through published works on Zenodo and ResearchGate.*
+
+---
+
+**Contact:** rowan.quni@outlook.com | [ORCID](https://orcid.org/0009-0002-4317-5604) | [ResearchGate](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas) | [LinkedIn](https://www.linkedin.com/in/rowanquni/) | [Zenodo](https://zenodo.org/search?q=Quni-Gudzinas)

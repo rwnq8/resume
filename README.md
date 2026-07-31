@@ -5,6 +5,8 @@
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4317--5604-a6ce39?logo=orcid)](https://orcid.org/0009-0002-4317-5604)
 [![Zenodo](https://img.shields.io/badge/Zenodo-526%2B%20publications-blue?logo=zenodo)](https://zenodo.org/search?q=Quni-Gudzinas)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?logo=researchgate)](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowanquni/)
+[![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
 ![Resume Version](https://img.shields.io/badge/resume-v3.1-green)
 
 ---
@@ -68,4 +70,4 @@ I am seeking a **VP, Director, or Research Partner** role where I can set techni
 
 ---
 
-*© Rowan Brad Quni-Gudzinas. All rights reserved. Portfolio content derived from open-access publications on Zenodo.*
+*© Rowan Brad Quni-Gudzinas. Licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/). Portfolio content derived from open-access publications on Zenodo.*
