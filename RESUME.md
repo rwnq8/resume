@@ -124,6 +124,7 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
   - *Computing After Silicon* — History-constrained forecast of computing machine evolution 2026–2050 with 12 falsifiable predictions
   - *Adelic Rate-Distortion Theory* — Completes the Adelic Shannon Theory trilogy; generalizes rate-distortion to the adele ring (v1.1)
   - *QWAV Commercial Platform Architecture v2.3* — Strategic whitepaper with external verification timeline
+  - *Adelic Cross-Domain Program* — Bruhat-Tits trees unify RG flow, bosonic QEC, AdS/CFT, Efimov physics, SM mass ratios (v3.1)
   - *42 Theses on Pattern-Based Reality* — Synthesis monograph (v3.0, July 2026)
   - *Alpha Pi Project* — 7-chapter monograph: cardiac signal processing → quantum architecture
   - *A General Theory of Process* — Cross-domain isomorphism framework
@@ -168,5 +169,5 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 
 - **Name History:** Formerly known professionally as Brad Gudzinas. All research since 2024 published under Rowan Brad Quni-Gudzinas.
 - **Location:** Open to remote, hybrid, or on-site. Willing to relocate.
-- **Resume DOI (canonical published version):** [10.5281/zenodo.21725614](https://doi.org/10.5281/zenodo.21725614)
-- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.4](https://doi.org/10.5281/zenodo.21725614)
+- **Resume DOI (canonical published version):** [10.5281/zenodo.21725973](https://doi.org/10.5281/zenodo.21725973)
+- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.5](https://doi.org/10.5281/zenodo.21725973)

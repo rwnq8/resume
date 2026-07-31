@@ -1,6 +1,6 @@
 {
   "concept_doi": "10.5281/zenodo.17176733",
-  "latest_deposit_id": "21725614",
+  "latest_deposit_id": "21725996",
   "versions": [
     {
       "doi": "10.5281/zenodo.21311053",
@@ -28,6 +28,12 @@
       "tag": "v3.4",
       "published_at": "2026-07-31",
       "changes": "MOJIBAKE REMEDIATION: v3.3 PDF had 275 U+FFFF glyph-miss errors (box-drawing chars, emojis, combining diacritics). Root cause: xelatex text font can't render Unicode outside math mode. Fix: added build-resume-pdf.py preprocessor stripping all non-font chars, added fontspec/xunicode/textcomp packages. Rebuilt PDF: 29 pages, ZERO rendering errors (verified PyMuPDF). Added build-resume-pdf.py to repo for future builds."
+    {
+      "doi": "10.5281/zenodo.21725973",
+      "deposit_id": "21725973",
+      "tag": "v3.5",
+      "published_at": "2026-07-31",
+      "changes": "Adelic Cross-Domain Program added: new PORTFOLIO section 12 (Bruhat-Tits trees, SM mass ratios 2^a·3^b·5^c, bosonic QEC fixed points, Efimov effect), DOI table expanded to 11 entries, representative works updated. Clean 30-page PDF (PyMuPDF 0 errors). 9-file Zenodo deposit."
     }
   ]
 }

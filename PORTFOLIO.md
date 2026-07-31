@@ -157,6 +157,22 @@ This methodology has produced research programs including: cardiac signal proces
 
 **Zenodo References:** *QWAV Commercial Platform Architecture* v2.3
 
+### 12. Adelic Cross-Domain Program — Bruhat-Tits Trees and the Standard Model
+
+**The Problem:** The renormalization group, quantum error correction, holographic AdS/CFT duality, Efimov physics, and the Standard Model mass spectrum appear to be unrelated phenomena — different theories in different domains using different mathematics. But what if they share a single geometric substrate?
+
+**The Solution:** A six-avenue unified synthesis revealing that ALL of these phenomena share a common geometric structure: the Bruhat-Tits tree of p-adic numbers — a regular infinite tree encoding the ultrametric completions of the rational numbers. The Bruhat-Tits tree is not a metaphor — it is the actual mathematical object on which RG flow lines are geodesics, bosonic QEC codes (cat, GKP, binomial) are fixed points, and AdS/CFT is a special case of p-adic holography.
+
+**Key results:**
+- **All Standard Model mass ratios are Pythagorean:** every SM mass ratio can be expressed as 2^a · 3^b · 5^c to within ~1% — a structural constraint emerging from the Bruhat-Tits geometry, not a parameter fit.
+- **Bosonic QEC codes as tree fixed points:** Cat, GKP, and binomial codes correspond to vertices at specific depths on the Bruhat-Tits tree — error correction performance is determined by tree level.
+- **The Efimov effect is the three-body manifestation of adelic structure:** The infinite tower of three-body bound states emerges from the same p-adic hierarchical structure that organizes QEC codes and mass ratios.
+- **π is NOT an idèle:** The transcendental field-crossing character of π is a structural necessity — it cannot be embedded in the adele ring as an idèle, which is why RG flows cross completion boundaries rather than staying within a single p-adic field.
+
+**v3.1 published July 2026; v3.2 corrections in progress (errata for arithmetic verification).**
+
+**Zenodo References:** *Adelic Cross-Domain Program* v3.1 (DOI 10.5281/zenodo.21539547)
+
 ---
 
 ## Product & Platform Leadership
@@ -263,6 +279,7 @@ All 649+ publications are open-access with permanent DOIs. No paywalls. No insti
 | Computing After Silicon | [10.5281/zenodo.21713202](https://doi.org/10.5281/zenodo.21713202) | Computing |
 | Adelic Rate-Distortion Theory | [10.5281/zenodo.21710936](https://doi.org/10.5281/zenodo.21710936) | Information Theory |
 | QWAV Commercial Platform Architecture v2.3 | [10.5281/zenodo.21713222](https://doi.org/10.5281/zenodo.21713222) | Systems |
+| Adelic Cross-Domain Program v3.1 | [10.5281/zenodo.21539547](https://doi.org/10.5281/zenodo.21539547) | Cross-Domain |
 
 *All DOIs resolve to open-access publications on Zenodo. For the complete publication list, visit [Zenodo](https://zenodo.org/search?q=Quni-Gudzinas&sort=mostrecent) or [ResearchGate](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas).*
 
