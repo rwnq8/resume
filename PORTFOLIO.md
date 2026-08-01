@@ -168,7 +168,7 @@ This methodology has produced research programs including: cardiac signal proces
 - **The Efimov effect is the three-body manifestation of adelic structure:** The infinite tower of three-body bound states emerges from the same p-adic hierarchical structure that organizes QEC codes.
 - **π is NOT an idèle:** The transcendental field-crossing character of π is a structural necessity — it cannot be embedded in the adele ring as an idèle, which is why RG flows cross completion boundaries rather than staying within a single p-adic field.
 
-**v3.1 published July 2026; v3.3 corrections complete (August 2026 — Pythagorean mass ratio claim retracted).**
+**v3.1 published July 2026; v3.3 corrections complete (August 2026).**
 
 **Zenodo References:** *Adelic Cross-Domain Program* v3.1 (DOI 10.5281/zenodo.21539547)
 
