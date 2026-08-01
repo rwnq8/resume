@@ -40,7 +40,7 @@ def preprocess(source_dir, output_md):
     combined = f"""---
 title: "Rowan Brad Quni-Gudzinas — Research & Technology Leader Portfolio"
 author: "Rowan Brad Quni-Gudzinas"
-date: "July 31, 2026"
+date: "August 1, 2026"
 geometry: margin=1in
 documentclass: article
 classoption: 11pt

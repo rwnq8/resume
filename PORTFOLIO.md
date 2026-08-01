@@ -164,9 +164,8 @@ This methodology has produced research programs including: cardiac signal proces
 **The Solution:** A six-avenue unified synthesis revealing that ALL of these phenomena share a common geometric structure: the Bruhat-Tits tree of p-adic numbers — a regular infinite tree encoding the ultrametric completions of the rational numbers. The Bruhat-Tits tree is not a metaphor — it is the actual mathematical object on which RG flow lines are geodesics, bosonic QEC codes (cat, GKP, binomial) are fixed points, and AdS/CFT is a special case of p-adic holography.
 
 **Key results:**
-- **All Standard Model mass ratios are Pythagorean:** every SM mass ratio can be expressed as 2^a · 3^b · 5^c to within ~1% — a structural constraint emerging from the Bruhat-Tits geometry, not a parameter fit.
 - **Bosonic QEC codes as tree fixed points:** Cat, GKP, and binomial codes correspond to vertices at specific depths on the Bruhat-Tits tree — error correction performance is determined by tree level.
-- **The Efimov effect is the three-body manifestation of adelic structure:** The infinite tower of three-body bound states emerges from the same p-adic hierarchical structure that organizes QEC codes and mass ratios.
+- **The Efimov effect is the three-body manifestation of adelic structure:** The infinite tower of three-body bound states emerges from the same p-adic hierarchical structure that organizes QEC codes.
 - **π is NOT an idèle:** The transcendental field-crossing character of π is a structural necessity — it cannot be embedded in the adele ring as an idèle, which is why RG flows cross completion boundaries rather than staying within a single p-adic field.
 
 **v3.1 published July 2026; v3.2 corrections in progress (errata for arithmetic verification).**
