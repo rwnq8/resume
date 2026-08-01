@@ -42,6 +42,13 @@
       "tag": "v3.6",
       "published_at": "2026-08-01",
       "changes": "RETRACTION: removed false Pythagorean SM mass ratio claim (2^a·3^b·5^c to ~1%) from PORTFOLIO §12 and RESUME. Corrected Efimov bullet to remove contaminated mass ratio reference. Bumped version 3.5→3.6. Rebuilt PDF (30 pp, 0 rendering errors). Zenodo description updated."
+    },
+    {
+      "doi": "10.5281/zenodo.21736614",
+      "deposit_id": "21736614",
+      "tag": "v3.7",
+      "published_at": "2026-08-01",
+      "changes": "Red-team audit: removed false Pythagorean SM mass ratio claim + fixed 18 overstatements. PDF rebuilt: 30 pp, zero errors."
     }
   ]
 }
