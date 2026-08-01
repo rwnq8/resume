@@ -14,7 +14,7 @@ I design architectures, build products, and publish research at the intersection
 
 ## IMPACT HIGHLIGHTS
 
-### Demonstrated quantitatively that the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.
+### Published quantitative analysis showing that the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.
 
 Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a complete roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors. Patents developed.
 
@@ -22,9 +22,9 @@ Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. C
 
 Ultrametric Quantum Computing (UQC) uses a discrete hierarchical geometry where the mathematics itself prevents small errors from accumulating — in contrast to standard architectures that can require on the order of **1,000 physical qubits per logical qubit** for software-level error correction. UQC embeds suppression in the hardware, potentially eliminating this overhead. Published across 50+ documents. Patents developed.
 
-### Led the product that scores every neighborhood in America.
+### Led the product that scores neighborhoods across America.
 
-Product Manager for the AARP Livability Index: integrated **50+ data sources across 7 domains** to score every U.S. neighborhood. Full product lifecycle ownership across multiple releases. Platform and methodology cited in **20+ academic and policy studies**. Used nationwide to guide municipal planning, grant allocation, and age-friendly policy.
+Product Manager for the AARP Livability Index: integrated **50+ data sources across 7 domains** to score U.S. neighborhoods nationwide. Full product lifecycle ownership across multiple releases. Platform and methodology cited in **20+ academic and policy studies**. Used nationwide to guide municipal planning, grant allocation, and age-friendly policy.
 
 ### Founded an AI nonprofit. Built the product. Made national news.
 
@@ -63,7 +63,7 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 ### Product Manager & Senior Methods Advisor
 **AARP Public Policy Institute** | Washington, DC | 2016–2021
 
-- **Led the AARP Livability Index** — a national platform integrating 50+ distinct data sources across 7 domains to score every U.S. neighborhood. Owned the full product lifecycle from strategy through multiple public releases.
+- **Led the AARP Livability Index** — a national platform integrating 50+ distinct data sources across 7 domains to score U.S. neighborhoods nationwide. Owned the full product lifecycle from strategy through multiple public releases.
 - **Generated measurable policy influence.** Platform and methodology cited in 20+ academic and policy studies. Used nationwide to inform municipal planning, community development grant allocation, and age-friendly policy.
 - **Co-authored the Livability Index 2018 report** and multiple AARP policy briefs on housing affordability, transportation access, and age-friendly community development.
 - **Managed complex multi-stakeholder relationships** spanning federal agencies, state and local governments, academic partners, advocacy organizations, and internal AARP divisions.
@@ -120,9 +120,9 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
   - *The Thermodynamic Imperative* — Quantitative analysis of quantum scaling limits
   - *The Conditional Advantage* — Epistemic hygiene audit of quantum computational advantage claims
   - *The Re-Entry Thesis* — Structural invariance of self-referential paradoxes across disciplines
-  - *JPCUB as a Leading Indicator* — Quantitative computing paradigm-shift forecasting validated against 6 historical transitions (v1.2)
+  - *JPCUB as a Leading Indicator* — Quantitative computing paradigm-shift forecasting aligned with 6 historical transitions (v1.2)
   - *Computing After Silicon* — History-constrained forecast of computing machine evolution 2026–2050 with 12 falsifiable predictions
-  - *Adelic Rate-Distortion Theory* — Completes the Adelic Shannon Theory trilogy; generalizes rate-distortion to the adele ring (v1.1)
+  - *Adelic Rate-Distortion Theory* — Extends the Adelic Shannon Theory framework; generalizes rate-distortion to the adele ring (v1.1)
   - *QWAV Commercial Platform Architecture v2.3* — Strategic whitepaper with external verification timeline
   - *Adelic Cross-Domain Program* — Bruhat-Tits trees unify RG flow, bosonic QEC, AdS/CFT, Efimov physics (v3.1)
   - *42 Theses on Pattern-Based Reality* — Synthesis monograph (v3.0, July 2026)

@@ -38,15 +38,15 @@
 
 ## Impact Highlights
 
-**🔬 Demonstrated quantitatively that the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.** Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a complete roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors.
+**🔬 Published quantitative analysis showing the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.** Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a complete roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors.
 
 **⚛️ Designed quantum hardware where fault tolerance is a property of the geometry, not a software protocol.** Ultrametric Quantum Computing (UQC) uses a discrete hierarchical geometry where the mathematics itself prevents small errors from accumulating — potentially eliminating the ~1,000:1 physical-to-logical qubit overhead of conventional error correction.
 
-**🏙️ Led the product that scores every neighborhood in America.** Product Manager for the AARP Livability Index: integrated 50+ data sources across 7 domains to score every U.S. neighborhood. Cited in 20+ academic and policy studies.
+**🏙️ Led the product that scores neighborhoods across America.** Product Manager for the AARP Livability Index: integrated 50+ data sources across 7 domains to score U.S. neighborhoods nationwide. Cited in 20+ academic and policy studies.
 
 **🤖 Founded an AI nonprofit. Built the product. Made national news.** Took Empowering Change from incorporation through public launch. Built an LLM-powered legal navigation platform. Featured in national media for pioneering AI-driven legal democratization.
 
-**📊 Built the quantitative framework that predicts computing's next paradigm shift.** Developed JPCUB — Joules per Computational Unit of Benefit — as a leading indicator retrospectively validated against 6 historical transitions (vacuum tubes through AI accelerators). Published a history-constrained forecast of computing machine evolution 2026–2050 assessing 7 post-silicon candidates with 12 dated, falsifiable predictions. The forecast independently identifies quantum error correction as the binding constraint — directly motivating QWAV's hardware-level error suppression architecture.
+**📊 Built the quantitative framework that foreshadows computing's next paradigm shift.** Developed JPCUB — Joules per Computational Unit of Benefit — as a leading indicator retrospectively aligned with 6 historical transitions (vacuum tubes through AI accelerators). Published a history-constrained forecast of computing machine evolution 2026–2050 assessing 7 post-silicon candidates with 12 dated, falsifiable predictions. The forecast identifies quantum error correction as the binding constraint — directly motivating QWAV's hardware-level error suppression architecture.
 
 ## Target Roles
 

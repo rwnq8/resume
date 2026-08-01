@@ -45,7 +45,7 @@ This is not a grab-bag of papers — it is a coherent research program where for
 
 ### 2. The Thermodynamic Imperative — 4-Kelvin Quantum Roadmap
 
-**The Argument:** I published the first quantitative, system-level analysis showing that the quantum computing industry's reliance on dilution refrigeration is a thermodynamic scaling dead end. The analysis is simple but inescapable:
+**The Argument:** I published a quantitative, system-level analysis arguing that the quantum computing industry's reliance on dilution refrigeration faces a thermodynamic scaling barrier. The analysis is simple but inescapable:
 
 | Metric | Dilution Refrigerator | Commercial Cryocooler | Ratio |
 |:-------|:----------------------|:----------------------|:------|
@@ -66,13 +66,13 @@ This is not a grab-bag of papers — it is a coherent research program where for
 
 **The Problem:** Quantum architectures remain trapped in an "aesthetic formalism" where designs are mathematically elegant but lack a clear path to fabrication. They specify operations on abstract Hilbert spaces without addressing the physical instantiation problem.
 
-**The Solution:** The Adelic Qubit is a complete hardware/software architecture specification where every mathematical abstraction has a direct physical counterpart. The "adelic" framework unifies information across all completions of the rational numbers (real, p-adic for every prime p) — a mathematical structure that naturally encodes the hierarchical, multi-scale nature of quantum systems.
+**The Solution:** The Adelic Qubit is a hardware/software architecture specification where mathematical abstractions correspond to physical counterparts. The "adelic" framework unifies information across all completions of the rational numbers (real, p-adic for every prime p) — a mathematical structure that naturally encodes the hierarchical, multi-scale nature of quantum systems.
 
 **Key features:**
-- Complete specification from device physics through application layer
+- Specification from device physics through application layer
 - Manufacturable using existing semiconductor fabrication techniques
 - Software stack designed for compiler optimization, not manually coded gates
-- Architecture validated against quantum advantage benchmarking frameworks
+- Architecture designed with reference to quantum advantage benchmarking frameworks
 
 **Zenodo References:** *The Adelic Qubit* v1.0–v1.1 DOI series
 
@@ -80,7 +80,7 @@ This is not a grab-bag of papers — it is a coherent research program where for
 
 **The Problem:** Shannon's classical rate-distortion theory operates entirely in the real numbers, optimizing for Euclidean fidelity. But information in nature is encoded across all completions of the rational numbers — real and p-adic for every prime p — and a purely real-valued distortion measure misses structure that a p-adic measure would capture.
 
-**The Solution:** Completes the Adelic Shannon Theory foundation trilogy, generalizing rate-distortion theory to the adele ring — the simultaneous product of all completions of ℚ. Defines a p-adic distortion measure d_p(x,x̂) = p^{-v_p(x-x̂)} that penalizes information loss in ultrametric spaces differently than Euclidean loss. Proves the adelic Shannon lower bound: no adelic code can achieve below the information-theoretic minimum that respects all completions simultaneously. Establishes the Gaussian entropic number as the hardest source to compress across all completions. Computational verification with rate-distortion curves confirms the theoretical bounds.
+**The Solution:** Extends the Adelic Shannon Theory framework, generalizing rate-distortion theory to the adele ring — the simultaneous product of all completions of ℚ. Defines a p-adic distortion measure d_p(x,x̂) = p^{-v_p(x-x̂)} that penalizes information loss in ultrametric spaces differently than Euclidean loss. Proves the adelic Shannon lower bound: no adelic code can achieve below the information-theoretic minimum that respects all completions simultaneously. Establishes the Gaussian entropic number as the hardest source to compress across all completions. Computational verification with rate-distortion curves confirms the theoretical bounds.
 
 **Applications:** Directly informs quantum state compression protocols (UQC and Adelic Qubit both operate in p-adic/ultrametric spaces), neural network compression (PANNs use number-theoretic attention patterns), and any information-processing system where hierarchical structure matters.
 
@@ -107,7 +107,7 @@ A field-based alternative quantum computing paradigm that treats computation as 
 
 **The Problem:** Computing history is a sequence of substrate transitions — vacuum tubes → transistors → integrated circuits → multicore → GPU → TPU/AI accelerators — each triggered when the prior architecture exhausted a fundamental resource constraint. But how do you know when the next transition is imminent, and which candidate paradigm will win?
 
-**The JPCUB Solution:** JPCUB (Joules per Computational Unit of Benefit) measures the energy cost per unit of useful computation, normalized across architectures. When JPCUB plateaus for an incumbent, a paradigm shift becomes thermodynamically inevitable — the physics of energy dissipation forces a change regardless of market dynamics or institutional inertia. Retrospectively validated against all 6 historical transitions with measurable lead times. Prospectively applied to 7 post-silicon candidates — quantum computing, neuromorphic, optical, reversible, probabilistic, cryogenic CMOS, and heterogeneous convergence — with dated, falsifiable predictions registered for each.
+**The JPCUB Solution:** JPCUB (Joules per Computational Unit of Benefit) measures the energy cost per unit of useful computation, normalized across architectures. When JPCUB plateaus for an incumbent, a paradigm shift becomes thermodynamically favored — the physics of energy dissipation forces a change regardless of market dynamics or institutional inertia. Retrospectively aligned with all 6 historical transitions with measurable lead times. Prospectively applied to 7 post-silicon candidates — quantum computing, neuromorphic, optical, reversible, probabilistic, cryogenic CMOS, and heterogeneous convergence — with dated, falsifiable predictions registered for each.
 
 **Key finding:** The shift from vacuum tubes to transistors was not a lucky accident — it followed the same JPCUB plateau pattern that preceded every subsequent transition. This is a falsifiable, quantitative framework for predicting when computing will change and which direction it will take.
 
@@ -119,7 +119,7 @@ A field-based alternative quantum computing paradigm that treats computation as 
 
 **The Solution:** Extends the JPCUB framework into a full history-constrained forecast of computing machine evolution from 2026 through 2050. Synthesizes paradigm-shift history through a cross-domain lens — physics (thermodynamic constraints), information theory (rate-distortion bounds), economics (cost-per-compute trends), and biology (evolutionary selection pressures on competing architectures). Assesses the same 7 post-silicon candidates and registers 12 dated, falsifiable predictions for 2030–2040 verification.
 
-**Central finding:** Heterogeneous convergence — no single paradigm will "win." AI accelerators, quantum co-processors, and probabilistic architectures will co-exist in a tiered compute fabric, with quantum error correction identified as the binding constraint on the quantum component. This independently validates QWAV's UQC architecture, which embeds error suppression in hardware geometry rather than relying on software-level error correction that the forecast projects will remain the bottleneck through 2040.
+**Central finding:** Heterogeneous convergence — no single paradigm will "win." AI accelerators, quantum co-processors, and probabilistic architectures will co-exist in a tiered compute fabric, with quantum error correction identified as the binding constraint on the quantum component. This converges with QWAV's UQC architecture, which embeds error suppression in hardware geometry rather than relying on software-level error correction that the forecast projects will remain the bottleneck through 2040.
 
 **Zenodo References:** *Computing After Silicon* v1.0, *JPCUB as a Leading Indicator* v1.2
 
@@ -127,7 +127,7 @@ A field-based alternative quantum computing paradigm that treats computation as 
 
 A methodological framework for evaluating claims across domains without being trapped by domain-specific notation or social proof. Key contributions:
 
-- **The Scaffold-Lock Hypothesis:** Demonstrates how notational and formal choices (the "scaffolding") in one domain systematically marginalize structurally identical insights from other domains
+- **The Scaffold-Lock Hypothesis:** Argues that notational and formal choices (the "scaffolding") in one domain systematically marginalize structurally identical insights from other domains
 - **The Re-Entry Thesis:** Shows that self-referential paradoxes (Liar paradox, Gödel incompleteness, Russell's paradox, measurement problem) share a common structural invariant — re-entry of a system's output into its input — and that recognizing this invariant dissolves apparent conflicts
 - **The Conditional Advantage:** A systematic epistemic hygiene audit of quantum computational advantage claims, distinguishing genuine physical speedup from aspirational forecasting, benchmark cherry-picking, and classical-algorithm straw-manning
 - **42 Theses on Pattern-Based Reality:** A synthesis monograph connecting pattern-first ontology across physics, computation, biology, and social systems
@@ -161,7 +161,7 @@ This methodology has produced research programs including: cardiac signal proces
 
 **The Problem:** The renormalization group, quantum error correction, holographic AdS/CFT duality, Efimov physics, and the Standard Model mass spectrum appear to be unrelated phenomena — different theories in different domains using different mathematics. But what if they share a single geometric substrate?
 
-**The Solution:** A six-avenue unified synthesis revealing that ALL of these phenomena share a common geometric structure: the Bruhat-Tits tree of p-adic numbers — a regular infinite tree encoding the ultrametric completions of the rational numbers. The Bruhat-Tits tree is not a metaphor — it is the actual mathematical object on which RG flow lines are geodesics, bosonic QEC codes (cat, GKP, binomial) are fixed points, and AdS/CFT is a special case of p-adic holography.
+**The Solution:** A six-avenue unified synthesis revealing that these phenomena share a common geometric structure: the Bruhat-Tits tree of p-adic numbers — a regular infinite tree encoding the ultrametric completions of the rational numbers. The Bruhat-Tits tree is not a metaphor — it is the actual mathematical object on which RG flow lines are geodesics, bosonic QEC codes (cat, GKP, binomial) are fixed points, and AdS/CFT is a special case of p-adic holography.
 
 **Key results:**
 - **Bosonic QEC codes as tree fixed points:** Cat, GKP, and binomial codes correspond to vertices at specific depths on the Bruhat-Tits tree — error correction performance is determined by tree level.
@@ -178,7 +178,7 @@ This methodology has produced research programs including: cardiac signal proces
 
 ### AARP Livability Index
 
-The Livability Index is a national-scale platform that scores every neighborhood and community in the United States across seven categories of livability: housing, neighborhood, transportation, environment, health, engagement, and opportunity.
+The Livability Index is a national-scale platform that scores neighborhoods and communities across the United States across seven categories of livability: housing, neighborhood, transportation, environment, health, engagement, and opportunity.
 
 **My role:** Product Manager and Senior Methods Advisor. Full product lifecycle ownership across multiple public releases.
 
@@ -234,7 +234,7 @@ Led key technical components of the national Tour-Based Model System, a large-sc
 ### Zenodo Statistics (All Publications)
 
 - **Total publications:** 649+ (live Zenodo search count as of July 2026)
-- **Cumulative unique views:** 14,000+
+- **Cumulative views:** 14,000+
 - **Cumulative unique downloads:** 169+
 - **Most viewed paper:** Resume (14,000+ views, accumulated across all versions)
 

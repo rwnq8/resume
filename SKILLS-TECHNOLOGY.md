@@ -87,7 +87,7 @@ This document maps my expertise across technology domains with concrete evidence
 | Epistemic hygiene auditing | Expert | Published methodology: *The Conditional Advantage*, Scaffold-Lock Hypothesis |
 | Scaffold-invariant decomposition | Expert | *The Scaffold-Lock Hypothesis* — systematic method for identifying notation-induced blind spots |
 | Consilience discovery | Expert | Framework for generating cross-domain research programs from structural isomorphisms |
-| Computing paradigm forecasting | Expert | JPCUB framework retrospectively validated against 6 historical transitions; 12 prospective predictions registered |
+| Computing paradigm forecasting | Expert | JPCUB framework retrospectively aligned with 6 historical transitions; 12 prospective predictions registered |
 | History-constrained forecasting | Expert | *Computing After Silicon* — cross-domain synthesis (physics + information theory + economics + biology) |
 
 ---
