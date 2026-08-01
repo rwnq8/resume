@@ -1,6 +1,6 @@
 {
   "concept_doi": "10.5281/zenodo.17176733",
-  "latest_deposit_id": "21725996",
+  "latest_deposit_id": "21736614",
   "versions": [
     {
       "doi": "10.5281/zenodo.21311053",
@@ -35,6 +35,13 @@
       "tag": "v3.5",
       "published_at": "2026-07-31",
       "changes": "Adelic Cross-Domain Program added: new PORTFOLIO section 12 (Bruhat-Tits trees, bosonic QEC fixed points, Efimov effect), DOI table expanded to 11 entries, representative works updated. Clean 30-page PDF (PyMuPDF 0 errors). 9-file Zenodo deposit."
+    },
+    {
+      "doi": "10.5281/zenodo.21736614",
+      "deposit_id": "21736614",
+      "tag": "v3.6",
+      "published_at": "2026-08-01",
+      "changes": "RETRACTION: removed false Pythagorean SM mass ratio claim (2^a·3^b·5^c to ~1%) from PORTFOLIO §12 and RESUME. Corrected Efimov bullet to remove contaminated mass ratio reference. Bumped version 3.5→3.6. Rebuilt PDF (30 pp, 0 rendering errors). Zenodo description updated."
     }
   ]
 }
