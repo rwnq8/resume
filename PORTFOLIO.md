@@ -235,7 +235,7 @@ Led key technical components of the national Tour-Based Model System, a large-sc
 
 - **Total publications:** 649+ (live Zenodo search count as of July 2026)
 - **Cumulative views:** 14,000+
-- **Cumulative unique downloads:** 169+
+- **Cumulative downloads:** 169+
 - **Most viewed paper:** Resume (14,000+ views, accumulated across all versions)
 
 ---
