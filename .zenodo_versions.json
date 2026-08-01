@@ -1,6 +1,6 @@
 {
   "concept_doi": "10.5281/zenodo.17176733",
-  "latest_deposit_id": "21736846",
+  "latest_deposit_id": "21737024",
   "versions": [
     {
       "doi": "10.5281/zenodo.21311053",
@@ -49,6 +49,13 @@
       "tag": "v3.7",
       "published_at": "2026-08-01",
       "changes": "Red-team audit: removed false Pythagorean SM mass ratio claim + fixed 18 overstatements. PDF rebuilt: 30 pp, zero errors."
+    },
+    {
+      "doi": "10.5281/zenodo.21737024",
+      "deposit_id": "21737024",
+      "tag": "v3.8",
+      "published_at": "2026-08-01",
+      "changes": "Red-team round 2: removed 5 remaining complete overstatements, Stale version fix, Renamed header Completing->Extending"
     }
   ]
 }

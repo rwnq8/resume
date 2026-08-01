@@ -169,5 +169,5 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 
 - **Name History:** Formerly known professionally as Brad Gudzinas. All research since 2024 published under Rowan Brad Quni-Gudzinas.
 - **Location:** Open to remote, hybrid, or on-site. Willing to relocate.
-- **Resume DOI (canonical published version):** [10.5281/zenodo.21736846](https://doi.org/10.5281/zenodo.21736846)
-- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.8](https://doi.org/10.5281/zenodo.21736846)
+- **Resume DOI (canonical published version):** [10.5281/zenodo.21737024](https://doi.org/10.5281/zenodo.21737024)
+- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.8](https://doi.org/10.5281/zenodo.21737024)
