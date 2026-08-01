@@ -11,10 +11,12 @@ Thumbs.db
 # Temp files
 *.tmp
 *.log
+
+# JIT scratch scripts (write→exec→delete convention from windows-command-patterns skill)
+# These are temporary helper scripts that may contain hardcoded tokens.
+# REPRODUCIBILITY SCRIPTS MUST NOT use the _ prefix — name them verify-*.py, check-*.py, etc.
 _*.py
 _*.js
 
 # Build artifacts
-*.pdf
-*.zip
 node_modules/
