@@ -13,7 +13,7 @@ This document maps my expertise across technology domains with concrete evidence
 | Topological quantum computing | Advanced | 4-Kelvin topological roadmap: 45° twisted Bi-2212, Γ ≈ 80 thermal stability prediction |
 | Hardware-level error suppression | Expert | UQC embeds fault tolerance in ultrametric geometry — potentially eliminates 1,000:1 overhead |
 | Quantum error correction | Advanced | Analysis of surface codes vs. geometric suppression; ultrametric encoding theory |
-| Technology roadmapping | Expert | Published complete product roadmaps: *Orchestrating the Quantum Future*, *QWAV Commercial Platform Architecture v2.3* |
+| Technology roadmapping | Expert | Published product roadmaps: *Orchestrating the Quantum Future*, *QWAV Commercial Platform Architecture v2.3* |
 | Quantum–classical interfaces | Advanced | Adelic framework for unifying quantum and classical computation |
 | Quantum advantage evaluation | Expert | *The Conditional Advantage* — systematic epistemic hygiene audit of computational advantage claims |
 | Patent strategy | Advanced | Patent portfolio: UQC, QRC, 4K topological, PANNs, foundational computing |

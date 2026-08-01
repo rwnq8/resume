@@ -7,7 +7,7 @@
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Profile-00ccbb?logo=researchgate)](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowanquni/)
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
-![Resume Version](https://img.shields.io/badge/resume-v3.7-green)
+![Resume Version](https://img.shields.io/badge/resume-v3.8-green)
 
 ---
 
@@ -38,7 +38,7 @@
 
 ## Impact Highlights
 
-**🔬 Published quantitative analysis showing the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.** Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a complete roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors.
+**🔬 Published quantitative analysis showing the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.** Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a viable roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors.
 
 **⚛️ Designed quantum hardware where fault tolerance is a property of the geometry, not a software protocol.** Ultrametric Quantum Computing (UQC) uses a discrete hierarchical geometry where the mathematics itself prevents small errors from accumulating — potentially eliminating the ~1,000:1 physical-to-logical qubit overhead of conventional error correction.
 

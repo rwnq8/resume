@@ -54,7 +54,7 @@ This is not a grab-bag of papers — it is a coherent research program where for
 | Room-temp power input | ~10 kW | ~7 kW | — |
 | Infrastructure | $500K+, custom installation | Off-the-shelf, rack-mountable | — |
 
-**The Roadmap:** Published a complete technical roadmap for 4-Kelvin quantum processing using:
+**The Roadmap:** Published a technical roadmap for 4-Kelvin quantum processing using:
 - Twisted high-temperature superconductors (Bi-2212 at 45° twist angle)
 - Topological qubit encodings with predicted Γ ≈ 80 thermal stability margin
 - Commercially available cryocooler hardware (no custom dilution units)
@@ -76,7 +76,7 @@ This is not a grab-bag of papers — it is a coherent research program where for
 
 **Zenodo References:** *The Adelic Qubit* v1.0–v1.1 DOI series
 
-### 4. Adelic Rate-Distortion Theory — Completing the Shannon Foundation
+### 4. Adelic Rate-Distortion Theory — Extending the Shannon Foundation
 
 **The Problem:** Shannon's classical rate-distortion theory operates entirely in the real numbers, optimizing for Euclidean fidelity. But information in nature is encoded across all completions of the rational numbers — real and p-adic for every prime p — and a purely real-valued distortion measure misses structure that a p-adic measure would capture.
 
@@ -168,7 +168,7 @@ This methodology has produced research programs including: cardiac signal proces
 - **The Efimov effect is the three-body manifestation of adelic structure:** The infinite tower of three-body bound states emerges from the same p-adic hierarchical structure that organizes QEC codes.
 - **π is NOT an idèle:** The transcendental field-crossing character of π is a structural necessity — it cannot be embedded in the adele ring as an idèle, which is why RG flows cross completion boundaries rather than staying within a single p-adic field.
 
-**v3.1 published July 2026; v3.2 corrections in progress (errata for arithmetic verification).**
+**v3.1 published July 2026; v3.3 corrections complete (August 2026 — Pythagorean mass ratio claim retracted).**
 
 **Zenodo References:** *Adelic Cross-Domain Program* v3.1 (DOI 10.5281/zenodo.21539547)
 

@@ -16,7 +16,7 @@ I design architectures, build products, and publish research at the intersection
 
 ### Published quantitative analysis showing that the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.
 
-Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a complete roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors. Patents developed.
+Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a viable roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors. Patents developed.
 
 ### Designed quantum hardware where fault tolerance is a property of the geometry, not a software protocol.
 
@@ -47,7 +47,7 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 
 **Research Output:** Published 649+ scholarly works spanning quantum computing architecture, AI/ML systems, signal processing, epistemic hygiene methodology, scaffold-invariant analysis, and cross-domain methodology — all open-access on Zenodo, ResearchGate, and SSRN. Recent output includes 9 papers in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, the adelic qubit architecture, computing paradigm forecasting, and information theory.
 
-**Quantum Computing:** Published the quantitative case against dilution-refrigerated quantum architectures: ~50 μW of cooling at millikelvin versus ~1 W at 4 Kelvin — a 20,000× gap that fundamentally limits scalability. Published a complete 4-Kelvin topological processing roadmap using 45° twisted Bi-2212 superconductors (predicted thermal stability margin Γ ≈ 80). Designed Ultrametric Quantum Computing (UQC), embedding error suppression in the hardware geometry — potentially eliminating the 1,000:1 qubit overhead of conventional error correction. Proposed Quantum Resonance Computing (QRC), a field-based alternative paradigm. Published across 50+ documents. Patents developed.
+**Quantum Computing:** Published the quantitative case against dilution-refrigerated quantum architectures: ~50 μW of cooling at millikelvin versus ~1 W at 4 Kelvin — a 20,000× gap that fundamentally limits scalability. Published a viable 4-Kelvin topological processing roadmap using 45° twisted Bi-2212 superconductors (predicted thermal stability margin Γ ≈ 80). Designed Ultrametric Quantum Computing (UQC), embedding error suppression in the hardware geometry — potentially eliminating the 1,000:1 qubit overhead of conventional error correction. Proposed Quantum Resonance Computing (QRC), a field-based alternative paradigm. Published across 50+ documents. Patents developed.
 
 **Artificial Intelligence:** Proposed Prime-Attentive Neural Networks (PANNs), a neural architecture incorporating number-theoretic organizational principles. Published the Alpha Pi Project, a 7-chapter monograph adapting cardiac signal processing techniques to quantum state readout. Identified the fundamental signal-processing ceiling imposed by continuous-state architectures — a finding that directly motivated the UQC design.
 
@@ -170,4 +170,4 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 - **Name History:** Formerly known professionally as Brad Gudzinas. All research since 2024 published under Rowan Brad Quni-Gudzinas.
 - **Location:** Open to remote, hybrid, or on-site. Willing to relocate.
 - **Resume DOI (canonical published version):** [10.5281/zenodo.21736846](https://doi.org/10.5281/zenodo.21736846)
-- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.7](https://doi.org/10.5281/zenodo.21736846)
+- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.8](https://doi.org/10.5281/zenodo.21736846)
