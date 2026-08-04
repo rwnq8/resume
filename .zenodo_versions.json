@@ -1,6 +1,6 @@
 {
   "concept_doi": "10.5281/zenodo.17176733",
-  "latest_deposit_id": "21737024",
+  "latest_deposit_id": "21796102",
   "versions": [
     {
       "doi": "10.5281/zenodo.21311053",
@@ -56,6 +56,13 @@
       "tag": "v3.8",
       "published_at": "2026-08-01",
       "changes": "Red-team round 2: removed 5 remaining complete overstatements, Stale version fix, Renamed header Completing->Extending"
+    },
+    {
+      "doi": "10.5281/zenodo.21796102",
+      "deposit_id": "21796102",
+      "tag": "v3.10",
+      "published_at": "2026-08-04",
+      "changes": "CDP pipeline upgrade: replaced xelatex build with pandoc + puppeteer-core PDF workflow. 27-page PDF, 0 U+FFFD/FFFF (PyMuPDF verified). No character stripping needed — browser renders Unicode natively."
     }
   ]
 }
