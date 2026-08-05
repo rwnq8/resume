@@ -159,9 +159,10 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 | **Government Labs & FFRDCs** | Director of Quantum Research, Chief Scientist, Program Director, Senior Technical Advisor | COR certification. Federal program management. Quantum computing R&D. Publication record |
 | **Venture Capital** | Research Partner, Technical Fellow, Entrepreneur in Residence, Director of Deep Tech Research | Technical evaluation (quantum + AI). 649+ publications. Founded two organizations. Product leadership |
 | **Consulting** | Director/VP of Quantum Practice, VP of AI & Advanced Analytics, Senior Expert/Fellow, Practice Lead for Emerging Technology | Prior Deloitte experience. Client communication. 649+ publications. Cross-domain methodology |
-| **Startups & Scale-ups** | CTO, Co-Founder/CEO, VP of Engineering, Head of Research, Chief Product Officer | Founded two organizations. Product leadership (AARP, Empowering Change). Patent strategy. Technical vision |
+| **Startups & Scale-ups** | CTO, Co-Founder/CEO, VP of Engineering, Head of Research, Chief Product Officer | Founded two organizations. Product leadership (AARP, Empowering Change). Patent strategy. Technical vision. CTO-track: steering technical vision, IP creation, product development for deep-tech, quantum software, and advanced analytics startups |
+| **Private Research & Institutes** | Director of Research, Principal Investigator, Senior Fellow | Led QNFO/QWAV as Principal Investigator — 649+ publications, patent portfolio, cross-domain research program design. Director-track: leading interdisciplinary initiatives bridging theoretical physics, mathematics, and computational sciences |
 | **Financial Services** | VP of Quantum or Advanced Computing, Director of Advanced Analytics, Head of Computational Research | Quantum architectures for optimization and risk. Data science at scale. Systems modeling |
-| **Policy & Think Tanks** | Senior Fellow, Director of Technology or Innovation Policy, Research Director | 649+ publications. Federal policy experience (AARP, FHWA). Cross-domain expertise |
+| **Policy & Think Tanks** | Senior Fellow, Director of Technology or Innovation Policy, Research Director | 649+ publications. Federal policy experience (AARP, FHWA). Cross-domain expertise. Senior Fellow track: advising government agencies, defense sectors, and think tanks on thermodynamic/physical limits of computing, post-quantum cryptography, AI ethics |
 
 ---
 
@@ -169,5 +170,5 @@ Open-access body of work spanning quantum architecture, AI/ML systems, signal pr
 
 - **Name History:** Formerly known professionally as Brad Gudzinas. All research since 2024 published under Rowan Brad Quni-Gudzinas.
 - **Location:** Open to remote, hybrid, or on-site. Willing to relocate.
-- **Resume DOI (canonical published version):** [10.5281/zenodo.21737024](https://doi.org/10.5281/zenodo.21737024)
-- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.8](https://doi.org/10.5281/zenodo.21737024)
+- **Resume DOI (canonical published version):** [10.5281/zenodo.21796102](https://doi.org/10.5281/zenodo.21796102)
+- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.10](https://doi.org/10.5281/zenodo.21796102)
