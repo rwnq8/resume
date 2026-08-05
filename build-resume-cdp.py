@@ -181,34 +181,24 @@ if result.returncode != 0:
     print(f'RENDER ERROR: {result.stderr}')
     sys.exit(1)
 
-# Step 6: Verify PDF quality
+# Step 6: Verify PDF quality (PYMUPDF-1: direct file-content scan, NO PyMuPDF)
 step('6/6 Verifying PDF quality')
-try:
-    import fitz  # PyMuPDF
-    doc = fitz.open(OUTPUT_PDF)
-    pages = len(doc)
-    full_text = ''
-    for page in doc:
-        full_text += page.get_text()
-    doc.close()
-    
-    fffd_count = full_text.count('\ufffd')
-    ffff_count = full_text.count('\uffff')
-    
-    print(f'  Pages: {pages}')
-    print(f'  Text chars: {len(full_text):,}')
-    print(f'  U+FFFD: {fffd_count}')
-    print(f'  U+FFFF: {ffff_count}')
-    
-    if fffd_count > 0 or ffff_count > 0:
-        print('  FAIL: Glyph rendering errors detected!')
-        sys.exit(1)
-    else:
-        print('  PASS: Zero rendering errors')
-except ImportError:
-    print('  WARNING: PyMuPDF not installed, skipping verification')
-    # Fallback: just check size
-    size = os.path.getsize(OUTPUT_PDF)
-    print(f'  PDF size: {size:,} bytes ({(size/1024):.1f} KB)')
+size = os.path.getsize(OUTPUT_PDF)
+print(f'  PDF size: {size:,} bytes ({(size/1024):.1f} KB)')
+if size < 102400:
+    print('  FAIL: PDF < 100KB — substandard render!')
+    sys.exit(1)
+with open(OUTPUT_PDF, 'rb') as f:
+    pdf_bytes = f.read()
+# U+FFFD (EF BF BD / FF FD) and U+FFFF (EF BF BF / FF FF) — UTF-8 + UTF-16BE
+fffd_count = pdf_bytes.count(b'\xef\xbf\xbd') + pdf_bytes.count(b'\xff\xfd')
+ffff_count = pdf_bytes.count(b'\xef\xbf\xbf') + pdf_bytes.count(b'\xff\xff')
+print(f'  U+FFFD: {fffd_count}')
+print(f'  U+FFFF: {ffff_count}')
+if fffd_count > 0 or ffff_count > 0:
+    print('  FAIL: Glyph rendering errors detected!')
+    sys.exit(1)
+else:
+    print('  PASS: Zero rendering errors')
 
 print(f'\nDone: {OUTPUT_PDF}')
