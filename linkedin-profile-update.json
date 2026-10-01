@@ -19,7 +19,8 @@
       "Rowan Quni"
     ],
     "headline": "Research systems builder · Founder, QNFO: open, auditable AI-assisted research · 15 years of national data and policy research (FHWA, AARP Livability Index)",
-    "location": "Open to remote, hybrid, or on-site; willing to relocate"
+    "location": "Open to remote, hybrid, or on-site; willing to relocate",
+    "url": "https://www.linkedin.com/in/rowan-quni"
   },
   "about": "I build the machinery that turns messy evidence into decisions people can trust.\n\nAt the U.S. Federal Highway Administration I managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative and helped build the national long-distance travel forecasting model. At AARP's Public Policy Institute I led the Livability Index, which scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nI now run QNFO, an independent research imprint where an AI-assisted pipeline drafts, referees, revises and corrects papers, and every claim states its status. My current question is what a correct computation really costs in energy (the JPCUB benchmark).\n\nOpen to research management, applied AI and research-integrity roles. Earlier work is published under Brad Gudzinas.",
   "experience": [
@@ -194,7 +195,8 @@
     "email": "rowan.quni@qnfo.org",
     "orcid": "0009-0002-4317-5604",
     "isni": "0000 0005 2645 6062",
-    "cv": "https://github.com/rwnq8/resume"
+    "cv": "https://github.com/rwnq8/resume",
+    "linkedin": "https://www.linkedin.com/in/rowan-quni"
   },
   "apply_notes": {
     "headline_max_chars": 220,

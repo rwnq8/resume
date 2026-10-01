@@ -4,6 +4,7 @@
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4317--5604-a6ce39?logo=orcid)](https://orcid.org/0009-0002-4317-5604)
 [![qnfo.org](https://img.shields.io/badge/qnfo.org-QNFO-24315e)](https://qnfo.org)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rowan--quni-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowan-quni)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eHIbqxkAAAAJ)
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
 ![Resume Version](https://img.shields.io/badge/resume-v4.0-green)
@@ -42,6 +43,7 @@ Research management, applied AI and research-integrity roles. Remote, hybrid or 
 
 - **Email:** rowan.quni@qnfo.org
 - **ORCID:** [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604)
+- **LinkedIn:** [rowan-quni](https://www.linkedin.com/in/rowan-quni)
 - **Web:** [qnfo.org](https://qnfo.org) · library at [papers.qnfo.org](https://papers.qnfo.org)
 - **GitHub:** [rwnq8](https://github.com/rwnq8) · [QNFO](https://github.com/QNFO)
 

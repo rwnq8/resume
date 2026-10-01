@@ -2,7 +2,7 @@
 
 ## Research systems builder
 
-Amsterdam, Netherlands · rowan.quni@qnfo.org · [qnfo.org](https://qnfo.org) · ORCID [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604)
+Amsterdam, Netherlands · rowan.quni@qnfo.org · [qnfo.org](https://qnfo.org) · ORCID [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604) · [LinkedIn](https://www.linkedin.com/in/rowan-quni)
 
 Earlier work is published under **Brad Gudzinas**.
 
