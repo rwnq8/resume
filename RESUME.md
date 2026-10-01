@@ -1,174 +1,99 @@
 # ROWAN BRAD QUNI-GUDZINAS
 
-## Research & Technology Leader — Quantum Computing · Artificial Intelligence · National-Scale Systems
+## Research systems builder
 
-rowan.quni@outlook.com | **ORCID:** [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604) | **[ResearchGate](https://www.researchgate.net/profile/Rowan-Quni-Gudzinas)**
+Amsterdam, Netherlands · rowan.quni@qnfo.org · [qnfo.org](https://qnfo.org) · ORCID [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604)
 
----
-
-## PROFESSIONAL SUMMARY
-
-I design architectures, build products, and publish research at the intersection of quantum computing, artificial intelligence, and large-scale systems. Over 20 years, I have: delivered national-scale platforms (AARP Livability Index); founded an AI nonprofit featured in national media (Empowering Change); and published the quantitative case that the quantum computing industry's current trajectory is a thermodynamic dead end. I bring 649+ publications, a patent portfolio, and a rigorous methodology for epistemic hygiene audits and cross-domain innovation — most recently, 9 papers published in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, the adelic qubit architecture, computing paradigm forecasting, and information theory. I am seeking a VP, Director, or Research Partner role where I can set technical vision, build teams, and turn breakthrough ideas into market reality.
+Earlier work is published under **Brad Gudzinas**.
 
 ---
 
-## IMPACT HIGHLIGHTS
+## SUMMARY
 
-### Published quantitative analysis showing that the quantum industry's trajectory is a thermodynamic dead end — and published a viable alternative.
-
-Dilution refrigerators at millikelvin temperatures provide ~50 μW of cooling. Commercial cryocoolers at 4 Kelvin provide ~1 W — a **20,000× difference**. Published a viable roadmap for 4-Kelvin topological quantum processing using commercially available hardware and twisted high-temperature superconductors. Patents developed.
-
-### Designed quantum hardware where fault tolerance is a property of the geometry, not a software protocol.
-
-Ultrametric Quantum Computing (UQC) uses a discrete hierarchical geometry where the mathematics itself prevents small errors from accumulating — in contrast to standard architectures that can require on the order of **1,000 physical qubits per logical qubit** for software-level error correction. UQC embeds suppression in the hardware, potentially eliminating this overhead. Published across 50+ documents. Patents developed.
-
-### Led the product that scores neighborhoods across America.
-
-Product Manager for the AARP Livability Index: integrated **50+ data sources across 7 domains** to score U.S. neighborhoods nationwide. Full product lifecycle ownership across multiple releases. Platform and methodology cited in **20+ academic and policy studies**. Used nationwide to guide municipal planning, grant allocation, and age-friendly policy.
-
-### Founded an AI nonprofit. Built the product. Made national news.
-
-Took Empowering Change from incorporation through public launch. Built an LLM-powered legal navigation platform with three integrated modules for self-represented litigants. Featured in national media for pioneering AI-driven legal democratization. Validated product design firsthand by serving as a pro se litigant in San Francisco tenant rights cases.
-
-### Managed $1.5M in federal R&D contracts with full procurement authority.
-
-Certified Contracting Officer's Representative at U.S. Department of Transportation. Full oversight of technical performance, budgets, milestones, and contractor deliverables. Led key components of a national forecasting model that informs federal infrastructure investment. Clearance-eligible.
-
-### 649+ publications, a patent portfolio, COR certification, and twenty years of sustained output across government, consulting, nonprofit, and independent research.
-
-Open-access body of work spanning quantum architecture, AI/ML systems, signal processing, epistemic hygiene methodology, and scaffold-invariant analysis — freely accessible on Zenodo and ResearchGate. Patent portfolio covering quantum computing architectures, neural network designs, and foundational computing paradigms.
+Research and data leader who builds the systems behind the research. 15 years running national research programs and data products at the U.S. Federal Highway Administration and AARP. Founder of QNFO, an independent research imprint with an AI-assisted pipeline, a published audit method and a public correction trail. Open to research management, applied AI and research-integrity roles.
 
 ---
 
-## PROFESSIONAL EXPERIENCE
+## EXPERIENCE
 
-### Principal Investigator & Founder
-**QWAV / QNFO** — Independent Research | 2024–Present
+### Founder
+**QNFO** (independent research) | 2024 to present
 
-**Research Output:** Published 649+ scholarly works spanning quantum computing architecture, AI/ML systems, signal processing, epistemic hygiene methodology, scaffold-invariant analysis, and cross-domain methodology — all open-access on Zenodo, ResearchGate, and SSRN. Recent output includes 9 papers in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, the adelic qubit architecture, computing paradigm forecasting, and information theory.
+- Built and run an autonomous research system on Cloudflare (44 live workers) that drafts, referees, revises, versions, publishes and corrects papers.
+- Publish an open library of preprints with DOIs ([papers.qnfo.org](https://papers.qnfo.org)) and a knowledge graph that other tools can query by API.
+- Designed the audit method: [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) and [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592).
+- Proposed JPCUB, a whole-system energy benchmark for computing (joules per correct answer). Published the [measurement protocol](https://doi.org/10.5281/zenodo.21637028), [estimates for 17 quantum platforms](https://doi.org/10.5281/zenodo.21821767) and an [extension to LLM inference](https://doi.org/10.5281/zenodo.21945415).
 
-**Quantum Computing:** Published the quantitative case against dilution-refrigerated quantum architectures: ~50 μW of cooling at millikelvin versus ~1 W at 4 Kelvin — a 20,000× gap that fundamentally limits scalability. Published a viable 4-Kelvin topological processing roadmap using 45° twisted Bi-2212 superconductors (predicted thermal stability margin Γ ≈ 80). Designed Ultrametric Quantum Computing (UQC), embedding error suppression in the hardware geometry — potentially eliminating the 1,000:1 qubit overhead of conventional error correction. Proposed Quantum Resonance Computing (QRC), a field-based alternative paradigm. Published across 50+ documents. Patents developed.
+### Executive Director and Founder
+**Empowering Change** (nonprofit) | San Francisco, CA | 2023 to 2024
 
-**Artificial Intelligence:** Proposed Prime-Attentive Neural Networks (PANNs), a neural architecture incorporating number-theoretic organizational principles. Published the Alpha Pi Project, a 7-chapter monograph adapting cardiac signal processing techniques to quantum state readout. Identified the fundamental signal-processing ceiling imposed by continuous-state architectures — a finding that directly motivated the UQC design.
+- Took the nonprofit from incorporation to public launch.
+- Built an LLM legal-navigation tool for self-represented litigants: document drafting, procedural guidance and plain-language translation of legal terms.
 
-**Intellectual Property & Credentials:** Developed patent portfolio covering quantum architectures (UQC, QRC, 4K topological), neural networks (PANNs), and foundational computing paradigms.
+### Platform Data Product Manager
+**iManage** | 2022 to 2023
 
-### Executive Director & Founder
-**Empowering Change** — 501(c)(3) Nonprofit | San Francisco, CA | 2023–2024
+### Senior Product Manager
+**Epsilon (Publicis Groupe)** | 2021 to 2022
 
-- **Founded the organization and led it from incorporation through public launch.** Built an LLM-powered legal navigation platform with three integrated modules: document drafting, procedural guidance, and legal jargon translation for self-represented litigants.
-- **Featured in national media** for pioneering AI-driven legal democratization.
-- **Validated product design firsthand** by serving as a pro se litigant in San Francisco tenant rights cases, using direct experience to inform platform requirements.
+### Product Manager and Senior Methods Advisor
+**AARP Public Policy Institute** | Washington, DC | 2016 to 2021
 
-### Product Manager & Senior Methods Advisor
-**AARP Public Policy Institute** | Washington, DC | 2016–2021
+- Led the [AARP Livability Index](https://livabilityindex.aarp.org): 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide, across multiple public releases.
+- Co-authored the Livability Index 2018 report and AARP policy work on housing affordability, including the 2016 analysis of Low-Income Housing Tax Credits.
+- The Index and its method are cited in 20+ academic and policy studies.
 
-- **Led the AARP Livability Index** — a national platform integrating 50+ distinct data sources across 7 domains to score U.S. neighborhoods nationwide. Owned the full product lifecycle from strategy through multiple public releases.
-- **Generated measurable policy influence.** Platform and methodology cited in 20+ academic and policy studies. Used nationwide to inform municipal planning, community development grant allocation, and age-friendly policy.
-- **Co-authored the Livability Index 2018 report** and multiple AARP policy briefs on housing affordability, transportation access, and age-friendly community development.
-- **Managed complex multi-stakeholder relationships** spanning federal agencies, state and local governments, academic partners, advocacy organizations, and internal AARP divisions.
+### Senior Data Scientist
+**The Advisory Board Company** | 2016
 
 ### Senior Associate, Data Analytics
-**Deloitte Consulting LLP** | Washington, DC | 2015–2016
+**Deloitte Consulting LLP** | Washington, DC | 2015 to 2016
 
-- **Led data analytics and machine learning engagements** for federal and public-sector clients. Deployed predictive models and data integration strategies addressing complex organizational challenges.
-- **Operated within a top-tier consulting environment,** combining technical delivery with client management, executive communication, and business development.
+- Delivered analytics and machine-learning engagements for federal and public-sector clients.
+- Co-authored a 2016 Transportation Research Board paper on updating the National Household Travel Survey with American Community Survey data.
 
-### Data Analyst & Research Manager
-**U.S. Department of Transportation — Federal Highway Administration (FHWA)** | Washington, DC | 2011–2015
+### Data Analyst and Research Manager
+**U.S. Department of Transportation, Federal Highway Administration** | Washington, DC | 2011 to 2015
 
-- **Managed a federal research portfolio exceeding $1.5M** as certified Contracting Officer's Representative. Full authority for technical oversight, budgeting, milestone tracking, and contractor deliverable acceptance.
-- **Led key technical components of the national Tour-Based Model System** for long-distance passenger travel forecasting. Model output directly informs federal infrastructure investment decisions.
-- **Coordinated interagency modeling standards** across federal, state, and academic partners. Published peer-reviewed research on multimodal travel behavior and national transportation forecasting.
+- Managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables.
+- Led technical components of the national Tour-Based Model System for long-distance passenger travel forecasting.
+- Presented national long-distance travel data needs at the 2011 TRB National Household Travel Survey workshop.
 
-### Earlier Professional Roles
+### Earlier roles
 
 | Role | Organization | Period |
 |:-----|:-------------|:-------|
-| Platform Data Product Manager | iManage | 2022–2023 |
-| Senior Product Manager | Epsilon (Publicis Groupe) | 2021–2022 |
-| Senior Data Scientist | The Advisory Board Company | 2016 |
-| Consultant | IBI Group | 2008–2011 |
-| Systems Planner | Delaware Valley Regional Planning Commission | 2005–2008 |
-| GIS Analyst | Cross County Connection TMA | 2004–2005 |
+| Consultant | IBI Group | 2008 to 2011 |
+| Systems Planner | Delaware Valley Regional Planning Commission | 2005 to 2008 |
+| GIS Analyst | Cross County Connection TMA | 2004 to 2005 |
 
 ---
 
-## TECHNICAL EXPERTISE
+## SELECTED WORK
 
-| Area | Capabilities |
-|:-----|:-------------|
-| **Quantum Computing** | Architecture design (UQC, QRC, 4K topological), cryogenic systems analysis, topological quantum computing, hardware-level error suppression, technology roadmapping, quantum–classical interfaces |
-| **AI & Machine Learning** | Neural architecture design (PANNs), LLM deployment and productization, applied ML/NLP, predictive modeling, signal processing, AI product development |
-| **Product & Platform Leadership** | Full product lifecycle, product strategy and roadmap, multi-stakeholder management, go-to-market planning, cross-functional team building, user-centered design |
-| **Data & Analytics Architecture** | Large-scale data integration (50+ heterogeneous sources), national-scale statistical modeling, geospatial analytics (GIS), real-time pipeline design, federal data standards |
-| **Research & Innovation Management** | Independent research program design, patent strategy, open science dissemination, technology commercialization, federal grant and contract management (COR) |
-| **Cross-Domain Methodology** | Structural pattern recognition across disparate systems, complex systems modeling, multi-scale architecture, emergence and feedback analysis, formal isomorphism identification, epistemic hygiene auditing, scaffold-invariant decomposition |
+1. AARP Livability Index 2018 report (co-author, as Brad Gudzinas)
+2. Tour-Based National Model System, FHWA (2014, as Brad Gudzinas)
+3. [The Joules-per-Solution Metric: Definition, Measurement Protocol, and Anti-Gaming Provisions](https://doi.org/10.5281/zenodo.21637028) (2026)
+4. [Error Correction Is a Landauer Machine: The Thermodynamic Floor of Quantum Error-Correction Overhead](https://doi.org/10.5281/zenodo.22261547) (2026)
+5. [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) (2026)
+6. [Operating the Quniverse Fleet: Objectives, Successes, Failures, and Roadmap of an Autonomous Cloud Research System](https://doi.org/10.5281/zenodo.23079905) (2026)
 
----
-
-## PUBLICATIONS & INTELLECTUAL PROPERTY
-
-- **649+ scholarly works** published open-access on Zenodo, ResearchGate, and SSRN — freely accessible, no paywalls. Works span preprints, technical reports, and books across quantum architecture, AI/ML, signal processing, epistemic hygiene methodology, and scaffold-invariant cross-domain analysis.
-- **Patent portfolio** covering quantum computing architectures (UQC, QRC, 4-Kelvin topological processing), neural network designs (Prime-Attentive Neural Networks), and foundational computing paradigms.
-- **Representative works:**
-  - *Orchestrating the Quantum Future* — 4-Kelvin quantum computing roadmap (v1.0–v1.1)
-  - *Ultrametric Quantum Computation* — UQC architecture series (v0.1–v1.0, 50+ documents)
-  - *Quantum Resonance Computing* — Field-based quantum paradigm proposal
-  - *The Adelic Qubit* — Manufacturable hardware/software architecture specification (v1.0–v1.1)
-  - *The Scaffold-Lock Hypothesis* — How notational choices marginalize formal cross-domain systems
-  - *The Thermodynamic Imperative* — Quantitative analysis of quantum scaling limits
-  - *The Conditional Advantage* — Epistemic hygiene audit of quantum computational advantage claims
-  - *The Re-Entry Thesis* — Structural invariance of self-referential paradoxes across disciplines
-  - *JPCUB as a Leading Indicator* — Quantitative computing paradigm-shift forecasting aligned with 6 historical transitions (v1.2)
-  - *Computing After Silicon* — History-constrained forecast of computing machine evolution 2026–2050 with 12 falsifiable predictions
-  - *Adelic Rate-Distortion Theory* — Extends the Adelic Shannon Theory framework; generalizes rate-distortion to the adele ring (v1.1)
-  - *QWAV Commercial Platform Architecture v2.3* — Strategic whitepaper with external verification timeline
-  - *Adelic Cross-Domain Program* — Bruhat-Tits trees unify RG flow, bosonic QEC, AdS/CFT, Efimov physics (v3.1)
-  - *42 Theses on Pattern-Based Reality* — Synthesis monograph (v3.0, July 2026)
-  - *Alpha Pi Project* — 7-chapter monograph: cardiac signal processing → quantum architecture
-  - *A General Theory of Process* — Cross-domain isomorphism framework
-  - *The Information Spectrum* — Book-length treatment of information theory
+Every QNFO paper is prepared with an AI-assisted research pipeline; the author is responsible for its content. Full library: [papers.qnfo.org](https://papers.qnfo.org). All records: [Zenodo](https://zenodo.org/search?q=creators.orcid%3A0009-0002-4317-5604).
 
 ---
 
 ## EDUCATION
 
-- **M.S., City and Regional Studies** — Rutgers University, Edward J. Bloustein School of Planning and Public Policy (2008)
-- **B.A., Urban Studies and Community Planning** — Rutgers University–Camden (2004)
+- **M.S., City and Regional Studies**, Rutgers University, Edward J. Bloustein School of Planning and Public Policy (2008)
+- **B.A., Urban Studies and Community Planning**, Rutgers University-Camden (2004)
 
----
+## CERTIFICATIONS
 
-## CERTIFICATIONS & PROFESSIONAL IDENTIFIERS
+- Project Management Professional (PMP), Project Management Institute (2016)
+- Contracting Officer's Representative (COR), Defense Acquisition University (2011)
+- American Institute of Certified Planners (AICP), American Planning Association (2009)
 
-- **Project Management Professional (PMP)** — Project Management Institute (2016)
-- **Contracting Officer's Representative (COR)** — Defense Acquisition University (2011) · *Clearance-eligible*
-- **American Institute of Certified Planners (AICP)** — American Planning Association (2009)
-- **ORCID:** 0009-0002-4317-5604 · **ISNI:** 0000 0005 2645 6062
+## SKILLS
 
----
+Research program management · federal contract oversight · product management · statistical and travel-demand modeling · GIS · LLM agent systems · Cloudflare Workers, D1, R2, Vectorize · Python, JavaScript, SQL
 
-## TARGET ROLES
-
-| Sector | Representative Roles | Why This Profile Fits |
-|:-------|:---------------------|:----------------------|
-| **Quantum Computing** | VP/Director of Quantum Research, Architecture, Hardware, or Engineering; Chief Quantum Scientist; Distinguished Engineer | Published architectures (UQC, QRC, 4K topological). Quantitative scaling analysis. 50+ technical documents. Patent portfolio |
-| **AI & Machine Learning** | VP/Director of AI Research, Applied AI, or ML Engineering; Chief AI Scientist | PANNs architecture. Launched LLM-based platform. Data science leadership at national scale. 649+ publications |
-| **Big Tech & Platforms** | Director of Research, VP Emerging Technology, Distinguished Scientist, Director of Advanced Technology | Cross-domain expertise (quantum + AI + systems). Product leadership at national scale. Patent portfolio |
-| **Defense & National Security** | Director of Quantum Research, Chief Scientist, VP Advanced Technology, Senior Technical Fellow or Advisor | COR certification (clearance-eligible). Federal agency experience. Quantum architectures. Complex systems modeling |
-| **Government Labs & FFRDCs** | Director of Quantum Research, Chief Scientist, Program Director, Senior Technical Advisor | COR certification. Federal program management. Quantum computing R&D. Publication record |
-| **Venture Capital** | Research Partner, Technical Fellow, Entrepreneur in Residence, Director of Deep Tech Research | Technical evaluation (quantum + AI). 649+ publications. Founded two organizations. Product leadership |
-| **Consulting** | Director/VP of Quantum Practice, VP of AI & Advanced Analytics, Senior Expert/Fellow, Practice Lead for Emerging Technology | Prior Deloitte experience. Client communication. 649+ publications. Cross-domain methodology |
-| **Startups & Scale-ups** | CTO, Co-Founder/CEO, VP of Engineering, Head of Research, Chief Product Officer | Founded two organizations. Product leadership (AARP, Empowering Change). Patent strategy. Technical vision. CTO-track: steering technical vision, IP creation, product development for deep-tech, quantum software, and advanced analytics startups |
-| **Private Research & Institutes** | Director of Research, Principal Investigator, Senior Fellow | Led QNFO/QWAV as Principal Investigator — 649+ publications, patent portfolio, cross-domain research program design. Director-track: leading interdisciplinary initiatives bridging theoretical physics, mathematics, and computational sciences |
-| **Financial Services** | VP of Quantum or Advanced Computing, Director of Advanced Analytics, Head of Computational Research | Quantum architectures for optimization and risk. Data science at scale. Systems modeling |
-| **Policy & Think Tanks** | Senior Fellow, Director of Technology or Innovation Policy, Research Director | 649+ publications. Federal policy experience (AARP, FHWA). Cross-domain expertise. Senior Fellow track: advising government agencies, defense sectors, and think tanks on thermodynamic/physical limits of computing, post-quantum cryptography, AI ethics |
-
----
-
-## NOTES
-
-- **Name History:** Formerly known professionally as Brad Gudzinas. All research since 2024 published under Rowan Brad Quni-Gudzinas.
-- **Location:** Open to remote, hybrid, or on-site. Willing to relocate.
-- **Resume DOI (canonical published version):** [10.5281/zenodo.21806274](https://doi.org/10.5281/zenodo.21806274)
-- **Download the full portfolio (PDF + source files + provenance bundle):** [Zenodo v3.12](https://doi.org/10.5281/zenodo.21806274)

@@ -13,8 +13,8 @@ SRC = os.path.dirname(os.path.abspath(__file__))
 TMP = os.environ['TEMP']
 PANDOC = r'C:\Users\LENOVO\AppData\Local\Pandoc\pandoc.exe'
 MATHJAX_CACHE = os.path.join(TMP, 'mathjax', 'tex-svg-full.js')
-VERSION = 'v3.12'
-DATE = '2026-08-05'
+VERSION = 'v4.0'
+DATE = '2026-10-01'
 OUTPUT_PDF = os.path.join(SRC, f'rowan-quni-portfolio-{VERSION}.pdf')
 
 def step(s):
@@ -30,7 +30,7 @@ for fn in ['README.md', 'RESUME.md', 'PORTFOLIO.md', 'SKILLS-TECHNOLOGY.md']:
 
 # Add YAML frontmatter for pandoc
 combined = f"""---
-title: "Rowan Brad Quni-Gudzinas — Research & Technology Leader Portfolio"
+title: "Rowan Brad Quni-Gudzinas — CV and Portfolio"
 author: "Rowan Brad Quni-Gudzinas"
 date: "{DATE}"
 version: "{VERSION}"

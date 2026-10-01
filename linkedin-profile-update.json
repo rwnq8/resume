@@ -1,78 +1,133 @@
 {
   "schema": "linkedin-profile-update-package/v1",
-  "generated_from": "rwnq8/resume v3.12 (DOI 10.5281/zenodo.21806274)",
-  "generated_at": "2026-08-05",
+  "generated_from": "rwnq8/resume v4.0 (RESUME.md, SKILLS-TECHNOLOGY.md, 2026-10-01)",
+  "generated_at": "2026-10-01",
   "audit": {
-    "source_files": ["RESUME.md", "SKILLS-TECHNOLOGY.md"],
+    "source_files": [
+      "RESUME.md",
+      "SKILLS-TECHNOLOGY.md"
+    ],
     "factual_only": true,
     "every_claim_attested": true,
-    "fabrication_gate": "PROFILE-README-FABRICATE-1 PASSED — all content extracted verbatim or lightly adapted from resume source; no badges/tools added from training memory"
+    "identity": "systems-first (owner decision 2026-10-01); claims follow QNFO/qnfo-workers docs/STRATEGY.md section 2: no patent, publication-count, national-media or clearance-eligible claims"
   },
   "profile": {
     "name": "Rowan Brad Quni-Gudzinas",
-    "headline": "Research & Technology Leader — Quantum Computing · AI · National-Scale Systems",
+    "also_known_as": [
+      "Brad Gudzinas",
+      "Bradley Gudzinas",
+      "Rowan Quni"
+    ],
+    "headline": "Research systems builder · Founder, QNFO: open, auditable AI-assisted research · 15 years of national data and policy research (FHWA, AARP Livability Index)",
     "location": "Open to remote, hybrid, or on-site; willing to relocate"
   },
-  "about": "I design architectures, build products, and publish research at the intersection of quantum computing, artificial intelligence, and large-scale systems. Over 20 years, I have delivered national-scale platforms (AARP Livability Index), founded an AI nonprofit featured in national media (Empowering Change), and published the quantitative case that the quantum computing industry's current trajectory is a thermodynamic dead end.\n\nI bring 649+ publications, a patent portfolio, and a rigorous methodology for epistemic hygiene audits and cross-domain innovation — most recently, 9 papers published in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, the adelic qubit architecture, computing paradigm forecasting, and information theory.\n\nI am seeking a VP, Director, or Research Partner role where I can set technical vision, build teams, and turn breakthrough ideas into market reality.",
+  "about": "I build the machinery that turns messy evidence into decisions people can trust.\n\nAt the U.S. Federal Highway Administration I managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative and helped build the national long-distance travel forecasting model. At AARP's Public Policy Institute I led the Livability Index, which scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nI now run QNFO, an independent research imprint where an AI-assisted pipeline drafts, referees, revises and corrects papers, and every claim states its status. My current question is what a correct computation really costs in energy (the JPCUB benchmark).\n\nOpen to research management, applied AI and research-integrity roles. Earlier work is published under Brad Gudzinas.",
   "experience": [
     {
-      "title": "Principal Investigator & Founder",
-      "company": "QWAV / QNFO",
-      "location": "Independent Research",
+      "title": "Founder",
+      "company": "QNFO (independent research)",
+      "location": "Remote",
       "dates": "2024 – Present",
-      "description": "Published 649+ scholarly works spanning quantum computing architecture, AI/ML systems, signal processing, epistemic hygiene methodology, scaffold-invariant analysis, and cross-domain methodology — all open-access on Zenodo, ResearchGate, and SSRN. Recent output includes 9 papers in a single week (July 2026) spanning quantum foundations, scaffold-invariant analysis, the adelic qubit architecture, computing paradigm forecasting, and information theory.\n\nQuantum Computing: Published the quantitative case against dilution-refrigerated quantum architectures — a 20,000x cooling-power gap that fundamentally limits scalability. Published a viable 4-Kelvin topological processing roadmap using 45° twisted Bi-2212 superconductors (predicted thermal stability margin Γ ≈ 80). Designed Ultrametric Quantum Computing (UQC), embedding error suppression in the hardware geometry. Proposed Quantum Resonance Computing (QRC). Published across 50+ documents. Patents developed.\n\nArtificial Intelligence: Proposed Prime-Attentive Neural Networks (PANNs). Published the Alpha Pi Project, a 7-chapter monograph adapting cardiac signal processing to quantum state readout. Identified the signal-processing ceiling imposed by continuous-state architectures.\n\nIntellectual Property & Credentials: Patent portfolio covering quantum architectures (UQC, QRC, 4K topological), neural networks (PANNs), and foundational computing paradigms."
+      "description": "Built and run an autonomous research system on Cloudflare that drafts, referees, revises, versions, publishes and corrects papers, with a public errata trail.\n\nDesigned the audit method (The Universal Ignorance Audit; Epistemic Legibility in AI-Assisted Science).\n\nProposed JPCUB, a whole-system energy benchmark for computing (joules per correct answer): measurement protocol, estimates for 17 quantum platforms, and an extension to LLM inference."
     },
     {
       "title": "Executive Director & Founder",
-      "company": "Empowering Change — 501(c)(3) Nonprofit",
+      "company": "Empowering Change (nonprofit)",
       "location": "San Francisco, CA",
       "dates": "2023 – 2024",
-      "description": "Founded the organization and led it from incorporation through public launch. Built an LLM-powered legal navigation platform with three integrated modules: document drafting, procedural guidance, and legal jargon translation for self-represented litigants.\n\nFeatured in national media for pioneering AI-driven legal democratization.\n\nValidated product design firsthand by serving as a pro se litigant in San Francisco tenant rights cases."
+      "description": "Took the nonprofit from incorporation to public launch. Built an LLM legal-navigation tool for self-represented litigants: document drafting, procedural guidance and plain-language translation of legal terms."
+    },
+    {
+      "title": "Platform Data Product Manager",
+      "company": "iManage",
+      "location": "",
+      "dates": "2022 – 2023",
+      "description": ""
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Epsilon (Publicis Groupe)",
+      "location": "",
+      "dates": "2021 – 2022",
+      "description": ""
     },
     {
       "title": "Product Manager & Senior Methods Advisor",
       "company": "AARP Public Policy Institute",
       "location": "Washington, DC",
       "dates": "2016 – 2021",
-      "description": "Led the AARP Livability Index — a national platform integrating 50+ distinct data sources across 7 domains to score U.S. neighborhoods nationwide. Owned the full product lifecycle from strategy through multiple public releases.\n\nGenerated measurable policy influence: platform and methodology cited in 20+ academic and policy studies; used nationwide for municipal planning, community development grant allocation, and age-friendly policy.\n\nCo-authored the Livability Index 2018 report and multiple AARP policy briefs.\n\nManaged complex multi-stakeholder relationships spanning federal agencies, state and local governments, academic partners, advocacy organizations, and internal AARP divisions."
+      "description": "Led the AARP Livability Index: 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide, across multiple public releases. Co-authored the Livability Index 2018 report and AARP policy work on housing affordability. The Index and its method are cited in 20+ academic and policy studies."
+    },
+    {
+      "title": "Senior Data Scientist",
+      "company": "The Advisory Board Company",
+      "location": "",
+      "dates": "2016",
+      "description": ""
     },
     {
       "title": "Senior Associate, Data Analytics",
       "company": "Deloitte Consulting LLP",
       "location": "Washington, DC",
       "dates": "2015 – 2016",
-      "description": "Led data analytics and machine learning engagements for federal and public-sector clients. Deployed predictive models and data integration strategies addressing complex organizational challenges.\n\nOperated within a top-tier consulting environment, combining technical delivery with client management, executive communication, and business development."
+      "description": "Delivered analytics and machine-learning engagements for federal and public-sector clients. Co-authored a 2016 TRB paper on updating the National Household Travel Survey with American Community Survey data."
     },
     {
       "title": "Data Analyst & Research Manager",
       "company": "U.S. Department of Transportation — Federal Highway Administration (FHWA)",
       "location": "Washington, DC",
       "dates": "2011 – 2015",
-      "description": "Managed a federal research portfolio exceeding $1.5M as certified Contracting Officer's Representative, with full authority for technical oversight, budgeting, milestone tracking, and contractor deliverable acceptance.\n\nLed key technical components of the national Tour-Based Model System for long-distance passenger travel forecasting; model output directly informs federal infrastructure investment decisions.\n\nCoordinated interagency modeling standards across federal, state, and academic partners."
+      "description": "Managed a $1.5M+ federal research portfolio as certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables.\n\nLed technical components of the national Tour-Based Model System for long-distance passenger travel forecasting."
     }
   ],
   "earlier_roles": [
-    { "title": "Platform Data Product Manager", "company": "iManage", "period": "2022–2023" },
-    { "title": "Senior Product Manager", "company": "Epsilon (Publicis Groupe)", "period": "2021–2022" },
-    { "title": "Senior Data Scientist", "company": "The Advisory Board Company", "period": "2016" },
-    { "title": "Consultant", "company": "IBI Group", "period": "2008–2011" },
-    { "title": "Systems Planner", "company": "Delaware Valley Regional Planning Commission", "period": "2005–2008" },
-    { "title": "GIS Analyst", "company": "Cross County Connection TMA", "period": "2004–2005" }
+    {
+      "title": "Consultant",
+      "company": "IBI Group",
+      "period": "2008–2011"
+    },
+    {
+      "title": "Systems Planner",
+      "company": "Delaware Valley Regional Planning Commission",
+      "period": "2005–2008"
+    },
+    {
+      "title": "GIS Analyst",
+      "company": "Cross County Connection TMA",
+      "period": "2004–2005"
+    }
   ],
   "skills": [
-    "Quantum Architecture Design", "Quantum Error Correction", "Topological Quantum Computing",
-    "Cryogenic Systems Analysis", "Technology Roadmapping", "Quantum Advantage Evaluation",
-    "Patent Strategy", "Neural Architecture Design", "LLM Deployment & Productization",
-    "Predictive Modeling", "Signal Processing", "AI Product Development",
-    "Full Product Lifecycle", "Product Strategy & Roadmap", "Multi-Stakeholder Management",
-    "User-Centered Design", "Large-Scale Data Integration", "National-Scale Statistical Modeling",
-    "Geospatial Analytics (GIS)", "Federal Data Standards", "Independent Research Program Design",
-    "Open Science Dissemination", "Federal Grant & Contract Management", "Technical Due Diligence",
-    "Structural Pattern Recognition", "Complex Systems Modeling", "Epistemic Hygiene Auditing",
-    "Computing Paradigm Forecasting", "History-Constrained Forecasting", "Python",
-    "JavaScript / TypeScript", "SQL", "R", "Cloudflare", "AWS", "Docker", "Git / GitHub",
-    "React", "Node.js", "REST APIs", "LaTeX", "Pandoc", "Project Management (PMP)",
-    "Federal Procurement (COR)", "Urban & Regional Planning (AICP)"
+    "Research Program Management",
+    "Federal Grant & Contract Management",
+    "Multi-Stakeholder Management",
+    "Policy Analysis",
+    "Research Integrity",
+    "Large-Scale Data Integration",
+    "National-Scale Statistical Modeling",
+    "Travel Demand Modeling",
+    "Geospatial Analytics (GIS)",
+    "Full Product Lifecycle",
+    "Product Strategy & Roadmap",
+    "Data Products",
+    "LLM Deployment & Productization",
+    "AI Agent Systems",
+    "Benchmark Design",
+    "Energy Efficiency of Computing",
+    "Predictive Modeling",
+    "Python",
+    "JavaScript / TypeScript",
+    "SQL",
+    "R",
+    "Cloudflare",
+    "AWS",
+    "Docker",
+    "Git / GitHub",
+    "Pandoc",
+    "LaTeX",
+    "Project Management (PMP)",
+    "Federal Procurement (COR)",
+    "Urban & Regional Planning (AICP)"
   ],
   "education": [
     {
@@ -87,32 +142,68 @@
     }
   ],
   "certifications": [
-    { "name": "Project Management Professional (PMP)", "issuer": "Project Management Institute", "year": "2016" },
-    { "name": "Contracting Officer's Representative (COR)", "issuer": "Defense Acquisition University", "year": "2011" },
-    { "name": "American Institute of Certified Planners (AICP)", "issuer": "American Planning Association", "year": "2009" }
+    {
+      "name": "Project Management Professional (PMP)",
+      "issuer": "Project Management Institute",
+      "year": "2016"
+    },
+    {
+      "name": "Contracting Officer's Representative (COR)",
+      "issuer": "Defense Acquisition University",
+      "year": "2011"
+    },
+    {
+      "name": "American Institute of Certified Planners (AICP)",
+      "issuer": "American Planning Association",
+      "year": "2009"
+    }
   ],
   "featured": [
-    { "title": "Orchestrating the Quantum Future", "type": "4-Kelvin quantum computing roadmap", "link": "https://zenodo.org/search?q=Quni-Gudzinas" },
-    { "title": "Ultrametric Quantum Computation (UQC)", "type": "Architecture series, 50+ documents", "link": "https://zenodo.org/search?q=Quni-Gudzinas" },
-    { "title": "The Adelic Qubit", "type": "Manufacturable hardware/software architecture specification", "link": "https://zenodo.org/search?q=Quni-Gudzinas" },
-    { "title": "Computing After Silicon", "type": "History-constrained forecast 2026–2050, 12 falsifiable predictions", "link": "https://zenodo.org/search?q=Quni-Gudzinas" },
-    { "title": "The Thermodynamic Imperative", "type": "Quantitative analysis of quantum scaling limits", "link": "https://zenodo.org/search?q=Quni-Gudzinas" },
-    { "title": "42 Theses on Pattern-Based Reality", "type": "Synthesis monograph (v3.0)", "link": "https://zenodo.org/search?q=Quni-Gudzinas" },
-    { "title": "The Information Spectrum", "type": "Book-length treatment of information theory", "link": "https://www.elivapress.com/en/authors/author-1587423061/" }
+    {
+      "title": "The Joules-per-Solution Metric",
+      "type": "Definition, measurement protocol and anti-gaming rules",
+      "link": "https://doi.org/10.5281/zenodo.21637028"
+    },
+    {
+      "title": "Error Correction Is a Landauer Machine",
+      "type": "The thermodynamic floor of quantum error-correction overhead",
+      "link": "https://doi.org/10.5281/zenodo.22261547"
+    },
+    {
+      "title": "JPCUB Competitive Landscape v2.0",
+      "type": "Energy estimates for 17 quantum computing platforms",
+      "link": "https://doi.org/10.5281/zenodo.21821767"
+    },
+    {
+      "title": "The Universal Ignorance Audit",
+      "type": "A method for stating what research does not know",
+      "link": "https://doi.org/10.5281/zenodo.21901984"
+    },
+    {
+      "title": "Operating the Quniverse Fleet",
+      "type": "An autonomous cloud research system: successes, failures, roadmap",
+      "link": "https://doi.org/10.5281/zenodo.23079905"
+    },
+    {
+      "title": "CV",
+      "type": "Full CV",
+      "link": "https://github.com/rwnq8/resume"
+    }
   ],
   "contact": {
-    "email": "rowan.quni@outlook.com",
+    "email": "rowan.quni@qnfo.org",
     "orcid": "0009-0002-4317-5604",
     "isni": "0000 0005 2645 6062",
-    "resume_doi": "10.5281/zenodo.21806274"
+    "cv": "https://github.com/rwnq8/resume"
   },
   "apply_notes": {
     "headline_max_chars": 220,
     "about_max_chars": 2600,
-    "about_char_count": 881,
+    "about_char_count": 800,
     "skills_max": 50,
-    "skills_count": 45,
+    "skills_count": 30,
     "pacing": "one section per session; 3-5s between field operations; human-in-the-loop for CAPTCHA/2FA",
-    "selectors": "autocomplete attributes, NOT element IDs (LinkedIn randomizes IDs)"
+    "selectors": "autocomplete attributes, NOT element IDs (LinkedIn randomizes IDs)",
+    "headline_char_count": 156
   }
 }
