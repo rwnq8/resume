@@ -1,17 +1,17 @@
 # Rowan Brad Quni-Gudzinas
 
-### Research systems builder
+### Systems researcher · Autonomous AI systems
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4317--5604-a6ce39?logo=orcid)](https://orcid.org/0009-0002-4317-5604)
 [![qnfo.org](https://img.shields.io/badge/qnfo.org-QNFO-24315e)](https://qnfo.org)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rowan--quni-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowan-quni)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eHIbqxkAAAAJ)
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
-![Resume Version](https://img.shields.io/badge/resume-v4.0-green)
+![Resume Version](https://img.shields.io/badge/resume-v5.0-green)
 
 ---
 
-> I build the machinery that turns messy evidence into decisions people can trust. For 15 years I ran national research programs and data products at the U.S. Federal Highway Administration and AARP. I now run QNFO, an open research imprint where an AI-assisted pipeline drafts, referees, revises and corrects papers, and every claim states its status.
+> I study autonomous AI systems as systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them. I have modeled complex systems for twenty years, from transportation network modeling in my first role, to a national network model of long-distance travel for the U.S. Federal Highway Administration, to data-driven decision support at AARP and machine-learning work at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. I am a systems researcher, not a software engineer.
 
 Earlier work is published under **Brad Gudzinas**.
 
@@ -22,22 +22,22 @@ Earlier work is published under **Brad Gudzinas**.
 | Document | Purpose |
 |:---------|:--------|
 | **[RESUME.md](RESUME.md)** | CV: experience, selected work, education, certifications |
-| **[PORTFOLIO.md](PORTFOLIO.md)** | The programs and products behind the CV, and the research lines at QNFO |
+| **[PORTFOLIO.md](PORTFOLIO.md)** | The research lines at QNFO and the systems work behind the CV |
 | **[SKILLS-TECHNOLOGY.md](SKILLS-TECHNOLOGY.md)** | Skills, each with where it was used |
-| **[rowan-quni-cv-v4.0.pdf](rowan-quni-cv-v4.0.pdf)** | The CV as a PDF |
+| **[rowan-quni-cv-v5.0.pdf](rowan-quni-cv-v5.0.pdf)** | The CV as a PDF |
 
 ## At a Glance
 
 | | |
 |:---|:---|
-| **Federal research managed** | $1.5M+ portfolio as certified Contracting Officer's Representative (FHWA, 2011 to 2015) |
-| **National data product** | AARP Livability Index: 50+ data sources across 7 domains, cited in 20+ studies (2016 to 2021) |
-| **Research system built** | QNFO: an autonomous AI-assisted research pipeline on Cloudflare (2024 to now) |
-| **Current question** | What a correct computation really costs, measured as energy per correct answer (JPCUB) |
+| **Autonomous system built and studied** | QNFO: 44 live agents that draft, referee, revise, publish and correct research, with a published failure ledger (2024 to now) |
+| **National network model** | Technical lead on components of the FHWA Tour-Based Model System for long-distance travel (2011 to 2015) |
+| **Decision-support system** | AARP Livability Index: 50+ data sources across 7 domains, cited in 20+ studies (2016 to 2021) |
+| **Current question** | How autonomous AI systems behave and fail in long-running operation, and what oversight keeps them legible |
 
 ## Open To
 
-Research management, applied AI and research-integrity roles. Remote, hybrid or on-site; willing to relocate.
+Research roles in autonomous and agentic AI systems; AI safety-adjacent work on evaluation, oversight and reliability; systems research leadership. Remote, hybrid or on-site; willing to relocate.
 
 ## Contact
 

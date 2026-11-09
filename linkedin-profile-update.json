@@ -1,211 +1,201 @@
 {
-  "schema": "linkedin-profile-update-package/v1",
-  "generated_from": "rwnq8/resume v4.0 (RESUME.md, SKILLS-TECHNOLOGY.md, 2026-10-01)",
-  "generated_at": "2026-10-01",
-  "audit": {
-    "source_files": [
-      "RESUME.md",
-      "SKILLS-TECHNOLOGY.md"
-    ],
-    "factual_only": true,
-    "every_claim_attested": true,
-    "identity": "systems-first (owner decision 2026-10-01); claims follow QNFO/qnfo-workers docs/STRATEGY.md section 2: no patent, publication-count, national-media or clearance-eligible claims"
+ "schema": "linkedin-profile-update-package/v1",
+ "generated_from": "rwnq8/resume v5.0 (RESUME.md, SKILLS-TECHNOLOGY.md, 2026-11-09)",
+ "generated_at": "2026-11-09",
+ "audit": {
+  "source_files": [
+   "RESUME.md",
+   "SKILLS-TECHNOLOGY.md"
+  ],
+  "factual_only": true,
+  "every_claim_attested": true,
+  "identity": "systems researcher, autonomous AI systems (owner decision 2026-11-09: quantum is no longer a lead; not described as a software engineer or developer); claims follow QNFO/qnfo-workers docs/STRATEGY.md section 2: no patent, publication-count, national-media or clearance-eligible claims"
+ },
+ "profile": {
+  "name": "Rowan Brad Quni-Gudzinas",
+  "also_known_as": [
+   "Brad Gudzinas",
+   "Bradley Gudzinas",
+   "Rowan Quni"
+  ],
+  "headline": "Systems researcher · Autonomous AI systems: design, operation, failure and oversight · 20 years of systems and network modeling (FHWA national travel model, AARP Livability Index)",
+  "location": "Open to remote, hybrid, or on-site; willing to relocate",
+  "url": "https://www.linkedin.com/in/rowan-quni"
+ },
+ "about": "I study autonomous AI systems as systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them.\n\nI have modeled complex systems for twenty years. I started in transportation network modeling and GIS. At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System, a network model of long-distance travel, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative. At Deloitte I delivered analytics and machine-learning engagements for public-sector clients. At AARP's Public Policy Institute I led the Livability Index, a decision-support system that scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nSince 2024 I have designed and run QNFO, an autonomous research system of 44 live agents that draft, referee, revise, publish and correct papers, and I have published what it delivers, what it costs and where it fails (Operating the Quniverse Fleet), along with oversight methods for AI-assisted work (The Universal Ignorance Audit).\n\nI am a systems researcher, not a software engineer. Open to research roles in autonomous and agentic AI systems, AI safety-adjacent work on evaluation, oversight and reliability, and systems research leadership. Earlier work is published under Brad Gudzinas.",
+ "experience": [
+  {
+   "title": "Founder and Systems Researcher",
+   "company": "QNFO (independent research on autonomous AI systems)",
+   "location": "Remote",
+   "dates": "2024 – Present",
+   "description": "Designed and operate an autonomous research system on Cloudflare (44 live workers) that drafts, referees, revises, versions, publishes and corrects papers, with standing objectives, health checks and a failure ledger.\n\nReported how it behaves in operation: Operating the Quniverse Fleet (objectives, successes, failures, roadmap).\n\nDesigned oversight methods for AI-assisted work: The Universal Ignorance Audit; Epistemic Legibility in AI-Assisted Science.\n\nProposed JPCUB, a whole-system cost measure for computing (joules per correct answer), with an extension to stochastic and agentic LLM inference."
   },
-  "profile": {
-    "name": "Rowan Brad Quni-Gudzinas",
-    "also_known_as": [
-      "Brad Gudzinas",
-      "Bradley Gudzinas",
-      "Rowan Quni"
-    ],
-    "headline": "Research systems builder · Founder, QNFO: open, auditable AI-assisted research · 15 years of national data and policy research (FHWA, AARP Livability Index)",
-    "location": "Open to remote, hybrid, or on-site; willing to relocate",
-    "url": "https://www.linkedin.com/in/rowan-quni"
+  {
+   "title": "Executive Director & Founder",
+   "company": "Empowering Change (nonprofit)",
+   "location": "San Francisco, CA",
+   "dates": "2023 – 2024",
+   "description": "Took the nonprofit from incorporation to public launch. Led an LLM legal-navigation tool for self-represented litigants: document drafting, procedural guidance and plain-language translation of legal terms."
   },
-  "about": "I build the machinery that turns messy evidence into decisions people can trust.\n\nAt the U.S. Federal Highway Administration I managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative and helped build the national long-distance travel forecasting model. At AARP's Public Policy Institute I led the Livability Index, which scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nI now run QNFO, an independent research imprint where an AI-assisted pipeline drafts, referees, revises and corrects papers, and every claim states its status. My current question is what a correct computation really costs in energy (the JPCUB benchmark).\n\nOpen to research management, applied AI and research-integrity roles. Earlier work is published under Brad Gudzinas.",
-  "experience": [
-    {
-      "title": "Founder",
-      "company": "QNFO (independent research)",
-      "location": "Remote",
-      "dates": "2024 – Present",
-      "description": "Built and run an autonomous research system on Cloudflare that drafts, referees, revises, versions, publishes and corrects papers, with a public errata trail.\n\nDesigned the audit method (The Universal Ignorance Audit; Epistemic Legibility in AI-Assisted Science).\n\nProposed JPCUB, a whole-system energy benchmark for computing (joules per correct answer): measurement protocol, estimates for 17 quantum platforms, and an extension to LLM inference."
-    },
-    {
-      "title": "Executive Director & Founder",
-      "company": "Empowering Change (nonprofit)",
-      "location": "San Francisco, CA",
-      "dates": "2023 – 2024",
-      "description": "Took the nonprofit from incorporation to public launch. Built an LLM legal-navigation tool for self-represented litigants: document drafting, procedural guidance and plain-language translation of legal terms."
-    },
-    {
-      "title": "Platform Data Product Manager",
-      "company": "iManage",
-      "location": "",
-      "dates": "2022 – 2023",
-      "description": ""
-    },
-    {
-      "title": "Senior Product Manager",
-      "company": "Epsilon (Publicis Groupe)",
-      "location": "",
-      "dates": "2021 – 2022",
-      "description": ""
-    },
-    {
-      "title": "Product Manager & Senior Methods Advisor",
-      "company": "AARP Public Policy Institute",
-      "location": "Washington, DC",
-      "dates": "2016 – 2021",
-      "description": "Led the AARP Livability Index: 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide, across multiple public releases. Co-authored the Livability Index 2018 report and AARP policy work on housing affordability. The Index and its method are cited in 20+ academic and policy studies."
-    },
-    {
-      "title": "Senior Data Scientist",
-      "company": "The Advisory Board Company",
-      "location": "",
-      "dates": "2016",
-      "description": ""
-    },
-    {
-      "title": "Senior Associate, Data Analytics",
-      "company": "Deloitte Consulting LLP",
-      "location": "Washington, DC",
-      "dates": "2015 – 2016",
-      "description": "Delivered analytics and machine-learning engagements for federal and public-sector clients. Co-authored a 2016 TRB paper on updating the National Household Travel Survey with American Community Survey data."
-    },
-    {
-      "title": "Data Analyst & Research Manager",
-      "company": "U.S. Department of Transportation — Federal Highway Administration (FHWA)",
-      "location": "Washington, DC",
-      "dates": "2011 – 2015",
-      "description": "Managed a $1.5M+ federal research portfolio as certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables.\n\nLed technical components of the national Tour-Based Model System for long-distance passenger travel forecasting."
-    }
-  ],
-  "earlier_roles": [
-    {
-      "title": "Consultant",
-      "company": "IBI Group",
-      "period": "2008–2011"
-    },
-    {
-      "title": "Systems Planner",
-      "company": "Delaware Valley Regional Planning Commission",
-      "period": "2005–2008"
-    },
-    {
-      "title": "GIS Analyst",
-      "company": "Cross County Connection TMA",
-      "period": "2004–2005"
-    }
-  ],
-  "skills": [
-    "Research Program Management",
-    "Federal Grant & Contract Management",
-    "Multi-Stakeholder Management",
-    "Policy Analysis",
-    "Research Integrity",
-    "Large-Scale Data Integration",
-    "National-Scale Statistical Modeling",
-    "Travel Demand Modeling",
-    "Geospatial Analytics (GIS)",
-    "Full Product Lifecycle",
-    "Product Strategy & Roadmap",
-    "Data Products",
-    "LLM Deployment & Productization",
-    "AI Agent Systems",
-    "Benchmark Design",
-    "Energy Efficiency of Computing",
-    "Predictive Modeling",
-    "Python",
-    "JavaScript / TypeScript",
-    "SQL",
-    "R",
-    "Cloudflare",
-    "AWS",
-    "Docker",
-    "Git / GitHub",
-    "Pandoc",
-    "LaTeX",
-    "Project Management (PMP)",
-    "Federal Procurement (COR)",
-    "Urban & Regional Planning (AICP)"
-  ],
-  "education": [
-    {
-      "school": "Rutgers University — Edward J. Bloustein School of Planning and Public Policy",
-      "degree": "M.S., City and Regional Studies",
-      "dates": "2008"
-    },
-    {
-      "school": "Rutgers University–Camden",
-      "degree": "B.A., Urban Studies and Community Planning",
-      "dates": "2004"
-    }
-  ],
-  "certifications": [
-    {
-      "name": "Project Management Professional (PMP)",
-      "issuer": "Project Management Institute",
-      "year": "2016"
-    },
-    {
-      "name": "Contracting Officer's Representative (COR)",
-      "issuer": "Defense Acquisition University",
-      "year": "2011"
-    },
-    {
-      "name": "American Institute of Certified Planners (AICP)",
-      "issuer": "American Planning Association",
-      "year": "2009"
-    }
-  ],
-  "featured": [
-    {
-      "title": "The Joules-per-Solution Metric",
-      "type": "Definition, measurement protocol and anti-gaming rules",
-      "link": "https://doi.org/10.5281/zenodo.21637028"
-    },
-    {
-      "title": "Error Correction Is a Landauer Machine",
-      "type": "The thermodynamic floor of quantum error-correction overhead",
-      "link": "https://doi.org/10.5281/zenodo.22261547"
-    },
-    {
-      "title": "JPCUB Competitive Landscape v2.0",
-      "type": "Energy estimates for 17 quantum computing platforms",
-      "link": "https://doi.org/10.5281/zenodo.21821767"
-    },
-    {
-      "title": "The Universal Ignorance Audit",
-      "type": "A method for stating what research does not know",
-      "link": "https://doi.org/10.5281/zenodo.21901984"
-    },
-    {
-      "title": "Operating the Quniverse Fleet",
-      "type": "An autonomous cloud research system: successes, failures, roadmap",
-      "link": "https://doi.org/10.5281/zenodo.23079905"
-    },
-    {
-      "title": "CV",
-      "type": "Full CV",
-      "link": "https://github.com/rwnq8/resume"
-    }
-  ],
-  "contact": {
-    "email": "rowan.quni@qnfo.org",
-    "orcid": "0009-0002-4317-5604",
-    "isni": "0000 0005 2645 6062",
-    "cv": "https://github.com/rwnq8/resume",
-    "linkedin": "https://www.linkedin.com/in/rowan-quni"
+  {
+   "title": "Platform Data Product Manager",
+   "company": "iManage",
+   "location": "",
+   "dates": "2022 – 2023",
+   "description": ""
   },
-  "apply_notes": {
-    "headline_max_chars": 220,
-    "about_max_chars": 2600,
-    "about_char_count": 800,
-    "skills_max": 50,
-    "skills_count": 30,
-    "pacing": "one section per session; 3-5s between field operations; human-in-the-loop for CAPTCHA/2FA",
-    "selectors": "autocomplete attributes, NOT element IDs (LinkedIn randomizes IDs)",
-    "headline_char_count": 156
+  {
+   "title": "Senior Product Manager",
+   "company": "Epsilon (Publicis Groupe)",
+   "location": "",
+   "dates": "2021 – 2022",
+   "description": ""
+  },
+  {
+   "title": "Product Manager & Senior Methods Advisor",
+   "company": "AARP Public Policy Institute",
+   "location": "Washington, DC",
+   "dates": "2016 – 2021",
+   "description": "Led the AARP Livability Index, a national decision-support system: 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide, across multiple public releases. Co-authored the Livability Index 2018 report and AARP policy work on housing affordability. The Index and its method are cited in 20+ academic and policy studies."
+  },
+  {
+   "title": "Senior Data Scientist",
+   "company": "The Advisory Board Company",
+   "location": "",
+   "dates": "2016",
+   "description": ""
+  },
+  {
+   "title": "Senior Associate, Data Analytics",
+   "company": "Deloitte Consulting LLP",
+   "location": "Washington, DC",
+   "dates": "2015 – 2016",
+   "description": "Delivered analytics and machine-learning engagements for federal and public-sector clients. Co-authored a 2016 TRB paper on updating the National Household Travel Survey with American Community Survey data."
+  },
+  {
+   "title": "Data Analyst & Research Manager",
+   "company": "U.S. Department of Transportation — Federal Highway Administration (FHWA)",
+   "location": "Washington, DC",
+   "dates": "2011 – 2015",
+   "description": "Led technical components of the national Tour-Based Model System, a network model of long-distance passenger travel across the United States.\n\nManaged a $1.5M+ federal research portfolio as certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables."
   }
+ ],
+ "earlier_roles": [
+  {
+   "title": "Consultant",
+   "company": "IBI Group",
+   "period": "2008–2011"
+  },
+  {
+   "title": "Systems Planner",
+   "company": "Delaware Valley Regional Planning Commission",
+   "period": "2005–2008"
+  },
+  {
+   "title": "GIS Analyst",
+   "company": "Cross County Connection TMA",
+   "period": "2004–2005"
+  }
+ ],
+ "skills": [
+  "Autonomous Systems",
+  "AI Agent Systems",
+  "Multi-Agent Systems",
+  "AI Safety",
+  "AI Evaluation",
+  "AI Oversight and Audit",
+  "Systems Research",
+  "Systems Modeling",
+  "Network Modeling",
+  "Complex Systems",
+  "Simulation Modeling",
+  "Travel Demand Modeling",
+  "National-Scale Statistical Modeling",
+  "Machine Learning",
+  "Decision Support Systems",
+  "Data-Driven Decision Making",
+  "Large-Scale Data Integration",
+  "Geospatial Analytics (GIS)",
+  "Research Program Management",
+  "Federal Grant & Contract Management",
+  "Multi-Stakeholder Management",
+  "Research Integrity",
+  "Policy Analysis",
+  "Benchmark Design",
+  "LLM Deployment & Productization",
+  "Data Products",
+  "Full Product Lifecycle",
+  "Cloudflare",
+  "LaTeX",
+  "Project Management"
+ ],
+ "education": [
+  {
+   "school": "Rutgers University — Edward J. Bloustein School of Planning and Public Policy",
+   "degree": "M.S., City and Regional Studies",
+   "dates": "2008"
+  },
+  {
+   "school": "Rutgers University–Camden",
+   "degree": "B.A., Urban Studies and Community Planning",
+   "dates": "2004"
+  }
+ ],
+ "certifications": [
+  {
+   "name": "Project Management Professional (PMP)",
+   "issuer": "Project Management Institute",
+   "year": "2016"
+  },
+  {
+   "name": "Contracting Officer's Representative (COR)",
+   "issuer": "Defense Acquisition University",
+   "year": "2011"
+  },
+  {
+   "name": "American Institute of Certified Planners (AICP)",
+   "issuer": "American Planning Association",
+   "year": "2009"
+  }
+ ],
+ "featured": [
+  {
+   "title": "Operating the Quniverse Fleet",
+   "type": "Objectives, successes, failures and roadmap of an autonomous cloud research system",
+   "link": "https://doi.org/10.5281/zenodo.23079905"
+  },
+  {
+   "title": "The Universal Ignorance Audit",
+   "type": "A method for stating what research does not know",
+   "link": "https://doi.org/10.5281/zenodo.21901984"
+  },
+  {
+   "title": "Epistemic Legibility in AI-Assisted Science",
+   "type": "Ignorance auditing as a governance tool for peer review",
+   "link": "https://doi.org/10.5281/zenodo.22026592"
+  },
+  {
+   "title": "Joules-per-Solution for Stochastic and Agentic Inference",
+   "type": "The cost of a correct answer for frontier and agentic LLMs",
+   "link": "https://doi.org/10.5281/zenodo.21945415"
+  }
+ ],
+ "contact": {
+  "email": "rowan.quni@qnfo.org",
+  "orcid": "0009-0002-4317-5604",
+  "isni": "0000 0005 2645 6062",
+  "cv": "https://github.com/rwnq8/resume",
+  "linkedin": "https://www.linkedin.com/in/rowan-quni"
+ },
+ "apply_notes": {
+  "headline_max_chars": 220,
+  "about_max_chars": 2600,
+  "about_char_count": 1352,
+  "skills_max": 50,
+  "skills_count": 30,
+  "pacing": "one section per session; 3-5s between field operations; human-in-the-loop for CAPTCHA/2FA",
+  "selectors": "autocomplete attributes, NOT element IDs (LinkedIn randomizes IDs)",
+  "headline_char_count": 179
+ }
 }

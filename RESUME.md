@@ -1,6 +1,6 @@
 # ROWAN BRAD QUNI-GUDZINAS
 
-## Research systems builder
+## Systems researcher · Autonomous AI systems
 
 Amsterdam, Netherlands · rowan.quni@qnfo.org · [qnfo.org](https://qnfo.org) · ORCID [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604) · [LinkedIn](https://www.linkedin.com/in/rowan-quni)
 
@@ -10,25 +10,26 @@ Earlier work is published under **Brad Gudzinas**.
 
 ## SUMMARY
 
-Research and data leader who builds the systems behind the research. 15 years running national research programs and data products at the U.S. Federal Highway Administration and AARP. Founder of QNFO, an independent research imprint with an AI-assisted pipeline, a published audit method and a public correction trail. Open to research management, applied AI and research-integrity roles.
+Systems researcher focused on autonomous AI systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them. Twenty years of modeling complex systems: transportation network modeling from my first role in 2004, a national network model of long-distance travel for the U.S. Federal Highway Administration, data-driven decision support at AARP, and machine-learning work at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. Open to research roles in autonomous and agentic AI systems, AI safety-adjacent work on evaluation, oversight and reliability, and systems research leadership.
 
 ---
 
 ## EXPERIENCE
 
-### Founder
-**QNFO** (independent research) | 2024 to present
+### Founder and Systems Researcher
+**QNFO** (independent research on autonomous AI systems) | 2024 to present
 
-- Built and run an autonomous research system on Cloudflare (44 live workers) that drafts, referees, revises, versions, publishes and corrects papers.
+- Designed and operate an autonomous research system on Cloudflare (44 live workers) that drafts, referees, revises, versions, publishes and corrects papers, with standing objectives, health checks and a failure ledger.
+- Reported how the system behaves in operation: [Operating the Quniverse Fleet](https://doi.org/10.5281/zenodo.23079905) sets out its objectives, successes, failures and roadmap.
+- Designed oversight methods for AI-assisted work: [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) and [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592).
+- Proposed JPCUB, a whole-system cost measure for computing (joules per correct answer), with a [measurement protocol](https://doi.org/10.5281/zenodo.21637028) and an [extension to stochastic and agentic LLM inference](https://doi.org/10.5281/zenodo.21945415).
 - Publish an open library of preprints with DOIs ([papers.qnfo.org](https://papers.qnfo.org)) and a knowledge graph that other tools can query by API.
-- Designed the audit method: [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) and [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592).
-- Proposed JPCUB, a whole-system energy benchmark for computing (joules per correct answer). Published the [measurement protocol](https://doi.org/10.5281/zenodo.21637028), [estimates for 17 quantum platforms](https://doi.org/10.5281/zenodo.21821767) and an [extension to LLM inference](https://doi.org/10.5281/zenodo.21945415).
 
 ### Executive Director and Founder
 **Empowering Change** (nonprofit) | San Francisco, CA | 2023 to 2024
 
 - Took the nonprofit from incorporation to public launch.
-- Built an LLM legal-navigation tool for self-represented litigants: document drafting, procedural guidance and plain-language translation of legal terms.
+- Led an LLM legal-navigation tool for self-represented litigants: document drafting, procedural guidance and plain-language translation of legal terms.
 
 ### Platform Data Product Manager
 **iManage** | 2022 to 2023
@@ -39,7 +40,7 @@ Research and data leader who builds the systems behind the research. 15 years ru
 ### Product Manager and Senior Methods Advisor
 **AARP Public Policy Institute** | Washington, DC | 2016 to 2021
 
-- Led the [AARP Livability Index](https://livabilityindex.aarp.org): 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide, across multiple public releases.
+- Led the [AARP Livability Index](https://livabilityindex.aarp.org), a national decision-support system: 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide, across multiple public releases.
 - Co-authored the Livability Index 2018 report and AARP policy work on housing affordability, including the 2016 analysis of Low-Income Housing Tax Credits.
 - The Index and its method are cited in 20+ academic and policy studies.
 
@@ -55,11 +56,11 @@ Research and data leader who builds the systems behind the research. 15 years ru
 ### Data Analyst and Research Manager
 **U.S. Department of Transportation, Federal Highway Administration** | Washington, DC | 2011 to 2015
 
+- Led technical components of the national Tour-Based Model System, a network model of long-distance passenger travel across the United States.
 - Managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables.
-- Led technical components of the national Tour-Based Model System for long-distance passenger travel forecasting.
 - Presented national long-distance travel data needs at the 2011 TRB National Household Travel Survey workshop.
 
-### Earlier roles
+### Earlier roles: transportation network modeling and GIS
 
 | Role | Organization | Period |
 |:-----|:-------------|:-------|
@@ -71,12 +72,12 @@ Research and data leader who builds the systems behind the research. 15 years ru
 
 ## SELECTED WORK
 
-1. AARP Livability Index 2018 report (co-author, as Brad Gudzinas)
-2. Tour-Based National Model System, FHWA (2014, as Brad Gudzinas)
-3. [The Joules-per-Solution Metric: Definition, Measurement Protocol, and Anti-Gaming Provisions](https://doi.org/10.5281/zenodo.21637028) (2026)
-4. [Error Correction Is a Landauer Machine: The Thermodynamic Floor of Quantum Error-Correction Overhead](https://doi.org/10.5281/zenodo.22261547) (2026)
-5. [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) (2026)
-6. [Operating the Quniverse Fleet: Objectives, Successes, Failures, and Roadmap of an Autonomous Cloud Research System](https://doi.org/10.5281/zenodo.23079905) (2026)
+1. [Operating the Quniverse Fleet: Objectives, Successes, Failures, and Roadmap of an Autonomous Cloud Research System](https://doi.org/10.5281/zenodo.23079905) (2026)
+2. [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) (2026)
+3. [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592) (2026)
+4. [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415) (2026)
+5. Tour-Based National Model System, FHWA (2014, as Brad Gudzinas)
+6. AARP Livability Index 2018 report (co-author, as Brad Gudzinas)
 
 Every QNFO paper is prepared with an AI-assisted research pipeline; the author is responsible for its content. Full library: [papers.qnfo.org](https://papers.qnfo.org). All records: [Zenodo](https://zenodo.org/search?q=creators.orcid%3A0009-0002-4317-5604).
 
@@ -95,5 +96,4 @@ Every QNFO paper is prepared with an AI-assisted research pipeline; the author i
 
 ## SKILLS
 
-Research program management · federal contract oversight · product management · statistical and travel-demand modeling · GIS · LLM agent systems · Cloudflare Workers, D1, R2, Vectorize · Python, JavaScript, SQL
-
+Autonomous and agentic system design · operating and monitoring multi-agent systems · failure analysis · oversight and audit methods for AI-assisted work · systems and network modeling · travel-demand and simulation modeling · statistical modeling and applied machine learning · data-driven decision support · GIS · research program management · federal contract oversight
