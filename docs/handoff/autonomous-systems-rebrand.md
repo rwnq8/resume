@@ -17,7 +17,7 @@ define, design, build done; PDF rebuilt (v5.0). Deploy is the owner's merge; Lin
 ## Decisions made (and why)
 - Headline "Systems researcher · Autonomous AI systems" (owner, 2026-11-09).
 - Network-modeling thread from the first transport role (2004) through the FHWA Tour-Based Model System is owner-stated; the FHWA bullet now calls that model a network model of long-distance travel.
-- Programming languages removed from skills: the owner states he does not write software. "Built" became "Led" for the Empowering Change LLM tool for the same reason.
+- Programming languages removed from skills: the owner states that they do not write software. "Built" became "Led" for the Empowering Change LLM tool for the same reason.
 - Quantum papers dropped from Selected Work and LinkedIn Featured; JPCUB kept through its agentic-inference extension.
 - No new claims: every bullet is in the v4.0 verified CV or was stated by the owner on 2026-11-09.
 
