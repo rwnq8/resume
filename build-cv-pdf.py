@@ -7,14 +7,14 @@ builds the combined v3.x portfolio). Needs Python's `markdown` package and a Chr
 
 Usage:
   python build-cv-pdf.py                      # finds chrome/chromium on PATH or CHROME env var
-  python build-cv-pdf.py --chrome /path/to/chrome --out rowan-quni-cv-v4.0.pdf
+  python build-cv-pdf.py --chrome /path/to/chrome --out rowan-quni-cv-v5.0.pdf
 """
 import argparse, os, shutil, subprocess, sys, tempfile
 
 import markdown
 
 SRC = os.path.dirname(os.path.abspath(__file__))
-VERSION = "v4.0"
+VERSION = "v5.0"
 
 CSS = """
 @page { size: A4; margin: 16mm 16mm 16mm 16mm; }
