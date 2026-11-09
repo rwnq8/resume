@@ -22,7 +22,7 @@
   "location": "Open to remote, hybrid, or on-site; willing to relocate",
   "url": "https://www.linkedin.com/in/rowan-quni"
  },
- "about": "I study autonomous AI systems as systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them.\n\nMy work has been about systems for twenty years. I started in transportation, with GIS and transportation networks. At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System, a simulation of long-distance travel, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative. At Deloitte I delivered analytics and machine-learning engagements for public-sector clients. At AARP's Public Policy Institute I led the Livability Index, a decision-support system that scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nSince 2024 I have designed and run QNFO, an autonomous research system of 44 live agents that draft, referee, revise, publish and correct papers, and I have published what it delivers, what it costs and where it fails (Operating the Quniverse Fleet), along with methods for auditing what AI-assisted work does not know (The Universal Ignorance Audit).\n\nI am a systems researcher, not a software engineer. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI. Earlier work is published under Brad Gudzinas.",
+ "about": "I study autonomous AI systems as systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them.\n\nMy work has been about systems for twenty years. I started in transportation with GIS, then built and ran transportation network models at DVRPC and IBI Group. At the U.S. Federal Highway Administration I specified the national Tour-Based Model System, a simulation of long-distance travel, directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative. At Deloitte I delivered analytics and machine-learning engagements for public-sector clients. At AARP's Public Policy Institute I led the Livability Index, a decision-support system that scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nSince 2024 I have designed and run QNFO, an autonomous research system of 44 live agents that draft, referee, revise, publish and correct papers, and I have published what it delivers, what it costs and where it fails (Operating the Quniverse Fleet), along with methods for auditing what AI-assisted work does not know (The Universal Ignorance Audit).\n\nI am a systems researcher, not a software engineer. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI. Earlier work is published under Brad Gudzinas.",
  "experience": [
   {
    "title": "Founder and Systems Researcher",
@@ -50,7 +50,7 @@
    "company": "Epsilon (Publicis Groupe)",
    "location": "",
    "dates": "2021 – 2022",
-   "description": ""
+   "description": "Managed data products built on predictive machine-learning models."
   },
   {
    "title": "Product Manager & Senior Methods Advisor",
@@ -78,19 +78,21 @@
    "company": "U.S. Department of Transportation — Federal Highway Administration (FHWA)",
    "location": "Washington, DC",
    "dates": "2011 – 2015",
-   "description": "Led technical components of the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States.\n\nManaged a $1.5M+ federal research portfolio as certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables."
+   "description": "Specified the national Tour-Based Model System, a simulation of long-distance passenger travel, and directed the contractor team that built it.\n\nCo-directed the $10M U.S. DOT National Household Travel Survey.\n\nManaged a $1.5M+ federal research portfolio as certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables."
   }
  ],
  "earlier_roles": [
   {
    "title": "Consultant",
    "company": "IBI Group",
-   "period": "2008–2011"
+   "period": "2008–2011",
+   "description": "Built and ran transportation network models."
   },
   {
    "title": "Systems Planner",
    "company": "Delaware Valley Regional Planning Commission",
-   "period": "2005–2008"
+   "period": "2005–2008",
+   "description": "Built and ran transportation network models."
   },
   {
    "title": "GIS Analyst",
@@ -128,7 +130,7 @@
   "LaTeX",
   "Project Management",
   "Socio-Technical Systems",
-  "Transportation Systems Planning"
+  "Network Modeling"
  ],
  "education": [
   {
@@ -191,7 +193,7 @@
  "apply_notes": {
   "headline_max_chars": 220,
   "about_max_chars": 2600,
-  "about_char_count": 1376,
+  "about_char_count": 1501,
   "skills_max": 50,
   "skills_count": 30,
   "pacing": "one section per session; 3-5s between field operations; human-in-the-loop for CAPTCHA/2FA",

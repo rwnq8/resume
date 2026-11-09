@@ -47,15 +47,19 @@ Ultrametric and adelic approaches to computation and information, published open
 
 ### Transportation networks and systems planning (2004 to 2011)
 
-My first role in transportation, as a GIS Analyst at Cross County Connection TMA, was spatial data and transportation networks. I then worked as a Systems Planner at the Delaware Valley Regional Planning Commission and a consultant at IBI Group.
+My first role in transportation, as a GIS Analyst at Cross County Connection TMA, was spatial data and transportation networks. As a Systems Planner at the Delaware Valley Regional Planning Commission (2005 to 2008) and a consultant at IBI Group (2008 to 2011) I built and ran transportation network models.
 
 ### FHWA national travel model (2011 to 2015)
 
-At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, and presented its data needs at the 2011 TRB National Household Travel Survey workshop. I managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative.
+At the U.S. Federal Highway Administration I specified the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, and directed the contractor team that built it. I co-directed the $10M U.S. DOT National Household Travel Survey and presented its data needs at the 2011 TRB National Household Travel Survey workshop. I managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative.
 
 ### Machine learning and analytics (2015 to 2016)
 
 At Deloitte Consulting I delivered analytics and machine-learning engagements for federal and public-sector clients, and co-authored a 2016 TRB paper on updating the National Household Travel Survey with American Community Survey data. I was then a Senior Data Scientist at The Advisory Board Company.
+
+### Predictive data products (2021 to 2023)
+
+At Epsilon (Publicis Groupe) I managed data products built on predictive machine-learning models, and I was then Platform Data Product Manager at iManage.
 
 ### AARP Livability Index (2016 to 2021)
 

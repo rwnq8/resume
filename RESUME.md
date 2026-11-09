@@ -10,7 +10,7 @@ Earlier work is published under **Brad Gudzinas**.
 
 ## SUMMARY
 
-Systems researcher studying autonomous AI systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them. Twenty years of systems work behind it: transportation network and GIS work from my first role in 2004, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP, and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI.
+Systems researcher studying autonomous AI systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them. Twenty years of systems work behind it: transportation network and GIS work from my first role in 2004, transportation network models at DVRPC and IBI Group, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP, and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI.
 
 ---
 
@@ -37,6 +37,8 @@ Systems researcher studying autonomous AI systems: how they are structured, how 
 ### Senior Product Manager
 **Epsilon (Publicis Groupe)** | 2021 to 2022
 
+- Managed data products built on predictive machine-learning models.
+
 ### Product Manager and Senior Methods Advisor
 **AARP Public Policy Institute** | Washington, DC | 2016 to 2021
 
@@ -56,7 +58,8 @@ Systems researcher studying autonomous AI systems: how they are structured, how 
 ### Data Analyst and Research Manager
 **U.S. Department of Transportation, Federal Highway Administration** | Washington, DC | 2011 to 2015
 
-- Led technical components of the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States.
+- Specified the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, and directed the contractor team that built it.
+- Co-directed the $10M U.S. DOT National Household Travel Survey.
 - Managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables.
 - Presented national long-distance travel data needs at the 2011 TRB National Household Travel Survey workshop.
 
@@ -64,8 +67,8 @@ Systems researcher studying autonomous AI systems: how they are structured, how 
 
 | Role | Organization | Period |
 |:-----|:-------------|:-------|
-| Consultant | IBI Group | 2008 to 2011 |
-| Systems Planner | Delaware Valley Regional Planning Commission | 2005 to 2008 |
+| Consultant: built and ran transportation network models | IBI Group | 2008 to 2011 |
+| Systems Planner: built and ran transportation network models | Delaware Valley Regional Planning Commission | 2005 to 2008 |
 | GIS Analyst | Cross County Connection TMA | 2004 to 2005 |
 
 ---
@@ -97,3 +100,5 @@ Every QNFO paper is prepared with an AI-assisted research pipeline; the author i
 ## SKILLS
 
 Autonomous and agentic system design · operating and monitoring multi-agent systems · failure analysis · oversight and audit methods for AI-assisted work · systems modeling · travel-demand and simulation modeling · statistical modeling and applied machine learning · data-driven decision support · GIS · research program management · federal contract oversight
+
+Tools I direct and work with: Python, SQL, Cloudflare Workers, GIS (ArcGIS, QGIS), LLM agent frameworks.

@@ -1,6 +1,6 @@
 # Skills and Technology
 
-Each skill is listed with where I used it. Nothing here rests on a self-rating. I am a systems researcher, not a software engineer: I design, model, operate and evaluate systems, and I do not list programming languages as skills.
+Each skill is listed with where I used it. Nothing here rests on a self-rating. I am a systems researcher, not a software engineer: I design, model, operate and evaluate systems; the tools I direct are listed on one line at the end.
 
 ---
 
@@ -15,14 +15,15 @@ Each skill is listed with where I used it. Nothing here rests on a self-rating. 
 | Cost measurement for agentic AI | [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415); [the metric and protocol](https://doi.org/10.5281/zenodo.21637028) |
 | LLM products | Empowering Change legal-navigation tool: document drafting, procedural guidance, plain-language translation |
 
-## Systems modeling
+## Systems and network modeling
 
 | Skill | Where I used it |
 |:------|:----------------|
-| Transportation networks and systems planning | GIS Analyst, Cross County Connection TMA (2004); Systems Planner, DVRPC (2005 to 2008); consultant, IBI Group (2008 to 2011) |
-| National travel model | Technical components of the Tour-Based Model System for long-distance passenger travel (FHWA, 2011 to 2015) |
+| Transportation network modeling | Built and ran transportation network models as Systems Planner, DVRPC (2005 to 2008) and consultant, IBI Group (2008 to 2011); GIS Analyst, Cross County Connection TMA (2004) |
+| National travel model | Specified the Tour-Based Model System for long-distance passenger travel and directed the contractor team that built it (FHWA, 2011 to 2015) |
+| National survey | Co-directed the $10M U.S. DOT National Household Travel Survey (FHWA) |
 | Statistical and travel-demand modeling | Tour-Based Model System (FHWA); TRB 2016 paper on updating the National Household Travel Survey (Deloitte) |
-| Applied machine learning | Analytics and machine-learning engagements for federal and public-sector clients (Deloitte); Senior Data Scientist (The Advisory Board Company) |
+| Applied machine learning | Analytics and machine-learning engagements for federal and public-sector clients (Deloitte); Senior Data Scientist (The Advisory Board Company); data products built on predictive machine-learning models (Epsilon) |
 | Geospatial analysis (GIS) | GIS Analyst and Systems Planner roles (2004 to 2008); tract-level scoring for the Livability Index |
 
 ## Data-driven decision support
@@ -52,6 +53,8 @@ Each skill is listed with where I used it. Nothing here rests on a self-rating. 
 | GIS | ArcGIS, QGIS |
 | Writing and publishing | Markdown, Pandoc, LaTeX, Zenodo |
 | Project management | Agile/Scrum, Jira, Confluence, MS Project |
+
+**Tools I direct and work with:** Python, SQL, Cloudflare Workers, GIS (ArcGIS, QGIS), LLM agent frameworks.
 
 ## Certifications
 

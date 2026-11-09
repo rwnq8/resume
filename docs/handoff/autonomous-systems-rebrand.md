@@ -16,7 +16,7 @@ define, design, build done; PDF rebuilt (v5.0). Deploy is the owner's merge; Lin
 
 ## Decisions made (and why)
 - Wording follows docs/BRAND.md (PR 3): headline "Autonomous AI systems researcher", target roles from its section 8.
-- Held back until the owner confirms (BRAND.md section 7): "network modeling since my first job" is written as "transportation network and GIS work"; the FHWA model stays "led technical components ... a simulation of long-distance travel", not "developed a network model".
+- Owner confirmed on 2026-11-09 (BRAND.md sections 5 to 7): DVRPC and IBI built and ran transportation network models; FHWA "specified the Tour-Based Model System and directed the contractor team that built it"; co-directed the $10M NHTS; Epsilon predictive ML data products; languages on one "tools I direct and work with" line only. Patents stay out.
 - Programming languages removed from skills: the owner states that they do not write software. "Built" became "Led" for the Empowering Change LLM tool for the same reason.
 - Quantum papers dropped from Selected Work and LinkedIn Featured; JPCUB kept through its agentic-inference extension.
 - No new claims: every bullet is in the v4.0 verified CV or was stated by the owner on 2026-11-09.
@@ -28,5 +28,5 @@ define, design, build done; PDF rebuilt (v5.0). Deploy is the owner's merge; Lin
 `grep -i quantum RESUME.md` returns nothing; `pdftotext rowan-quni-cv-v5.0.pdf - | head -3` shows the new headline.
 
 ## Open items
-- When the owner answers the BRAND.md section 7 claims, apply the confirmed wording here (owner: the brand thread relays the answers; probe: `grep -c 'network model' RESUME.md` is above 0 only after confirmation).
+- LinkedIn is applied with linkedin-apply-profile.py in the owner's own signed-in browser (LinkedIn has no profile-write API).
 - Website and GitHub profile copy: sibling thread "Rebrand website and GitHub profiles".
