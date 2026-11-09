@@ -38,7 +38,7 @@ Retired headlines (do not use): "Research systems builder" (retired 2026-11-09),
 **Long (about 200 words):**
 > Rowan Quni-Gudzinas is a systems researcher who studies autonomous AI systems: how they are structured, how they make decisions, how they fail, and how people can audit and govern them.
 >
-> Rowan's work has always been about systems. It started with GIS and regional transportation planning, where the object of study was the network: how people, places and trips connect. At the U.S. Federal Highway Administration (2011 to 2015), Rowan specified the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M+ federal research portfolio. At the AARP Public Policy Institute (2016 to 2021), Rowan led the AARP Livability Index, which combines 50+ data sources into one scoring framework used by planners and cited in 20+ studies.
+> Rowan's work has always been about systems. It started with GIS and transportation network modeling, first at the Delaware Valley Regional Planning Commission and then at IBI Group, where the object of study was the network: how people, places and trips connect. At the U.S. Federal Highway Administration (2011 to 2015), Rowan specified the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M+ federal research portfolio. At the AARP Public Policy Institute (2016 to 2021), Rowan led the AARP Livability Index, which combines 50+ data sources into one scoring framework used by planners and cited in 20+ studies.
 >
 > Those systems were the predecessors of today's AI: models that take in large amounts of evidence and turn it into decisions. Since 2024, as founder of QNFO, Rowan has run an autonomous AI research system in production that drafts, referees, revises, publishes and corrects papers, and has published what it delivers, what it costs and how it fails. Rowan's research asks how such systems can say what they do not know, and what a correct answer from an AI agent really costs.
 
@@ -49,8 +49,8 @@ Retired headlines (do not use): "Research systems builder" (retired 2026-11-09),
 | Period | Role (verified record) | The systems thread |
 |:--|:--|:--|
 | 2004 to 2005 | GIS Analyst, Cross County Connection TMA | Spatial data and transportation networks: first job in transportation |
-| 2005 to 2008 | Systems Planner, Delaware Valley Regional Planning Commission | Regional transportation systems planning |
-| 2008 to 2011 | Consultant, IBI Group | Transportation consulting |
+| 2005 to 2008 | Systems Planner, Delaware Valley Regional Planning Commission | Built and ran regional transportation network models (confirmed by Rowan 2026-11-09) |
+| 2008 to 2011 | Consultant, IBI Group | Transportation network modeling for clients (confirmed by Rowan 2026-11-09) |
 | 2011 to 2015 | Data Analyst and Research Manager, FHWA | Specified the national Tour-Based Model System and directed the contractor who built it; co-directed the $10M National Household Travel Survey; $1.5M+ research portfolio |
 | 2015 to 2016 | Senior Associate, Data Analytics, Deloitte | Analytics and machine-learning engagements for public-sector clients; TRB 2016 paper |
 | 2016 | Senior Data Scientist, The Advisory Board Company | Data science |
@@ -87,13 +87,13 @@ The arc in three beats, for interviews and cover letters:
 9. Built an LLM legal-navigation tool at Empowering Change.
 10. Co-directed the $10M U.S. DOT National Household Travel Survey, FHWA (confirmed by Rowan 2026-11-09).
 11. Managed data products built on predictive machine-learning models at Epsilon (Publicis Groupe) (confirmed by Rowan 2026-11-09).
-12. Credentials: M.S. City and Regional Studies (Rutgers), PMP, COR, AICP.
+12. Built and ran transportation network models at the Delaware Valley Regional Planning Commission (2005 to 2008) and IBI Group (2008 to 2011) (confirmed by Rowan 2026-11-09).
+13. Credentials: M.S. City and Regional Studies (Rutgers), PMP, COR, AICP.
 
-## 7. Claims that need Rowan's confirmation before use
+## 7. Claims held back
 
 | Claim | Status | Why it is held back |
 |:--|:--|:--|
-| "Network modeling since my first job" | Rowan's own statement; the record shows GIS Analyst (2004) and Systems Planner (2005). | The record does not describe network modeling tasks in those roles. Safe wording until confirmed: "transportation network and GIS work since my first job". |
 | Patents | None found in a patent search (review V3). | Never claim without numbers. |
 
 ## 8. Where this applies
