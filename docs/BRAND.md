@@ -51,11 +51,11 @@ Retired headlines (do not use): "Research systems builder" (retired 2026-11-09),
 | 2004 to 2005 | GIS Analyst, Cross County Connection TMA | Spatial data and transportation networks: first job in transportation |
 | 2005 to 2008 | Systems Planner, Delaware Valley Regional Planning Commission | Regional transportation systems planning |
 | 2008 to 2011 | Consultant, IBI Group | Transportation consulting |
-| 2011 to 2015 | Data Analyst and Research Manager, FHWA | National Tour-Based Model System for long-distance travel; $1.5M+ research portfolio |
+| 2011 to 2015 | Data Analyst and Research Manager, FHWA | National Tour-Based Model System for long-distance travel; co-directed the $10M National Household Travel Survey; $1.5M+ research portfolio |
 | 2015 to 2016 | Senior Associate, Data Analytics, Deloitte | Analytics and machine-learning engagements for public-sector clients; TRB 2016 paper |
 | 2016 | Senior Data Scientist, The Advisory Board Company | Data science |
 | 2016 to 2021 | Product Manager and Senior Methods Advisor, AARP PPI | AARP Livability Index: 50+ sources into one decision framework, cited in 20+ studies |
-| 2021 to 2023 | Senior Product Manager, Epsilon; Platform Data Product Manager, iManage | Data products at scale |
+| 2021 to 2023 | Senior Product Manager, Epsilon; Platform Data Product Manager, iManage | Data products built on predictive (machine-learning) models |
 | 2023 to 2024 | Founder, Empowering Change | An LLM tool guiding self-represented litigants through legal procedure |
 | 2024 to now | Founder, QNFO | An autonomous AI research system in production, with a published failure record |
 
@@ -74,7 +74,7 @@ The arc in three beats, for interviews and cover letters:
 
 **Quantum work:** the JPCUB papers stay in the library as published work. Lead with the agentic-inference paper (energy per correct answer for AI agents); mention the quantum estimates only as one application of the metric.
 
-## 6. Proof points (all verified against RESUME.md)
+## 6. Proof points (1 to 9 and 12 verified against RESUME.md; 10 and 11 confirmed by Rowan)
 
 1. Led technical components of the national Tour-Based Model System for long-distance passenger travel, FHWA (2011 to 2015).
 2. Managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative, FHWA.
@@ -85,7 +85,9 @@ The arc in three beats, for interviews and cover letters:
 7. Published methods for auditing what AI-assisted research does not know: [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) and [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592).
 8. Measured what an answer from an AI agent costs: [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415).
 9. Built an LLM legal-navigation tool at Empowering Change.
-10. Credentials: M.S. City and Regional Studies (Rutgers), PMP, COR, AICP.
+10. Co-directed the $10M U.S. DOT National Household Travel Survey, FHWA (confirmed by Rowan 2026-11-09).
+11. Managed data products built on predictive machine-learning models at Epsilon (Publicis Groupe) (confirmed by Rowan 2026-11-09).
+12. Credentials: M.S. City and Regional Studies (Rutgers), PMP, COR, AICP.
 
 ## 7. Claims that need Rowan's confirmation before use
 
@@ -93,8 +95,6 @@ The arc in three beats, for interviews and cover letters:
 |:--|:--|:--|
 | "Network modeling since my first job" | Rowan's own statement; the record shows GIS Analyst (2004) and Systems Planner (2005). | The record does not describe network modeling tasks in those roles. Safe wording until confirmed: "transportation network and GIS work since my first job". |
 | "Developed a network model for FHWA" | The record says "led technical components of the national Tour-Based Model System". | "Led technical components" is the verified scope; "developed the model" claims more. |
-| "Co-directed the $10M National Household Travel Survey" | In an October draft, removed from the verified CV (career-engine review V1). | Unconfirmed. |
-| "Led predictive analytics deployments at Epsilon" | Same draft (review V2). | Unconfirmed. |
 | Patents | None found in a patent search (review V3). | Never claim without numbers. |
 
 ## 8. Where this applies
