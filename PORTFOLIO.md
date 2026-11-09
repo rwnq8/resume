@@ -45,13 +45,13 @@ Ultrametric and adelic approaches to computation and information, published open
 
 ## The systems work behind it
 
-### Transportation network modeling (2004 to 2011)
+### Transportation networks and systems planning (2004 to 2011)
 
-My first roles, as a GIS Analyst at Cross County Connection TMA, a Systems Planner at the Delaware Valley Regional Planning Commission and a consultant at IBI Group, were transportation network modeling and GIS: representing a region as a network and asking how it behaves.
+My first role in transportation, as a GIS Analyst at Cross County Connection TMA, was spatial data and transportation networks. I then worked as a Systems Planner at the Delaware Valley Regional Planning Commission and a consultant at IBI Group.
 
 ### FHWA national travel model (2011 to 2015)
 
-At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System, a network model of long-distance passenger travel across the United States, and presented its data needs at the 2011 TRB National Household Travel Survey workshop. I managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative.
+At the U.S. Federal Highway Administration I led technical components of the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, and presented its data needs at the 2011 TRB National Household Travel Survey workshop. I managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative.
 
 ### Machine learning and analytics (2015 to 2016)
 

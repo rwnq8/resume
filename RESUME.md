@@ -1,6 +1,6 @@
 # ROWAN BRAD QUNI-GUDZINAS
 
-## Systems researcher · Autonomous AI systems
+## Autonomous AI systems researcher
 
 Amsterdam, Netherlands · rowan.quni@qnfo.org · [qnfo.org](https://qnfo.org) · ORCID [0009-0002-4317-5604](https://orcid.org/0009-0002-4317-5604) · [LinkedIn](https://www.linkedin.com/in/rowan-quni)
 
@@ -10,7 +10,7 @@ Earlier work is published under **Brad Gudzinas**.
 
 ## SUMMARY
 
-Systems researcher focused on autonomous AI systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them. Twenty years of modeling complex systems: transportation network modeling from my first role in 2004, a national network model of long-distance travel for the U.S. Federal Highway Administration, data-driven decision support at AARP, and machine-learning work at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. Open to research roles in autonomous and agentic AI systems, AI safety-adjacent work on evaluation, oversight and reliability, and systems research leadership.
+Systems researcher studying autonomous AI systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them. Twenty years of systems work behind it: transportation network and GIS work from my first role in 2004, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP, and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI.
 
 ---
 
@@ -56,11 +56,11 @@ Systems researcher focused on autonomous AI systems: how they are designed, how 
 ### Data Analyst and Research Manager
 **U.S. Department of Transportation, Federal Highway Administration** | Washington, DC | 2011 to 2015
 
-- Led technical components of the national Tour-Based Model System, a network model of long-distance passenger travel across the United States.
+- Led technical components of the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States.
 - Managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative: technical oversight, budgets, milestones and acceptance of contractor deliverables.
 - Presented national long-distance travel data needs at the 2011 TRB National Household Travel Survey workshop.
 
-### Earlier roles: transportation network modeling and GIS
+### Earlier roles: transportation networks, systems planning and GIS
 
 | Role | Organization | Period |
 |:-----|:-------------|:-------|
@@ -96,4 +96,4 @@ Every QNFO paper is prepared with an AI-assisted research pipeline; the author i
 
 ## SKILLS
 
-Autonomous and agentic system design · operating and monitoring multi-agent systems · failure analysis · oversight and audit methods for AI-assisted work · systems and network modeling · travel-demand and simulation modeling · statistical modeling and applied machine learning · data-driven decision support · GIS · research program management · federal contract oversight
+Autonomous and agentic system design · operating and monitoring multi-agent systems · failure analysis · oversight and audit methods for AI-assisted work · systems modeling · travel-demand and simulation modeling · statistical modeling and applied machine learning · data-driven decision support · GIS · research program management · federal contract oversight

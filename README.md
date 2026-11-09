@@ -1,6 +1,6 @@
 # Rowan Brad Quni-Gudzinas
 
-### Systems researcher · Autonomous AI systems
+### Autonomous AI systems researcher
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--4317--5604-a6ce39?logo=orcid)](https://orcid.org/0009-0002-4317-5604)
 [![qnfo.org](https://img.shields.io/badge/qnfo.org-QNFO-24315e)](https://qnfo.org)
@@ -11,7 +11,7 @@
 
 ---
 
-> I study autonomous AI systems as systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them. I have modeled complex systems for twenty years, from transportation network modeling in my first role, to a national network model of long-distance travel for the U.S. Federal Highway Administration, to data-driven decision support at AARP and machine-learning work at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. I am a systems researcher, not a software engineer.
+> I study autonomous AI systems as systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them. My work has been about systems for twenty years: transportation network and GIS work in my first role, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. I am a systems researcher, not a software engineer.
 
 Earlier work is published under **Brad Gudzinas**.
 
@@ -31,13 +31,13 @@ Earlier work is published under **Brad Gudzinas**.
 | | |
 |:---|:---|
 | **Autonomous system built and studied** | QNFO: 44 live agents that draft, referee, revise, publish and correct research, with a published failure ledger (2024 to now) |
-| **National network model** | Technical lead on components of the FHWA Tour-Based Model System for long-distance travel (2011 to 2015) |
+| **National travel model** | Led technical components of the FHWA Tour-Based Model System for long-distance travel (2011 to 2015) |
 | **Decision-support system** | AARP Livability Index: 50+ data sources across 7 domains, cited in 20+ studies (2016 to 2021) |
 | **Current question** | How autonomous AI systems behave and fail in long-running operation, and what oversight keeps them legible |
 
 ## Open To
 
-Research roles in autonomous and agentic AI systems; AI safety-adjacent work on evaluation, oversight and reliability; systems research leadership. Remote, hybrid or on-site; willing to relocate.
+Autonomous and AI systems research; AI evaluation and assurance; AI governance and oversight research; research program leadership for AI. Remote, hybrid or on-site; willing to relocate.
 
 ## Contact
 

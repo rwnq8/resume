@@ -15,12 +15,12 @@ Each skill is listed with where I used it. Nothing here rests on a self-rating. 
 | Cost measurement for agentic AI | [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415); [the metric and protocol](https://doi.org/10.5281/zenodo.21637028) |
 | LLM products | Empowering Change legal-navigation tool: document drafting, procedural guidance, plain-language translation |
 
-## Systems and network modeling
+## Systems modeling
 
 | Skill | Where I used it |
 |:------|:----------------|
-| Transportation network modeling | From my first role as GIS Analyst (2004) through Systems Planner (DVRPC) and consultant (IBI Group) |
-| National network model | Technical components of the Tour-Based Model System for long-distance passenger travel (FHWA, 2011 to 2015) |
+| Transportation networks and systems planning | GIS Analyst, Cross County Connection TMA (2004); Systems Planner, DVRPC (2005 to 2008); consultant, IBI Group (2008 to 2011) |
+| National travel model | Technical components of the Tour-Based Model System for long-distance passenger travel (FHWA, 2011 to 2015) |
 | Statistical and travel-demand modeling | Tour-Based Model System (FHWA); TRB 2016 paper on updating the National Household Travel Survey (Deloitte) |
 | Applied machine learning | Analytics and machine-learning engagements for federal and public-sector clients (Deloitte); Senior Data Scientist (The Advisory Board Company) |
 | Geospatial analysis (GIS) | GIS Analyst and Systems Planner roles (2004 to 2008); tract-level scoring for the Livability Index |
