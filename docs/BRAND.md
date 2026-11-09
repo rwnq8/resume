@@ -38,7 +38,7 @@ Retired headlines (do not use): "Research systems builder" (retired 2026-11-09),
 **Long (about 200 words):**
 > Rowan Quni-Gudzinas is a systems researcher who studies autonomous AI systems: how they are structured, how they make decisions, how they fail, and how people can audit and govern them.
 >
-> Rowan's work has always been about systems. It started with GIS and regional transportation planning, where the object of study was the network: how people, places and trips connect. At the U.S. Federal Highway Administration (2011 to 2015), Rowan led technical components of the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, and managed a $1.5M+ federal research portfolio. At the AARP Public Policy Institute (2016 to 2021), Rowan led the AARP Livability Index, which combines 50+ data sources into one scoring framework used by planners and cited in 20+ studies.
+> Rowan's work has always been about systems. It started with GIS and regional transportation planning, where the object of study was the network: how people, places and trips connect. At the U.S. Federal Highway Administration (2011 to 2015), Rowan specified the national Tour-Based Model System, a simulation of long-distance passenger travel across the United States, directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M+ federal research portfolio. At the AARP Public Policy Institute (2016 to 2021), Rowan led the AARP Livability Index, which combines 50+ data sources into one scoring framework used by planners and cited in 20+ studies.
 >
 > Those systems were the predecessors of today's AI: models that take in large amounts of evidence and turn it into decisions. Since 2024, as founder of QNFO, Rowan has run an autonomous AI research system in production that drafts, referees, revises, publishes and corrects papers, and has published what it delivers, what it costs and how it fails. Rowan's research asks how such systems can say what they do not know, and what a correct answer from an AI agent really costs.
 
@@ -51,7 +51,7 @@ Retired headlines (do not use): "Research systems builder" (retired 2026-11-09),
 | 2004 to 2005 | GIS Analyst, Cross County Connection TMA | Spatial data and transportation networks: first job in transportation |
 | 2005 to 2008 | Systems Planner, Delaware Valley Regional Planning Commission | Regional transportation systems planning |
 | 2008 to 2011 | Consultant, IBI Group | Transportation consulting |
-| 2011 to 2015 | Data Analyst and Research Manager, FHWA | National Tour-Based Model System for long-distance travel; co-directed the $10M National Household Travel Survey; $1.5M+ research portfolio |
+| 2011 to 2015 | Data Analyst and Research Manager, FHWA | Specified the national Tour-Based Model System and directed the contractor who built it; co-directed the $10M National Household Travel Survey; $1.5M+ research portfolio |
 | 2015 to 2016 | Senior Associate, Data Analytics, Deloitte | Analytics and machine-learning engagements for public-sector clients; TRB 2016 paper |
 | 2016 | Senior Data Scientist, The Advisory Board Company | Data science |
 | 2016 to 2021 | Product Manager and Senior Methods Advisor, AARP PPI | AARP Livability Index: 50+ sources into one decision framework, cited in 20+ studies |
@@ -74,9 +74,9 @@ The arc in three beats, for interviews and cover letters:
 
 **Quantum work:** the JPCUB papers stay in the library as published work. Lead with the agentic-inference paper (energy per correct answer for AI agents); mention the quantum estimates only as one application of the metric.
 
-## 6. Proof points (1 to 9 and 12 verified against RESUME.md; 10 and 11 confirmed by Rowan)
+## 6. Proof points (verified against RESUME.md, except where marked as confirmed by Rowan)
 
-1. Led technical components of the national Tour-Based Model System for long-distance passenger travel, FHWA (2011 to 2015).
+1. Specified the national Tour-Based Model System for long-distance passenger travel and directed the contractor team that built it, FHWA (2011 to 2015). (Record says "led technical components"; the specify-and-direct wording was confirmed by Rowan 2026-11-09.)
 2. Managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative, FHWA.
 3. Led the AARP Livability Index: 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide; cited in 20+ academic and policy studies.
 4. Co-authored a 2016 Transportation Research Board paper on updating the National Household Travel Survey with American Community Survey data.
@@ -94,7 +94,6 @@ The arc in three beats, for interviews and cover letters:
 | Claim | Status | Why it is held back |
 |:--|:--|:--|
 | "Network modeling since my first job" | Rowan's own statement; the record shows GIS Analyst (2004) and Systems Planner (2005). | The record does not describe network modeling tasks in those roles. Safe wording until confirmed: "transportation network and GIS work since my first job". |
-| "Developed a network model for FHWA" | The record says "led technical components of the national Tour-Based Model System". | "Led technical components" is the verified scope; "developed the model" claims more. |
 | Patents | None found in a patent search (review V3). | Never claim without numbers. |
 
 ## 8. Where this applies
