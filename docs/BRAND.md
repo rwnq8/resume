@@ -70,6 +70,8 @@ The arc in three beats, for interviews and cover letters:
 
 **Avoid:** software engineer · developer · coder · programmer · full-stack · "builds apps" · lists of programming languages in headlines or summaries · quantum computing as an identity or headline · "AI safety researcher" as a title (not yet earned by published safety work) · patent claims (none on record) · publication counts.
 
+**Tools (decided 2026-11-09):** programming languages and frameworks appear on one short line at the end of the CV and skills page only, worded as tools Rowan directs and works with, for example: "Tools I direct and work with: Python, SQL, Cloudflare Workers, GIS (ArcGIS, QGIS), LLM agent frameworks." Never in a headline, summary, bio or skill heading.
+
 **Quantum work:** the JPCUB papers stay in the library as published work. Lead with the agentic-inference paper (energy per correct answer for AI agents); mention the quantum estimates only as one application of the metric.
 
 ## 6. Proof points (all verified against RESUME.md)
@@ -94,7 +96,6 @@ The arc in three beats, for interviews and cover letters:
 | "Co-directed the $10M National Household Travel Survey" | In an October draft, removed from the verified CV (career-engine review V1). | Unconfirmed. |
 | "Led predictive analytics deployments at Epsilon" | Same draft (review V2). | Unconfirmed. |
 | Patents | None found in a patent search (review V3). | Never claim without numbers. |
-| Programming languages in SKILLS-TECHNOLOGY.md (Python, JavaScript, TensorFlow and others) | Listed today. | Conflicts with the new positioning; move to a short "tools I work with" line or remove. |
 
 ## 8. Where this applies
 
