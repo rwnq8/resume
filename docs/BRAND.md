@@ -126,6 +126,8 @@ Owner insight, 2026-11-10: the fleet is not only a research system; it is an aut
 **Bio add-on (one sentence, use after the short bio):**
 > Rowan also directs the fleet behind QNFO as a self-governing development platform: it chooses its own work, proves each change live and scores its own decisions, and QNFO is its first customer.
 
+**Linking the two brands (owner directive 2026-11-10: "this is going to remain my personal brand, but ... link the two now for increased exposure"):** the platform's home is [qnfo.org/platform](https://qnfo.org/platform). It credits "Directed by Rowan Brad Quni-Gudzinas, systems researcher studying autonomous AI systems", links rwnq8.github.io, ORCID, GitHub and LinkedIn, and names Rowan as creator in schema.org data. Every personal surface links back: the site header and JSON-LD (rwnq8.github.io), the GitHub profile badge and highlight (rwnq8/rwnq8), and the CV's QNFO entry. The platform page reads the name, the credit wording and the links from `qnfo-audit.product_profile`; answers on fleet.qnfo.org/focus (`product-name`, `product-design-credit`, `product-home`, `product-github`, `product-credit-public`) update it without a deploy. When the platform gets its own domain or GitHub organisation, the qnfo.org/platform URL stays and points there.
+
 **Do not claim:** customers, revenue, a company, a funded startup, or "first of its kind". The platform has one installation (QNFO); a second is roadmap phase P4.
 
 **Open questions (asked on fleet.qnfo.org/focus, answers land here marked "confirmed by owner, <date>"):** product name, first buyer, spin-off model, design credit, paying users at Empowering Change.
