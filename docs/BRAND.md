@@ -91,6 +91,16 @@ The arc in three beats, for interviews and cover letters:
 12. Built and ran transportation network models at the Delaware Valley Regional Planning Commission (2005 to 2008) and IBI Group (2008 to 2011) (confirmed by Rowan 2026-11-09).
 13. Credentials: M.S. City and Regional Studies (Rutgers), PMP, COR, AICP.
 
+## 6a. Skills the Ultrastable build shows (added 2026-11-10, JOBSEARCH-SKILLS-1)
+
+Owner, 2026-11-10: "the skills required to build this are the skills that should be on my resume." Each skill below is backed by standing directives Rowan wrote, recorded verbatim in the public `QNFO/qnfo-workers` repository (CLAUDE.md, docs/AUTONOMOUS-OPERATION-DOCTRINE.md, docs/PROMPTED-RECALL.md). Word them as direction, never as coding:
+
+autonomous systems governance and doctrine design · human oversight and approval-boundary design for AI agents · verification and evaluation design for AI agents · failure-mode and risk analysis · multi-vendor AI agent orchestration and oversight · operating metrics, service levels and AI cost governance · writing machine-checkable specifications and requirements · product and platform strategy for autonomous systems · research program direction
+
+Asked by tap, not yet claimed (cards on fleet.qnfo.org/focus; a yes is written into the CV bank and RESUME.md automatically, marked "confirmed by owner, <date>"): IP strategy (invention disclosure, provisional patent not yet filed), venture and go-to-market planning, prompt and agent-instruction design, red-teaming AI agents, AI model selection by cost and quality, NIST AI RMF, EU AI Act, people management (where), briefing outside audiences.
+
+Confidentiality: until the provisional patent is filed, public wording stays outcome-level (no named mechanisms); see `ultrastable/ultrastable` docs/CONFIDENTIALITY.md.
+
 ## 7. Claims held back
 
 | Claim | Status | Why it is held back |

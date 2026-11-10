@@ -7,7 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rowan--quni-0A66C2?logo=linkedin)](https://www.linkedin.com/in/rowan-quni)
 [![Google Scholar](https://img.shields.io/badge/Google_Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=eHIbqxkAAAAJ)
 [![ISNI](https://img.shields.io/badge/ISNI-0000--0005--2645--6062-lightgrey)](https://isni.org/isni/0000000526456062)
-![Resume Version](https://img.shields.io/badge/resume-v5.1-green)
+![Resume Version](https://img.shields.io/badge/resume-v5.2-green)
 
 ---
 
@@ -24,7 +24,7 @@ Earlier work is published under **Brad Gudzinas**.
 | **[RESUME.md](RESUME.md)** | CV: experience, selected work, education, certifications |
 | **[PORTFOLIO.md](PORTFOLIO.md)** | The research lines at QNFO and the systems work behind the CV |
 | **[SKILLS-TECHNOLOGY.md](SKILLS-TECHNOLOGY.md)** | Skills, each with where it was used |
-| **[rowan-quni-cv-v5.1.pdf](rowan-quni-cv-v5.1.pdf)** | The CV as a PDF |
+| **[rowan-quni-cv-v5.2.pdf](rowan-quni-cv-v5.2.pdf)** | The CV as a PDF |
 
 ## At a Glance
 

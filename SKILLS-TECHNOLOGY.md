@@ -15,6 +15,25 @@ Each skill is listed with where I used it. Nothing here rests on a self-rating. 
 | Cost measurement for agentic AI | [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415); [the metric and protocol](https://doi.org/10.5281/zenodo.21637028) |
 | LLM products | Empowering Change legal-navigation tool: document drafting, procedural guidance, plain-language translation |
 
+## Directing an autonomous platform (Ultrastable, 2026)
+
+What building and running Ultrastable required. Each row is backed by standing directives Rowan wrote, recorded verbatim in the public [QNFO/qnfo-workers](https://github.com/QNFO/qnfo-workers) repository; coding agents wrote the code.
+
+| Skill | Where I used it |
+|:------|:----------------|
+| Autonomous systems governance and doctrine design | Wrote and revised the fleet's operating doctrine: what agents decide alone, what needs a person, how every item is accounted for (five revisions, October 2026) |
+| Human oversight and approval-boundary design | Agents proceed on reversible work; only irreversible, identity-bound steps (money, legal or signing acts, the owner's own accounts) come to a person |
+| Verification and evaluation design for AI agents | No change counts until a live check proves it; output quality judged by outcomes, not proxy scores |
+| Failure-mode and risk analysis | Every blocker red-teamed before it is accepted; no single critical path; nothing left stuck past one cycle |
+| Multi-vendor AI agent orchestration | Claude Code, GitHub Copilot and OpenAI Codex working under one written operating agreement that routes each kind of work |
+| Operating metrics, service levels and AI cost governance | Service levels measured in minutes; an owner and trigger for every metric; spend caps that steer model choice instead of stopping work |
+| Writing machine-checkable specifications | Directives the system turns into a probe, metric or test that fails while the rule is broken |
+| Product and platform strategy | Reframed an internal research fleet as a product, Ultrastable, with QNFO as its first installation; every public claim backed by a live check |
+| Human-centred interaction standards | One primary action per screen; tap-to-answer questions instead of typing; accessible contrast and tap sizes |
+| Research program direction | Set which research lines the system pushes or pauses; the research queue follows those answers (November 2026) |
+
+Skills Rowan confirms by tap on fleet.qnfo.org/focus are added to the CV automatically (see `.github/workflows/confirmed-skills.yml`).
+
 ## Systems and network modeling
 
 | Skill | Where I used it |
