@@ -10,7 +10,7 @@ I am a systems researcher. My subject is autonomous AI systems: how they are des
 
 **Question:** what does a long-running autonomous AI system actually deliver, at what cost, and how does it fail?
 
-QNFO is both the lab and the subject. Its research pipeline runs on Cloudflare as an autonomous system of 44 live workers that draft, referee, revise, version, publish and correct papers, keep a public errata trail and check citations, with standing objectives, health checks and a failure ledger. The library is at [papers.qnfo.org](https://papers.qnfo.org).
+QNFO is both the lab and the subject. Its research pipeline runs on Cloudflare as an autonomous system of 39 live workers that draft, referee, revise, version, publish and correct papers, keep a public errata trail and check citations, with standing objectives, health checks and a failure ledger. The library is at [papers.qnfo.org](https://papers.qnfo.org).
 
 | Work | What it is |
 |:-----|:-----------|

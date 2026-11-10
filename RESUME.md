@@ -10,7 +10,7 @@ Earlier work is published under **Brad Gudzinas**.
 
 ## SUMMARY
 
-Systems researcher studying autonomous AI systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them. Twenty years of systems work behind it: transportation network and GIS work from my first role in 2004, transportation network models at DVRPC and IBI Group, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP, and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI.
+Systems researcher studying autonomous AI systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them. Twenty years of systems work behind it: transportation network and GIS work from my first role in 2004, transportation network models at DVRPC and IBI Group, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP, and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 39 live agents, and published what it delivers, what it costs and where it fails. I also direct its fleet as a self-governing development platform: it chooses its own work, proves each change live and scores its own decisions. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI.
 
 ---
 
@@ -19,7 +19,8 @@ Systems researcher studying autonomous AI systems: how they are structured, how 
 ### Founder and Systems Researcher
 **QNFO** (independent research on autonomous AI systems) | 2024 to present
 
-- Designed and operate an autonomous research system on Cloudflare (44 live workers) that drafts, referees, revises, versions, publishes and corrects papers, with standing objectives, health checks and a failure ledger.
+- Designed and operate an autonomous research system on Cloudflare (39 live workers) that drafts, referees, revises, versions, publishes and corrects papers, with standing objectives, health checks and a failure ledger.
+- Direct the fleet as a self-governing development platform (working name Ultrastable): it finds its own work in its metrics and failures, hands each change to coding agents from several vendors, proves every deploy with live probes and automatic rollback, and scores its decisions against the predictions it logged first. 3,880 merged changes since August 2026; 1,056 decisions scored, 73% as predicted.
 - Reported how the system behaves in operation: [Operating the Quniverse Fleet](https://doi.org/10.5281/zenodo.23079905) sets out its objectives, successes, failures and roadmap.
 - Designed oversight methods for AI-assisted work: [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) and [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592).
 - Proposed JPCUB, a whole-system cost measure for computing (joules per correct answer), with a [measurement protocol](https://doi.org/10.5281/zenodo.21637028) and an [extension to stochastic and agentic LLM inference](https://doi.org/10.5281/zenodo.21945415).
