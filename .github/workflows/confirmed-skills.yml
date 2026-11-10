@@ -1,0 +1,26 @@
+# JOBSEARCH-SKILLS-1: skills Rowan confirms by tap (fleet.qnfo.org/focus, jobs.q08.org) land in RESUME.md without a person editing it.
+name: confirmed-skills
+on:
+  schedule:
+    - cron: "37 * * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ["scripts/confirmed_skills.py", ".github/workflows/confirmed-skills.yml"]
+permissions:
+  contents: write
+concurrency: { group: confirmed-skills, cancel-in-progress: false }
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Write confirmed skills into RESUME.md
+        run: python3 scripts/confirmed_skills.py
+      - name: Commit when changed
+        run: |
+          if git diff --quiet RESUME.md; then echo "no change"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "CV: skills confirmed by owner tap (JOBSEARCH-SKILLS-1)"
+          git push

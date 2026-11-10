@@ -1,6 +1,6 @@
 {
  "schema": "linkedin-profile-update-package/v1",
- "generated_from": "rwnq8/resume v5.1 (RESUME.md, docs/BRAND.md section 9, 2026-11-10)",
+ "generated_from": "rwnq8/resume v5.2 (RESUME.md, docs/BRAND.md section 9, 2026-11-10)",
  "generated_at": "2026-11-10",
  "audit": {
   "source_files": [
@@ -108,6 +108,14 @@
   }
  ],
  "skills": [
+  "AI Governance",
+  "Human Oversight of AI Systems",
+  "AI Agent Orchestration",
+  "Evaluation Design",
+  "Risk and Failure Analysis",
+  "Requirements Specification",
+  "Platform Strategy",
+  "Operating Metrics and SLAs",
   "Autonomous Systems",
   "AI Agent Systems",
   "Multi-Agent Systems",

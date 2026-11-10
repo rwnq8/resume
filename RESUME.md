@@ -21,6 +21,10 @@ Systems researcher studying autonomous AI systems: how they are structured, how 
 
 - Launching the system that runs QNFO as its own platform: a self-governing development platform that finds its own work in its metrics and failures, hands each change to coding agents from several vendors, proves every deploy with live probes and automatic rollback, and scores its decisions against the predictions it logged first.
 - My role is systems design and direction, not coding: I set the platform's goals, standing directives and limits, and evaluate how it behaves; coding agents write the code.
+- Wrote and revised its operating doctrine: the standing rules for what agents decide on their own, what needs a person, how every item is accounted for, and the limits no agent may cross (five revisions in October 2026, published in [QNFO/qnfo-workers](https://github.com/QNFO/qnfo-workers)).
+- Defined the human-oversight boundary: agents proceed on reversible work, and only irreversible, identity-bound steps (money, legal or signing acts, the owner's own accounts) come to a person.
+- Set its verification and evaluation requirements: no change counts until a live check proves it, every problem found is fixed, deployed and verified, and output quality is judged by outcomes rather than proxy scores.
+- Direct coding agents from several vendors (Claude Code, GitHub Copilot, OpenAI Codex) under one written operating agreement; set service levels measured in minutes, a trigger behind every metric, and AI spend caps that steer model choice instead of stopping work.
 - Evidence, re-checked by the running system and published live at [ultrastable.io](https://ultrastable.io): 3,880 merged changes since August 2026; 774 of 1,059 scored decisions matched their logged prediction; 0 silent drops across 6,000+ closed issues.
 - Stated limits: one installation so far (QNFO), hundreds of open issues against a target of zero, and decision scoring that the system grades itself.
 
@@ -108,6 +112,11 @@ Every QNFO paper is prepared with an AI-assisted research pipeline; the author i
 
 ## SKILLS
 
-Autonomous and agentic system design · operating and monitoring multi-agent systems · failure analysis · oversight and audit methods for AI-assisted work · systems modeling · travel-demand and simulation modeling · statistical modeling and applied machine learning · data-driven decision support · GIS · research program management · federal contract oversight
+**Autonomous systems direction:** autonomous systems governance and doctrine design · human oversight and approval-boundary design for AI agents · verification and evaluation design for AI agents · failure-mode and risk analysis · multi-vendor AI agent orchestration and oversight · operating metrics, service levels and AI cost governance · writing machine-checkable specifications and requirements · product and platform strategy for autonomous systems · oversight and audit methods for AI-assisted work
+
+**Systems and decisions:** systems and network modeling · travel-demand and simulation modeling · statistical modeling and applied machine learning · data-driven decision support · GIS · research program direction and management · federal contract oversight
+
+<!-- CONFIRMED-SKILLS:START (written by .github/workflows/confirmed-skills.yml from jobs.q08.org/api/cv-skills: only skills Rowan confirmed by tap) -->
+<!-- CONFIRMED-SKILLS:END -->
 
 Tools I direct and work with: Python, SQL, Cloudflare Workers, GIS (ArcGIS, QGIS), LLM agent frameworks.
