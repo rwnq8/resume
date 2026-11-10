@@ -4,7 +4,7 @@ Reads the open endpoint GET https://jobs.q08.org/api/cv-skills (qnfo-jobsearch).
 Rowan answered "yes" on fleet.qnfo.org/focus or jobs.q08.org are listed; a later "no" removes the line on the next run.
 Usage: python scripts/confirmed_skills.py [--file data.json]  (exit 0 always; prints "changed" when RESUME.md changed)
 """
-import json, re, sys, urllib.request
+import json, sys, urllib.error, urllib.request
 
 URL = "https://jobs.q08.org/api/cv-skills"
 START, END = "<!-- CONFIRMED-SKILLS:START", "<!-- CONFIRMED-SKILLS:END -->"
@@ -32,7 +32,12 @@ def main():
         data = json.load(open(sys.argv[sys.argv.index("--file") + 1]))
     else:
         req = urllib.request.Request(URL, headers={"User-Agent": "resume-confirmed-skills"})
-        data = json.load(urllib.request.urlopen(req, timeout=30))
+        try:
+            data = json.load(urllib.request.urlopen(req, timeout=30))
+        except (urllib.error.URLError, TimeoutError, ValueError) as e:
+            # the CV stays as it is; the next hourly run tries again (a missing route or an outage is not a reason to edit the CV)
+            print("::warning title=confirmed-skills::" + URL + " unavailable (" + str(e) + "); RESUME.md unchanged")
+            return
     if data.get("schema_version") != "cv-skills/v1":
         raise SystemExit("unexpected answer from " + URL)
     old = open("RESUME.md", encoding="utf-8").read()
