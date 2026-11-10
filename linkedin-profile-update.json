@@ -1,7 +1,7 @@
 {
  "schema": "linkedin-profile-update-package/v1",
- "generated_from": "rwnq8/resume v5.0 (RESUME.md, SKILLS-TECHNOLOGY.md, 2026-11-09)",
- "generated_at": "2026-11-09",
+ "generated_from": "rwnq8/resume v5.1 (RESUME.md, docs/BRAND.md section 9, 2026-11-10)",
+ "generated_at": "2026-11-10",
  "audit": {
   "source_files": [
    "RESUME.md",
@@ -18,12 +18,19 @@
    "Bradley Gudzinas",
    "Rowan Quni"
   ],
-  "headline": "Autonomous AI systems researcher · How agentic systems behave, fail and are governed · 20 years of network and systems modeling (FHWA, AARP) · Founder, QNFO",
+  "headline": "Autonomous AI systems researcher · Founder and director, Ultrastable (autonomous development platform) · 20 years of network and systems modeling (FHWA, AARP)",
   "location": "Open to remote, hybrid, or on-site; willing to relocate",
   "url": "https://www.linkedin.com/in/rowan-quni"
  },
- "about": "I study autonomous AI systems as systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them.\n\nMy work has been about systems for twenty years. I started in transportation with GIS, then built and ran transportation network models at DVRPC and IBI Group. At the U.S. Federal Highway Administration I specified the national Tour-Based Model System, a simulation of long-distance travel, directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative. At Deloitte I delivered analytics and machine-learning engagements for public-sector clients. At AARP's Public Policy Institute I led the Livability Index, a decision-support system that scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nSince 2024 I have designed and run QNFO, an autonomous research system of 39 live agents that draft, referee, revise, publish and correct papers, and I have published what it delivers, what it costs and where it fails (Operating the Quniverse Fleet), along with methods for auditing what AI-assisted work does not know (The Universal Ignorance Audit).\n\nI am a systems researcher, not a software engineer. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI. Earlier work is published under Brad Gudzinas.",
+ "about": "I study autonomous AI systems as systems: how they are structured, how they behave in operation, how they fail, and how people can audit and govern them.\n\nMy work has been about systems for twenty years. I started in transportation with GIS, then built and ran transportation network models at DVRPC and IBI Group. At the U.S. Federal Highway Administration I specified the national Tour-Based Model System, a simulation of long-distance travel, directed the contractor team that built it, co-directed the $10M National Household Travel Survey, and managed a $1.5M federal research portfolio as a certified Contracting Officer's Representative. At Deloitte I delivered analytics and machine-learning engagements for public-sector clients. At AARP's Public Policy Institute I led the Livability Index, a decision-support system that scores U.S. neighborhoods from 50+ data sources across 7 domains.\n\nIn 2026 I began launching the fleet behind QNFO as its own platform, Ultrastable (ultrastable.io): a self-governing development platform that finds its own work, hands each change to coding agents, proves every deploy live and scores its decisions against the predictions it logged first. My role is systems design and direction; coding agents write the code. Its claims are re-checked by the running system and published live.\n\nSince 2024 I have designed and run QNFO, an autonomous research system of 39 live agents that draft, referee, revise, publish and correct papers, and I have published what it delivers, what it costs and where it fails (Operating the Quniverse Fleet), along with methods for auditing what AI-assisted work does not know (The Universal Ignorance Audit).\n\nI am a systems researcher, not a software engineer. Open to autonomous and AI systems research, AI evaluation and assurance, AI governance and oversight research, and research program leadership for AI. Earlier work is published under Brad Gudzinas.",
  "experience": [
+  {
+   "title": "Founder and Director",
+   "company": "Ultrastable",
+   "location": "Remote",
+   "dates": "2026 – Present",
+   "description": "Launching the system that runs QNFO as its own autonomous development platform (ultrastable.io). It finds its own work in its metrics and failures, hands each change to coding agents from several vendors, proves every deploy with live probes and automatic rollback, and scores its decisions against logged predictions. I set its goals, standing directives and limits and evaluate how it behaves; coding agents write the code. Live, re-checked claims: 3,880 merged changes since August 2026; 774 of 1,059 scored decisions matched their prediction; 0 silent drops. One installation so far (QNFO)."
+  },
   {
    "title": "Founder and Systems Researcher",
    "company": "QNFO (independent research on autonomous AI systems)",
@@ -193,7 +200,7 @@
  "apply_notes": {
   "headline_max_chars": 220,
   "about_max_chars": 2600,
-  "about_char_count": 1501,
+  "about_char_count": 1930,
   "skills_max": 50,
   "skills_count": 30,
   "pacing": "one section per session; 3-5s between field operations; human-in-the-loop for CAPTCHA/2FA",

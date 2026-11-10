@@ -14,7 +14,7 @@ import argparse, os, shutil, subprocess, sys, tempfile
 import markdown
 
 SRC = os.path.dirname(os.path.abspath(__file__))
-VERSION = "v5.0"
+VERSION = "v5.1"
 
 CSS = """
 @page { size: A4; margin: 16mm 16mm 16mm 16mm; }

@@ -128,6 +128,13 @@ Owner insight, 2026-11-10: the fleet is not only a research system; it is an aut
 
 **Linking the two brands (owner directive 2026-11-10: "this is going to remain my personal brand, but ... link the two now for increased exposure"):** the platform's home is [ultrastable.io](https://ultrastable.io). It credits "Directed by Rowan Brad Quni-Gudzinas, systems researcher studying autonomous AI systems", links rwnq8.github.io, ORCID, GitHub and LinkedIn, and names Rowan as creator in schema.org data. Every personal surface links back: the site header and JSON-LD (rwnq8.github.io), the GitHub profile badge and highlight (rwnq8/rwnq8), and the CV's QNFO entry. The platform page reads the name, the credit wording and the links from `qnfo-audit.product_profile`; answers on fleet.qnfo.org/focus (`product-name`, `product-design-credit`, `product-home`, `product-github`, `product-credit-public`) update it without a deploy. When the platform gets its own domain or GitHub organisation, the qnfo.org/platform URL stays and points there.
 
+**Founder title (confirmed by owner, 2026-11-10):** Rowan, in the project thread: "I'm now launching this as its own platform or its own startup ... I'm not an engineer. I'm not a coder. I'm a thinker. I'm a systems person." Every surface now lists **Founder and Director, Ultrastable (autonomous development platform)**, framed as systems design and direction: Rowan sets goals, standing directives and limits and evaluates outcomes; coding agents write the code. Numbers on any surface are copied from the live claims at ultrastable.io (`/api/platform-claims`), never rounded up. Still not claimed: a company, customers, revenue or funding.
+
+**Short line for bios (use where one line fits):**
+> Founder and director of Ultrastable, an autonomous development platform that picks its own work, proves each change live and scores its own predictions.
+
+**Roles this opens (job search targets, 2026-11-10):** AI governance and oversight, AI evaluation and assurance, autonomous systems strategy, research leadership for AI, founder-in-residence and product strategy for agentic or autonomous systems. These value systems thinking over hands-on coding; coding roles stay opt-in.
+
 **Do not claim:** customers, revenue, a company, a funded startup, or "first of its kind". The platform has one installation (QNFO); a second is roadmap phase P4.
 
 **Open questions (asked on fleet.qnfo.org/focus, answers land here marked "confirmed by owner, <date>"):** product name, first buyer, spin-off model, design credit, paying users at Empowering Change.
