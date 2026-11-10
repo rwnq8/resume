@@ -17,9 +17,16 @@ jobs:
       - uses: actions/checkout@v4
       - name: Write confirmed skills into RESUME.md
         run: python3 scripts/confirmed_skills.py
+      - name: Rebuild the PDF when the CV changed
+        run: |
+          if git diff --quiet RESUME.md; then exit 0; fi
+          pip install --quiet markdown
+          V=$(grep -oE 'VERSION = "v[0-9.]+"' build-cv-pdf.py | grep -oE 'v[0-9.]+')
+          python3 build-cv-pdf.py --chrome "$(command -v google-chrome || command -v chromium)" --out "rowan-quni-cv-$V.pdf"
       - name: Commit when changed
         run: |
           if git diff --quiet RESUME.md; then echo "no change"; exit 0; fi
+          git add RESUME.md rowan-quni-cv-*.pdf
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git commit -am "CV: skills confirmed by owner tap (JOBSEARCH-SKILLS-1)"
