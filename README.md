@@ -11,7 +11,7 @@
 
 ---
 
-> I study autonomous AI systems as systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them. My work has been about systems for twenty years: transportation network and GIS work in my first role, transportation network models at DVRPC and IBI Group, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 44 live agents, and published what it delivers, what it costs and where it fails. I am a systems researcher, not a software engineer.
+> I study autonomous AI systems as systems: how they are designed, how they behave in operation, how they fail, and how people keep oversight of them. My work has been about systems for twenty years: transportation network and GIS work in my first role, transportation network models at DVRPC and IBI Group, the national Tour-Based Model System for long-distance travel at the U.S. Federal Highway Administration, data-driven decision support at AARP and machine-learning engagements at Deloitte. Since 2024 I have designed and run QNFO, an autonomous research system of 39 live agents, and published what it delivers, what it costs and where it fails. I also direct its fleet as a self-governing development platform: it chooses its own work, proves each change live and scores its own decisions. I am a systems researcher, not a software engineer.
 
 Earlier work is published under **Brad Gudzinas**.
 
@@ -30,7 +30,7 @@ Earlier work is published under **Brad Gudzinas**.
 
 | | |
 |:---|:---|
-| **Autonomous system built and studied** | QNFO: 44 live agents that draft, referee, revise, publish and correct research, with a published failure ledger (2024 to now) |
+| **Autonomous system built and studied** | QNFO: 39 live agents that draft, referee, revise, publish and correct research, with a published failure ledger (2024 to now) |
 | **National travel model** | Specified the FHWA Tour-Based Model System for long-distance travel and directed the contractor team that built it; co-directed the $10M National Household Travel Survey (2011 to 2015) |
 | **Decision-support system** | AARP Livability Index: 50+ data sources across 7 domains, cited in 20+ studies (2016 to 2021) |
 | **Current question** | How autonomous AI systems behave and fail in long-running operation, and what oversight keeps them legible |

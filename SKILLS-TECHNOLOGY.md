@@ -8,7 +8,7 @@ Each skill is listed with where I used it. Nothing here rests on a self-rating. 
 
 | Skill | Where I used it |
 |:------|:----------------|
-| Autonomous and agentic system design | QNFO: an autonomous research system of 44 live agents that draft, referee, revise, version, publish and correct papers (2024 to now) |
+| Autonomous and agentic system design | QNFO: an autonomous research system of 39 live agents that draft, referee, revise, version, publish and correct papers (2024 to now) |
 | Operating and monitoring multi-agent systems | Standing objectives, health checks and a failure ledger for the QNFO system |
 | Failure analysis and reporting | [Operating the Quniverse Fleet](https://doi.org/10.5281/zenodo.23079905): objectives, successes, failures, roadmap |
 | Oversight and audit methods for AI-assisted work | [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984); [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592); public errata and correction trail at QNFO |

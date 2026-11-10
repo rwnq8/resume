@@ -80,7 +80,8 @@ The arc in three beats, for interviews and cover letters:
 2. Managed a $1.5M+ federal research portfolio as a certified Contracting Officer's Representative, FHWA.
 3. Led the AARP Livability Index: 50+ data sources across 7 domains, scoring U.S. neighborhoods nationwide; cited in 20+ academic and policy studies.
 4. Co-authored a 2016 Transportation Research Board paper on updating the National Household Travel Survey with American Community Survey data.
-5. Runs an autonomous AI research system on Cloudflare (44 live workers) that drafts, referees, revises, publishes and corrects papers.
+5. Runs an autonomous AI research system on Cloudflare (39 live workers, counted 2026-11-10) that drafts, referees, revises, publishes and corrects papers.
+14. Directs the fleet as a self-governing development platform: 3,880 merged pull requests in QNFO/qnfo-workers since 2026-08-10 (624 opened by its own code loop, 416 by GitHub Copilot); 1,056 decisions scored against a logged prediction, 771 matched (qnfo-audit.decision_outcomes, read 2026-11-10).
 6. Published its operating record: [Operating the Quniverse Fleet: Objectives, Successes, Failures, and Roadmap of an Autonomous Cloud Research System](https://doi.org/10.5281/zenodo.23079905).
 7. Published methods for auditing what AI-assisted research does not know: [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) and [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592).
 8. Measured what an answer from an AI agent costs: [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415).
@@ -108,3 +109,24 @@ The arc in three beats, for interviews and cover letters:
 | ORCID, Google Scholar | Owner accounts | Biography text |
 
 **Target roles for the job search:** autonomous systems research, AI systems research, AI evaluation and assurance, AI governance and oversight research, research program management for AI, socio-technical AI research. Retire "research-integrity" and "applied AI" as lead targets; keep them as secondary.
+
+## 9. The platform as a product (proposed 2026-11-10)
+
+Owner insight, 2026-11-10: the fleet is not only a research system; it is an autonomous development platform that could run anything, and QNFO should be its first customer. Full product page, evidence and gaps: `QNFO/qnfo-workers` `docs/PRODUCT-ULTRASTABLE.md`; repository split: `product/boundary.json` there.
+
+**Category:** self-governing development platform (a kind of autonomous development platform).
+
+**Working name:** Ultrastable, after W. Ross Ashby's ultrastable system (1952), a machine that resets its own settings to stay within limits. The name awaits the owner's tap on fleet.qnfo.org/focus and a trademark knockout (owner card `ultrastable-trademark-1`).
+
+**One line:**
+> Vibe coding writes the code you ask for. Ultrastable decides what to build next, ships it, proves it live, and keeps score of how often it was right.
+
+**How it ties to Rowan's story:** the platform is the systems researcher's instrument and object of study. Rowan sets its operating rules and evaluates it; agents write the code. Use "directs" until the owner answers the design-credit question (`product-design-credit`), then "designed and directs" on a yes.
+
+**Bio add-on (one sentence, use after the short bio):**
+> Rowan also directs the fleet behind QNFO as a self-governing development platform: it chooses its own work, proves each change live and scores its own decisions, and QNFO is its first customer.
+
+**Do not claim:** customers, revenue, a company, a funded startup, or "first of its kind". The platform has one installation (QNFO); a second is roadmap phase P4.
+
+**Open questions (asked on fleet.qnfo.org/focus, answers land here marked "confirmed by owner, <date>"):** product name, first buyer, spin-off model, design credit, paying users at Empowering Change.
+
