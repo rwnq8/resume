@@ -20,3 +20,4 @@ _*.js
 
 # Build artifacts
 node_modules/
+scripts/__pycache__/

@@ -17,3 +17,7 @@ jobs:
       - uses: actions/checkout@v4
       - name: Decisions, answer bank and ingest log
         run: python3 scripts/check_decisions.py && python3 scripts/test_check_decisions.py
+      - name: Style lint (STYLE-LINT-1)
+        run: python3 scripts/style_lint.py RESUME.md && python3 scripts/test_style_lint.py
+      - name: Resume claims (RESUME-CLAIMS-1)
+        run: python3 scripts/claims_check.py && python3 scripts/test_claims_check.py

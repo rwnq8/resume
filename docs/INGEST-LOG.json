@@ -38,7 +38,7 @@
      "destinations": [
       {
        "path": "RESUME.md",
-       "contains": "proxy quality signals"
+       "contains": "proxy signals"
       },
       {
        "path": "docs/BRAND.md",
@@ -85,7 +85,7 @@
      "destinations": [
       {
        "path": "RESUME.md",
-       "contains": "Wrote and revised its operating doctrine"
+       "contains": "Wrote and revised the operating doctrine"
       }
      ]
     },
