@@ -1,0 +1,64 @@
+{
+ "schema": "answer-bank/v1",
+ "about": "ANSWER-BANK-1: screening answers in Rowan's own words, typeset (double hyphens became parentheses). Mirrored in QNFO/qnfo-workers qnfo-jobsearch/worker.js ANSWER_BANK, which returns them as the first draft for a matching question at jobs.q08.org. Add an answer here and there in the same change.",
+ "answers": [
+  {
+   "type": "benchmark-gap",
+   "asked_as": [
+    "What's an important model capability that you think existing benchmarks fail to measure well?"
+   ],
+   "answer": "The capability I think benchmarks miss is whether a system can be trusted over time in live operation: does it catch its own errors, correct them, and does its output hold up when checked against reality rather than a static test set. Standard benchmarks score a single pass in a controlled setting, which says little about reliability, calibration, or failure behavior in deployment.",
+   "fits": [
+    "evals",
+    "AI evaluation and assurance",
+    "safety",
+    "governance"
+   ],
+   "used": [
+    "Magic, Member of Technical Staff, Evals (Ashby), submitted 2026-11-12; Rowan's own words from his screenshots"
+   ]
+  },
+  {
+   "type": "misleading-metric",
+   "asked_as": [
+    "What's the most misleading benchmark or metric you've encountered, and how did you discover it was wrong?"
+   ],
+   "answer": "Judging AI output quality by proxy scores. When I built Ultrastable, an autonomous development platform where coding agents write the code, I found that conventional quality signals (test pass rates, reviewer ratings, issue counts) could look healthy while the system quietly drifted. The discovery came from running the fleet against its own logged predictions.",
+   "fits": [
+    "evals",
+    "metrics",
+    "research",
+    "governance"
+   ],
+   "used": [
+    "Magic, Member of Technical Staff, Evals (Ashby), submitted 2026-11-12; Rowan's own words from his screenshots"
+   ]
+  },
+  {
+   "type": "career-goals",
+   "asked_as": [
+    "What are your career goals?"
+   ],
+   "answer": "I want to work on the behavior, evaluation, and governance of autonomous AI systems, as a researcher, in AI evaluation and assurance, or in research leadership. I'm currently doing this directly: I founded and direct Ultrastable, an autonomous development platform where coding agents write the code and I set goals, limits, and oversight boundaries.",
+   "fits": [
+    "any"
+   ],
+   "used": [
+    "Magic, Member of Technical Staff, Evals (Ashby), submitted 2026-11-12; Rowan's own words from his screenshots"
+   ]
+  },
+  {
+   "type": "anything-else",
+   "asked_as": [
+    "What else would you like us to know about you?"
+   ],
+   "answer": "I run an autonomous AI system, not just study one. Ultrastable is a platform that chooses its own work; I set its goals, standing directives and limits, and wrote the operating doctrine governing what agents decide alone versus what comes to a person.\n\nThat work sits on 20 years of systems experience: the national Tour-Based Model System at the U.S. Federal Highway Administration and the AARP Livability Index, a decision-support system built from 50+ data sources.\n\nI also design audit methods for AI-assisted science (universal ignorance audit), proposed JPCUB, a whole-system energy benchmark for computing, and have hands-on experience with the EU AI Act's risk tiers and GDPR.",
+   "fits": [
+    "any"
+   ],
+   "used": [
+    "Magic, Member of Technical Staff, Evals (Ashby), submitted 2026-11-12; Rowan's own words from his screenshots"
+   ]
+  }
+ ]
+}

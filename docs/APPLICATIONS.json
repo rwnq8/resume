@@ -1,0 +1,26 @@
+{
+ "schema": "applications/v1",
+ "about": "Every job Rowan applied to or dismissed (never_reshow). The live state is D1 qnfo-audit.jobsearch_matches; this is the durable record.",
+ "applications": [
+  {
+   "id": "magic-2026-11-12",
+   "company": "Magic",
+   "ats": "Ashby (jobs.ashbyhq.com/magic.dev)",
+   "title": "Member of Technical Staff, Evals",
+   "location": "San Francisco; Remote",
+   "employment": "Full time",
+   "department": "Engineering",
+   "compensation": "$200K-$550K",
+   "status": "applied",
+   "applied_on": "2026-11-12",
+   "never_reshow": true,
+   "answers": [
+    "benchmark-gap",
+    "misleading-metric",
+    "career-goals",
+    "anything-else"
+   ],
+   "d1": "jobsearch_matches id manual:magic.dev:mts-evals (QNFO/qnfo-workers migrations/2026-11-12-jobsearch-magic-applied.sql)"
+  }
+ ]
+}

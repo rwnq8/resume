@@ -82,6 +82,7 @@ The arc in three beats, for interviews and cover letters:
 4. Co-authored a 2016 Transportation Research Board paper on updating the National Household Travel Survey with American Community Survey data.
 5. Runs an autonomous AI research system on Cloudflare (39 live workers, counted 2026-11-10) that drafts, referees, revises, publishes and corrects papers.
 14. Directs the fleet as a self-governing development platform: 3,880 merged pull requests in QNFO/qnfo-workers since 2026-08-10 (624 opened by its own code loop, 416 by GitHub Copilot); 1,056 decisions scored against a logged prediction, 771 matched (qnfo-audit.decision_outcomes, read 2026-11-10).
+15. Found that proxy quality signals (test pass rates, reviewer ratings, issue counts) could look healthy while the platform quietly drifted, by scoring the fleet against its own logged predictions (Rowan's own words, Magic application, confirmed by owner 2026-11-12).
 6. Published its operating record: [Operating the Quniverse Fleet: Objectives, Successes, Failures, and Roadmap of an Autonomous Cloud Research System](https://doi.org/10.5281/zenodo.23079905).
 7. Published methods for auditing what AI-assisted research does not know: [The Universal Ignorance Audit](https://doi.org/10.5281/zenodo.21901984) and [Epistemic Legibility in AI-Assisted Science](https://doi.org/10.5281/zenodo.22026592).
 8. Measured what an answer from an AI agent costs: [Joules-per-Solution for Stochastic and Agentic Inference](https://doi.org/10.5281/zenodo.21945415).
@@ -97,7 +98,9 @@ Owner, 2026-11-10: "the skills required to build this are the skills that should
 
 autonomous systems governance and doctrine design · human oversight and approval-boundary design for AI agents · verification and evaluation design for AI agents · failure-mode and risk analysis · multi-vendor AI agent orchestration and oversight · operating metrics, service levels and AI cost governance · writing machine-checkable specifications and requirements · product and platform strategy for autonomous systems · research program direction
 
-Asked by tap, not yet claimed (cards on fleet.qnfo.org/focus; a yes is written into the CV bank and RESUME.md automatically, marked "confirmed by owner, <date>"): IP strategy (invention disclosure, provisional patent not yet filed), venture and go-to-market planning, prompt and agent-instruction design, red-teaming AI agents, AI model selection by cost and quality, NIST AI RMF, EU AI Act, people management (where), briefing outside audiences.
+Confirmed by owner, 2026-11-12 (Rowan's own statement in the Magic application): hands-on experience with EU AI Act risk tiers and GDPR. Both reach the CV through the `eu_ai_act` and `gdpr` cv-skill asks (answered from the application) and the confirmed-skills sync.
+
+Asked by tap, not yet claimed (cards on fleet.qnfo.org/focus; a yes is written into the CV bank and RESUME.md automatically, marked "confirmed by owner, <date>"): IP strategy (invention disclosure, provisional patent not yet filed), venture and go-to-market planning, prompt and agent-instruction design, red-teaming AI agents, AI model selection by cost and quality, NIST AI RMF, people management (where), briefing outside audiences.
 
 Confidentiality: until the provisional patent is filed, public wording stays outcome-level (no named mechanisms); see `ultrastable/ultrastable` docs/CONFIDENTIALITY.md.
 
@@ -149,3 +152,6 @@ Owner insight, 2026-11-10: the fleet is not only a research system; it is an aut
 
 **Open questions (asked on fleet.qnfo.org/focus, answers land here marked "confirmed by owner, <date>"):** product name, first buyer, spin-off model, design credit, paying users at Empowering Change.
 
+## 10. Where the record lives (DURABLE-STORAGE-1, INFO-USEFUL-1, 2026-11-12)
+
+Rowan, 2026-11-12: "All information is useful somehow. The key is you have to figure out what to do with it." and "Project memory is not an acceptable form of long-term storage." Standing decisions are in `docs/DECISIONS.json`, screening answers in his own words in `docs/ANSWER-BANK.json` (reused first at jobs.q08.org), applications in `docs/APPLICATIONS.json`, and where each input went in `docs/INGEST-LOG.json`. `scripts/check_decisions.py` (workflow `decisions`) fails a change that drops a decision or leaves a logged fact without its destination.
