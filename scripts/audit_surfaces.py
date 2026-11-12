@@ -3,6 +3,7 @@
 
 A surface fails when it uses a banned self-description, lacks any expertise area listed for it, lacks a required
 string, or cannot be read. Exit 1 on any failure; a JSON report is written to --out (default surface-audit.json).
+  --checkout DIR  read this repository's own files from DIR instead of raw GitHub; with --advisory-live, other live pages only warn (pull requests)
   --local DIR   read surfaces that have a "local" path from sibling checkouts under DIR (offline, for pull requests)
   (default)     fetch each surface's "url" (scheduled run); a surface with no url is read from raw GitHub if it names a repo path
 """
@@ -12,7 +13,15 @@ NEGATION = re.compile(r"\b(not|never|rather than|isn't|avoid|no)\b")
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 
-def read(s, local):
+RAW = "https://raw.githubusercontent.com/rwnq8/resume/main/"
+
+
+def read(s, local, checkout=None):
+    if checkout and s.get("url", "").startswith(RAW):
+        try:
+            return open(os.path.join(checkout, s["url"][len(RAW):]), encoding="utf-8").read(), None
+        except OSError as e:
+            return None, f"cannot read {s['url']} from the checkout: {e}"
     if local:
         if "local" not in s:
             return None, "skipped (no local copy)"
@@ -30,10 +39,10 @@ def read(s, local):
         return None, f"cannot fetch {s['url']}: {e}"
 
 
-def audit(cfg, local):
+def audit(cfg, local, checkout=None, advisory=False):
     rows, fails = [], 0
     for s in cfg["surfaces"]:
-        text, err = read(s, local)
+        text, err = read(s, local, checkout)
         row = {"id": s["id"], "problems": []}
         if text is None:
             row["status"] = "skipped" if err.startswith("skipped") else "unreadable"
@@ -55,7 +64,11 @@ def audit(cfg, local):
             for need in s.get("must", []):
                 if need not in text:
                     row["problems"].append(f"missing {need!r}")
-        fails += bool(row["problems"])
+        live_external = advisory and not (checkout and s.get("url", "").startswith(RAW))
+        if live_external and row["problems"]:
+            row["advisory"] = True  # a pull request cannot fix a page deployed from another repository
+        else:
+            fails += bool(row["problems"])
         rows.append(row)
     return rows, fails
 
@@ -64,10 +77,11 @@ def main(argv):
     cfg = json.load(open(os.path.join(ROOT, "docs", "SURFACES.json"), encoding="utf-8"))
     local = argv[argv.index("--local") + 1] if "--local" in argv else None
     out = argv[argv.index("--out") + 1] if "--out" in argv else "surface-audit.json"
-    rows, fails = audit(cfg, local)
+    checkout = argv[argv.index("--checkout") + 1] if "--checkout" in argv else None
+    rows, fails = audit(cfg, local, checkout, advisory="--advisory-live" in argv)
     json.dump({"at": datetime.datetime.now(datetime.timezone.utc).isoformat(timespec="seconds"), "mode": "local" if local else "live", "failed": fails, "surfaces": rows}, open(out, "w"), indent=1)
     for r in rows:
-        print(f"{r['status']:10} {r['id']:18} " + ("; ".join(r["problems"]) or "ok"))
+        print(f"{r['status']:10} {r['id']:18} " + ("advisory: " if r.get("advisory") else "") + ("; ".join(r["problems"]) or "ok"))
     print(f"audit_surfaces: {len(rows)} surfaces, {fails} failing")
     return 1 if fails else 0
 

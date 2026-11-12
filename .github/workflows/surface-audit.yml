@@ -22,9 +22,14 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - run: python3 scripts/test_audit_surfaces.py
-      - name: Audit the live public surfaces
+      - name: Audit the public surfaces (a pull request audits its own checkout; other live pages only warn)
         id: audit
-        run: python3 scripts/audit_surfaces.py --out surface-audit.json
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python3 scripts/audit_surfaces.py --checkout . --advisory-live --out surface-audit.json
+          else
+            python3 scripts/audit_surfaces.py --out surface-audit.json
+          fi
         continue-on-error: true
       - uses: actions/upload-artifact@v4
         with: { name: surface-audit, path: surface-audit.json }
