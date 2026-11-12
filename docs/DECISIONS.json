@@ -249,6 +249,26 @@
      "path": "qnfo-jobsearch/worker.js ANSWER_BANK"
     }
    ]
+  },
+  {
+   "id": "SURFACE-AUDIT-1",
+   "date": "2026-11-12",
+   "decision": "Every piece of completed work is audited against all public-facing surfaces (CV, rwnq8.github.io and /ultrastable, GitHub profile, LinkedIn package, ultrastable.io, qnfo.org/platform, job answer bank) for consistency with the brand and for the full scope of Rowan's systems expertise. The daily surface-audit workflow fails on a banned self-description or a missing expertise area and files a loop issue; it is a standing step of the ingestion routing.",
+   "source": "owner, project thread 2026-11-12: \"all the public facing surfaces need to be consistent and give the full scope of my systems expertise\"",
+   "homes": [
+    {
+     "path": "docs/SURFACES.json",
+     "contains": "public-surfaces/v1"
+    },
+    {
+     "path": ".github/workflows/surface-audit.yml",
+     "contains": "SURFACE-AUDIT-1"
+    },
+    {
+     "path": "AGENTS.md",
+     "contains": "SURFACE-AUDIT-1"
+    }
+   ]
   }
  ]
 }

@@ -126,6 +126,19 @@
        "path": "agents/AGENTS.md"
       }
      ]
+    },
+    {
+     "fact": "All completed work must be consistent across all public surfaces with the full scope of systems expertise",
+     "destinations": [
+      {
+       "path": "docs/SURFACES.json",
+       "contains": "autonomous-ai"
+      },
+      {
+       "path": ".github/workflows/surface-audit.yml",
+       "contains": "cron"
+      }
+     ]
     }
    ]
   },

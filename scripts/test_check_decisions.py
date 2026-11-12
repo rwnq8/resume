@@ -4,7 +4,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def run(mutate):
     with tempfile.TemporaryDirectory() as t:
-        for p in ["docs", "scripts"]:
+        for p in ["docs", "scripts", ".github"]:
             shutil.copytree(os.path.join(ROOT, p), os.path.join(t, p))
         for f in ["AGENTS.md", "RESUME.md", "linkedin-profile-update.json"]:
             shutil.copy(os.path.join(ROOT, f), t)

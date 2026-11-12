@@ -13,7 +13,7 @@ import json, os, re, sys
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 REQUIRED = ["POSITIONING-1", "QUANTUM-OUTREACH-STOP-1", "CAREER-THREAD-1", "ULTRASTABLE-BRAND-1", "SURFACES-AUTOMATED-1",
             "PROMPTED-RECALL-1", "JOB-ENGINE-1", "CODE-IS-DONE-1", "PRACTICE-WHAT-YOU-PREACH-1", "DESIGN-STANDARD-1",
-            "SESSION-HYGIENE-1", "PATENT-100-PAGES-1", "TOUCHPOINTS-1", "INFO-USEFUL-1", "DURABLE-STORAGE-1", "ANSWER-BANK-1"]
+            "SESSION-HYGIENE-1", "PATENT-100-PAGES-1", "TOUCHPOINTS-1", "INFO-USEFUL-1", "DURABLE-STORAGE-1", "ANSWER-BANK-1", "SURFACE-AUDIT-1"]
 BANNED = re.compile(r"\b(software engineer|developer|coder|programmer)\b", re.I)
 
 
