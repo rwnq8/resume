@@ -16,7 +16,7 @@ def drop_decision(t):
     d["decisions"] = [x for x in d["decisions"] if x["id"] != "INFO-USEFUL-1"]; json.dump(d, open(p, "w"))
 
 def drop_fact(t):
-    p = os.path.join(t, "RESUME.md"); s = open(p).read().replace("proxy quality signals", "quality signals"); open(p, "w").write(s)
+    p = os.path.join(t, "RESUME.md"); s = open(p).read().replace("proxy signals", "quality signals"); open(p, "w").write(s)
 
 assert run(lambda t: None) == 0, "clean tree passes"
 assert run(drop_decision) == 1, "a missing decision fails"

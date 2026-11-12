@@ -1,0 +1,12 @@
+{
+ "schema": "resume-claims/v1",
+ "about": "RESUME-CLAIMS-1: resume claims the record could not back, each asked once as a yes/no/not-sure tap on fleet.qnfo.org/focus (QNFO/qnfo-workers migrations/2026-11-12-resume-claim-asks.sql). scripts/claims_check.py fails the build when a claim answered no is still in RESUME.md.",
+ "claims": [
+  {"ref": "claim_cor", "marker": "$1.5M+ federal research portfolio"},
+  {"ref": "claim_livability_cites", "marker": "cited in 20+ academic and policy studies"},
+  {"ref": "claim_trb2016", "marker": "2016 Transportation Research Board paper"},
+  {"ref": "claim_trb2011", "marker": "2011 TRB National Household Travel Survey workshop"},
+  {"ref": "claim_empowering_launch", "marker": "incorporation to public launch"},
+  {"ref": "claim_legal_tool", "marker": "legal-navigation tool"}
+ ]
+}
