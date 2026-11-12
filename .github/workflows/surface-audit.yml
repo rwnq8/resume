@@ -1,3 +1,4 @@
+# clock: surface-audit (QNFO/qnfo-workers qnfo-cloud-ops CLOCK_LOOPS)
 # SURFACE-AUDIT-1: every public surface matches the brand and shows the full scope of Rowan's systems expertise.
 # budget: ~1 min a run, 1 run a day (public repo, no private-minute quota)
 # trigger: daily because the surfaces change when other repos merge; workflow_dispatch for a manual run; never faster than daily

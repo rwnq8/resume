@@ -1,4 +1,7 @@
 # JOBSEARCH-SKILLS-1: skills Rowan confirms by tap (fleet.qnfo.org/focus, jobs.q08.org) land in RESUME.md without a person editing it.
+# clock: confirmed-skills (QNFO/qnfo-workers qnfo-cloud-ops CLOCK_LOOPS; the watchdog re-dispatches a missed schedule and judges each run's conclusion)
+# CLOCKWORK-1 (2026-11-12): main is protected ("Changes must be made through a pull request"), so 4 of 7 runs failed at git push.
+# The change now lands as a pull request the workflow merges itself (squash); a refused merge leaves auto-merge on and fails the run, so the clock sees it.
 name: confirmed-skills
 on:
   schedule:
@@ -9,6 +12,7 @@ on:
     paths: ["scripts/confirmed_skills.py", ".github/workflows/confirmed-skills.yml"]
 permissions:
   contents: write
+  pull-requests: write
 concurrency: { group: confirmed-skills, cancel-in-progress: false }
 jobs:
   sync:
@@ -23,11 +27,21 @@ jobs:
           pip install --quiet markdown
           V=$(grep -oE 'VERSION = "v[0-9.]+"' build-cv-pdf.py | grep -oE 'v[0-9.]+')
           python3 build-cv-pdf.py --chrome "$(command -v google-chrome || command -v chromium)" --out "rowan-quni-cv-$V.pdf"
-      - name: Commit when changed
+      - name: Merge the change through a pull request
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           if git diff --quiet RESUME.md; then echo "no change"; exit 0; fi
-          git add RESUME.md rowan-quni-cv-*.pdf
+          B="bot/confirmed-skills-${GITHUB_RUN_ID}"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git commit -am "CV: skills confirmed by owner tap (JOBSEARCH-SKILLS-1)"
-          git push
+          git checkout -b "$B"
+          git add RESUME.md rowan-quni-cv-*.pdf
+          git commit -m "CV: skills confirmed by owner tap (JOBSEARCH-SKILLS-1)"
+          git push origin "$B"
+          PR=$(gh pr create --base main --head "$B" --title "CV: skills confirmed by owner tap (JOBSEARCH-SKILLS-1)" --body "Written by the confirmed-skills workflow (run ${GITHUB_RUN_ID}) from https://jobs.q08.org/api/cv-skills; merged by the same run (CLOCKWORK-1).")
+          echo "opened $PR"
+          if gh pr merge "$PR" --squash --delete-branch; then echo "merged $PR"; exit 0; fi
+          gh pr merge "$PR" --squash --delete-branch --auto
+          echo "::error title=confirmed-skills::$PR could not merge at once; auto-merge is on and the CLOCKWORK-1 watchdog retries"
+          exit 1
