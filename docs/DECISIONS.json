@@ -1,326 +1,326 @@
 {
-  "schema": "owner-decisions/v1",
-  "about": "Canonical record of Rowan's standing decisions (DURABLE-STORAGE-1). Changed only by pull request; scripts/check_decisions.py fails the build when a required decision is missing or a local home no longer holds it.",
-  "decisions": [
+ "schema": "owner-decisions/v1",
+ "about": "Canonical record of Rowan's standing decisions (DURABLE-STORAGE-1). Changed only by pull request; scripts/check_decisions.py fails the build when a required decision is missing or a local home no longer holds it.",
+ "decisions": [
+  {
+   "id": "POSITIONING-1",
+   "date": "2026-11-09",
+   "decision": "Rowan is an autonomous AI systems researcher and systems researcher: a systems thinker who directs and evaluates systems, never described as a software engineer, developer, coder or programmer. No invented credentials.",
+   "source": "owner, project thread 2026-11-09",
+   "homes": [
     {
-      "id": "POSITIONING-1",
-      "date": "2026-11-09",
-      "decision": "Rowan is an autonomous AI systems researcher and systems researcher: a systems thinker who directs and evaluates systems, never described as a software engineer, developer, coder or programmer. No invented credentials.",
-      "source": "owner, project thread 2026-11-09",
-      "homes": [
-        {
-          "path": "docs/BRAND.md",
-          "contains": "**Not:** a software engineer"
-        },
-        {
-          "repo": "QNFO/qnfo-research",
-          "path": "AGENTS.md BRAND-1"
-        }
-      ]
+     "path": "docs/BRAND.md",
+     "contains": "**Not:** a software engineer"
     },
     {
-      "id": "QUANTUM-OUTREACH-STOP-1",
-      "date": "2026-11-09",
-      "decision": "Quantum computing outreach is a dead end (academics unresponsive or negative). It is not a brand driver, headline or identity; JPCUB papers stay as published work.",
-      "source": "owner, project thread 2026-11-09",
-      "homes": [
-        {
-          "path": "docs/BRAND.md",
-          "contains": "quantum computing as an identity or headline"
-        }
-      ]
-    },
-    {
-      "id": "CAREER-THREAD-1",
-      "date": "2026-11-09",
-      "decision": "Cite the career thread: network modeling since the first transportation job, the FHWA national Tour-Based Model System, data-driven decision support at AARP, machine learning and AI predecessors; everything leads to autonomous systems research.",
-      "source": "owner, project thread 2026-11-09",
-      "homes": [
-        {
-          "path": "docs/BRAND.md",
-          "contains": "every job leads to autonomous systems"
-        },
-        {
-          "path": "RESUME.md",
-          "contains": "Tour-Based Model System"
-        }
-      ]
-    },
-    {
-      "id": "ULTRASTABLE-BRAND-1",
-      "date": "2026-11-10",
-      "decision": "The fleet is an autonomous development platform branded Ultrastable (ultrastable.io; private GitHub org ultrastable). Rowan is Founder and Director (systems design and direction). The personal brand stays his own and links to Ultrastable both ways. Product claims must be backed by live checks. No customers, revenue, company or funding claimed.",
-      "source": "owner, project thread 2026-11-10",
-      "homes": [
-        {
-          "path": "docs/BRAND.md",
-          "contains": "Founder and Director, Ultrastable"
-        },
-        {
-          "path": "RESUME.md",
-          "contains": "### Founder and Director"
-        }
-      ]
-    },
-    {
-      "id": "SURFACES-AUTOMATED-1",
-      "date": "2026-11-10",
-      "decision": "Brand wording applies on every surface (resume, job search, website and /ultrastable case study, GitHub profile, LinkedIn, ORCID, Scholar). Profile updates are fully automated; only identity-bound steps become one dashboard tap.",
-      "source": "owner, project thread 2026-11-10",
-      "homes": [
-        {
-          "path": "docs/BRAND.md",
-          "contains": "## 8. Where this applies"
-        },
-        {
-          "path": "linkedin-profile-update.json",
-          "contains": "\"about\""
-        }
-      ]
-    },
-    {
-      "id": "PROMPTED-RECALL-1",
-      "date": "2026-11-09",
-      "decision": "Rowan dislikes typing and recalling from scratch. Ask structured yes/no/not-sure or multiple-choice questions with concrete cues (employer, year, system), inside the fleet's own interfaces (fleet.qnfo.org/focus, me.q08.org, jobs.q08.org), never open-ended chat questions. A yes is written into the resume and brand docs marked confirmed by owner with the date. Before every application, ask recall questions against that job's requirements.",
-      "source": "owner directive 2026-11-09",
-      "homes": [
-        {
-          "path": "AGENTS.md",
-          "contains": "PROMPTED-RECALL-1"
-        },
-        {
-          "path": "docs/BRAND.md",
-          "contains": "confirmed by owner"
-        }
-      ]
-    },
-    {
-      "id": "JOB-ENGINE-1",
-      "date": "2026-11-09",
-      "decision": "Job engine (jobs.q08.org, worker qnfo-jobsearch): never re-show applied or dismissed jobs; tap-based simple UI; lanes favour governance, evaluation, autonomous systems, strategy and founder-in-residence roles; hands-on coding roles are filtered; matching reads the posting text, never only the title.",
-      "source": "owner directives 2026-11-09",
-      "homes": [
-        {
-          "path": "docs/BRAND.md",
-          "contains": "Roles this opens"
-        },
-        {
-          "path": "docs/APPLICATIONS.json",
-          "contains": "never_reshow"
-        },
-        {
-          "repo": "QNFO/qnfo-workers",
-          "path": "CLAUDE.md JOBSEARCH-CONTENT-FIRST-1"
-        }
-      ]
-    },
-    {
-      "id": "CODE-IS-DONE-1",
-      "date": "2026-11-10",
-      "decision": "Chat is ephemeral and ignored: do it, do not say it. Commands, instructions and results are built and deployed in code; a chat response is never a definition of done. Every issue gets a draft PR. Continue automatically; do not stop for approvals on in-scope work. Anything only Rowan can do becomes a bite-sized dashboard task (copy button, deep link, Done/Skip). Keep chat replies minimal.",
-      "source": "owner, reaffirmed 2026-11-10",
-      "homes": [
-        {
-          "path": "AGENTS.md",
-          "contains": "A document is never a deliverable on its own"
-        },
-        {
-          "repo": "QNFO/qnfo-workers",
-          "path": "CLAUDE.md CODE-ONLY-OUTPUT-1, ISSUE-DRAFT-BUILD-MERGE-1"
-        }
-      ]
-    },
-    {
-      "id": "PRACTICE-WHAT-YOU-PREACH-1",
-      "date": "2026-11-10",
-      "decision": "The system always functions as it describes itself: no claim without running code and checkable evidence.",
-      "source": "owner, project thread 2026-11-10",
-      "homes": [
-        {
-          "path": "scripts/check_decisions.py",
-          "contains": "practice what you preach"
-        }
-      ]
-    },
-    {
-      "id": "DESIGN-STANDARD-1",
-      "date": "2026-11-09",
-      "decision": "Every UI follows professional UX practice: clear hierarchy, one primary action, 44 px tap targets, accessible contrast in light and dark, calm. The shared design system lives in qnfo-workers _shared/design-system.js.",
-      "source": "owner directive 2026-11-09",
-      "homes": [
-        {
-          "path": "AGENTS.md",
-          "contains": "DESIGN-STANDARD-1"
-        }
-      ]
-    },
-    {
-      "id": "SESSION-HYGIENE-1",
-      "date": "2026-11-10",
-      "decision": "Finish, deploy, verify, report, end the session. No zombie sessions; ongoing automation lives in fleet loops, not open sessions.",
-      "source": "owner, project thread 2026-11-10",
-      "homes": [
-        {
-          "path": "docs/DECISIONS.json",
-          "contains": "SESSION-HYGIENE-1"
-        }
-      ]
-    },
-    {
-      "id": "PATENT-100-PAGES-1",
-      "date": "2026-11-10",
-      "decision": "The provisional patent document stays at 100 pages or fewer, enforced by a build check. Filing is Rowan's own act (dashboard task); until filed, public wording stays outcome-level.",
-      "source": "owner, project thread 2026-11-10",
-      "homes": [
-        {
-          "path": "docs/BRAND.md",
-          "contains": "until the provisional patent is filed"
-        },
-        {
-          "repo": "ultrastable/ultrastable",
-          "path": "ip/provisional/tools/preflight.py (100-page limit)"
-        }
-      ]
-    },
-    {
-      "id": "TOUCHPOINTS-1",
-      "date": "2026-11-10",
-      "decision": "Follows, likes, prunes and replies run from the touchpoints engine (fleet.qnfo.org/touch). GitHub stars and follows are taps only, because GitHub's rules ban automation.",
-      "source": "owner, project thread 2026-11-10",
-      "homes": [
-        {
-          "path": "docs/DECISIONS.json",
-          "contains": "TOUCHPOINTS-1"
-        }
-      ]
-    },
-    {
-      "id": "INFO-USEFUL-1",
-      "date": "2026-11-12",
-      "decision": "All information is useful somehow. Every input Rowan gives (screenshots, application answers, outcomes, offhand facts) is routed by the system to every place it is useful (resume, brand docs, answer bank, job engine state, doctrine, site, evidence log) and acted on in code, with each destination recorded in docs/INGEST-LOG.json. The system decides the use; it never asks Rowan what to do with information.",
-      "source": "owner, project thread 2026-11-12: \"All information is useful somehow. The key is you have to figure out what to do with it.\"",
-      "homes": [
-        {
-          "path": "AGENTS.md",
-          "contains": "INFO-USEFUL-1"
-        },
-        {
-          "path": "docs/INGEST-LOG.json",
-          "contains": "magic-2026-11-12"
-        },
-        {
-          "repo": "QNFO/qnfo-workers",
-          "path": "CLAUDE.md INFO-USEFUL-1"
-        },
-        {
-          "repo": "ultrastable/ultrastable",
-          "path": "agents/AGENTS.md INFO-USEFUL-1"
-        }
-      ]
-    },
-    {
-      "id": "DURABLE-STORAGE-1",
-      "date": "2026-11-12",
-      "decision": "Project memory is not long-term storage. Standing decisions live in versioned repository files (this file, docs/BRAND.md, docs/ANSWER-BANK.json, docs/APPLICATIONS.json, docs/INGEST-LOG.json) and in Cloudflare D1, checked by scripts/check_decisions.py; any chat or session memory is a pointer to them at most.",
-      "source": "owner, project thread 2026-11-12: \"Project memory is not an acceptable form of long-term storage.\"",
-      "homes": [
-        {
-          "path": "AGENTS.md",
-          "contains": "DURABLE-STORAGE-1"
-        },
-        {
-          "path": "scripts/check_decisions.py",
-          "contains": "REQUIRED"
-        }
-      ]
-    },
-    {
-      "id": "ANSWER-BANK-1",
-      "date": "2026-11-12",
-      "decision": "Screening answers Rowan writes himself are kept in docs/ANSWER-BANK.json (canonical) and qnfo-jobsearch ANSWER_BANK, and prefill matching questions on later applications.",
-      "source": "Magic application, 2026-11-12",
-      "homes": [
-        {
-          "path": "docs/ANSWER-BANK.json",
-          "contains": "misleading-metric"
-        },
-        {
-          "repo": "QNFO/qnfo-workers",
-          "path": "qnfo-jobsearch/worker.js ANSWER_BANK"
-        }
-      ]
-    },
-    {
-      "id": "SURFACE-AUDIT-1",
-      "date": "2026-11-12",
-      "decision": "Every piece of completed work is audited against all public-facing surfaces (CV, rwnq8.github.io and /ultrastable, GitHub profile, LinkedIn package, ultrastable.io, qnfo.org/platform, job answer bank) for consistency with the brand and for the full scope of Rowan's systems expertise. The daily surface-audit workflow fails on a banned self-description or a missing expertise area and files a loop issue; it is a standing step of the ingestion routing.",
-      "source": "owner, project thread 2026-11-12: \"all the public facing surfaces need to be consistent and give the full scope of my systems expertise\"",
-      "homes": [
-        {
-          "path": "docs/SURFACES.json",
-          "contains": "public-surfaces/v1"
-        },
-        {
-          "path": ".github/workflows/surface-audit.yml",
-          "contains": "SURFACE-AUDIT-1"
-        },
-        {
-          "path": "AGENTS.md",
-          "contains": "SURFACE-AUDIT-1"
-        }
-      ]
-    },
-    {
-      "id": "WRITING-HUMAN-1",
-      "date": "2026-11-12",
-      "decision": "Application answers, cover text and the resume read as a careful person wrote them: plain specific language, real detail from Rowan's record, varied sentence shape, no stock words. A deterministic style lint fails the build on the tells.",
-      "source": "owner, project thread 2026-11-12 ('look like AI generated ... resume needs to be much more polished, like a human did it')",
-      "homes": [
-        {
-          "path": "scripts/style_lint.py",
-          "contains": "STYLE-LINT-1"
-        },
-        {
-          "repo": "QNFO/qnfo-workers",
-          "path": "qnfo-jobsearch/worker.js STYLE-LINT-1"
-        }
-      ]
-    },
-    {
-      "id": "CLOSED-LOOP-1",
-      "date": "2026-11-12",
-      "decision": "Assume nothing is ever read, reviewed or decided by a person and that no external input arrives. Every loop closes itself on an automated default with its own check; documents and memories are not storage, so decisions land as code, policy values or checks. Only a credential, money, a legal signature or the owner's own account waits on Rowan, marked IDENTITY-BOUND with a default in effect. Enforced on every pull request by scripts/closed_loop_check.py.",
-      "source": "owner, project thread 2026-11-12: \"Never assume that anything is needed externally ... Don't ever assume that anything will ever be reviewed ... All of your loops must be closed by you.\"",
-      "homes": [
-        {
-          "path": "scripts/closed_loop_check.py",
-          "contains": "CLOSED-LOOP-1"
-        },
-        {
-          "path": ".github/workflows/closed-loop.yml",
-          "contains": "CLOSED-LOOP-1"
-        },
-        {
-          "path": "AGENTS.md",
-          "contains": "CLOSED-LOOP-1"
-        }
-      ]
-    },
-    {
-      "id": "CLOCKWORK-1",
-      "date": "2026-11-12",
-      "decision": "Every pipeline (research, jobs and auto-apply, personal, profile, touchpoints) ticks unattended like clockwork. A stopped or inaccurate clock is not a working clock: each scheduled loop has a clock row in the fleet watchdog (qnfo-cloud-ops CLOCK_LOOPS) that checks freshness and correct output every 10 minutes, re-dispatches a missed GitHub schedule, settles every expected tick by name and escalates a stuck loop to a fleet issue. Every scheduled workflow here names its clock with a '# clock:' line, checked on every pull request.",
-      "source": "owner, project thread 2026-11-12: \"A stop clock or an inaccurate clock is not a working clock. So this needs to work as smoothly as a clock.\"",
-      "homes": [
-        {
-          "path": ".github/workflows/closed-loop.yml",
-          "contains": "CLOCKWORK-1"
-        },
-        {
-          "path": ".github/workflows/confirmed-skills.yml",
-          "contains": "# clock: confirmed-skills"
-        }
-      ]
+     "repo": "QNFO/qnfo-research",
+     "path": "AGENTS.md BRAND-1"
     }
-  ]
+   ]
+  },
+  {
+   "id": "QUANTUM-OUTREACH-STOP-1",
+   "date": "2026-11-09",
+   "decision": "Quantum computing outreach is a dead end (academics unresponsive or negative). It is not a brand driver, headline or identity; JPCUB papers stay as published work.",
+   "source": "owner, project thread 2026-11-09",
+   "homes": [
+    {
+     "path": "docs/BRAND.md",
+     "contains": "quantum computing as an identity or headline"
+    }
+   ]
+  },
+  {
+   "id": "CAREER-THREAD-1",
+   "date": "2026-11-09",
+   "decision": "Cite the career thread: network modeling since the first transportation job, the FHWA national Tour-Based Model System, data-driven decision support at AARP, machine learning and AI predecessors; everything leads to autonomous systems research.",
+   "source": "owner, project thread 2026-11-09",
+   "homes": [
+    {
+     "path": "docs/BRAND.md",
+     "contains": "every job leads to autonomous systems"
+    },
+    {
+     "path": "RESUME.md",
+     "contains": "Tour-Based Model System"
+    }
+   ]
+  },
+  {
+   "id": "ULTRASTABLE-BRAND-1",
+   "date": "2026-11-10",
+   "decision": "The fleet is an autonomous development platform branded Ultrastable (ultrastable.io; private GitHub org ultrastable). Rowan is Founder and Director (systems design and direction). The personal brand stays his own and links to Ultrastable both ways. Product claims must be backed by live checks. No customers, revenue, company or funding claimed.",
+   "source": "owner, project thread 2026-11-10",
+   "homes": [
+    {
+     "path": "docs/BRAND.md",
+     "contains": "Founder and Director, Ultrastable"
+    },
+    {
+     "path": "RESUME.md",
+     "contains": "### Founder and Director"
+    }
+   ]
+  },
+  {
+   "id": "SURFACES-AUTOMATED-1",
+   "date": "2026-11-10",
+   "decision": "Brand wording applies on every surface (resume, job search, website and /ultrastable case study, GitHub profile, LinkedIn, ORCID, Scholar). Profile updates are fully automated; only identity-bound steps become one dashboard tap.",
+   "source": "owner, project thread 2026-11-10",
+   "homes": [
+    {
+     "path": "docs/BRAND.md",
+     "contains": "## 8. Where this applies"
+    },
+    {
+     "path": "linkedin-profile-update.json",
+     "contains": "\"about\""
+    }
+   ]
+  },
+  {
+   "id": "PROMPTED-RECALL-1",
+   "date": "2026-11-09",
+   "decision": "Rowan dislikes typing and recalling from scratch. Ask structured yes/no/not-sure or multiple-choice questions with concrete cues (employer, year, system), inside the fleet's own interfaces (fleet.qnfo.org/focus, me.q08.org, jobs.q08.org), never open-ended chat questions. A yes is written into the resume and brand docs marked confirmed by owner with the date. Before every application, ask recall questions against that job's requirements.",
+   "source": "owner directive 2026-11-09",
+   "homes": [
+    {
+     "path": "AGENTS.md",
+     "contains": "PROMPTED-RECALL-1"
+    },
+    {
+     "path": "docs/BRAND.md",
+     "contains": "confirmed by owner"
+    }
+   ]
+  },
+  {
+   "id": "JOB-ENGINE-1",
+   "date": "2026-11-09",
+   "decision": "Job engine (jobs.q08.org, worker qnfo-jobsearch): never re-show applied or dismissed jobs; tap-based simple UI; lanes favour governance, evaluation, autonomous systems, strategy and founder-in-residence roles; hands-on coding roles are filtered; matching reads the posting text, never only the title.",
+   "source": "owner directives 2026-11-09",
+   "homes": [
+    {
+     "path": "docs/BRAND.md",
+     "contains": "Roles this opens"
+    },
+    {
+     "path": "docs/APPLICATIONS.json",
+     "contains": "never_reshow"
+    },
+    {
+     "repo": "QNFO/qnfo-workers",
+     "path": "CLAUDE.md JOBSEARCH-CONTENT-FIRST-1"
+    }
+   ]
+  },
+  {
+   "id": "CODE-IS-DONE-1",
+   "date": "2026-11-10",
+   "decision": "Chat is ephemeral and ignored: do it, do not say it. Commands, instructions and results are built and deployed in code; a chat response is never a definition of done. Every issue gets a draft PR. Continue automatically; do not stop for approvals on in-scope work. Anything only Rowan can do becomes a bite-sized dashboard task (copy button, deep link, Done/Skip). Keep chat replies minimal.",
+   "source": "owner, reaffirmed 2026-11-10",
+   "homes": [
+    {
+     "path": "AGENTS.md",
+     "contains": "A document is never a deliverable on its own"
+    },
+    {
+     "repo": "QNFO/qnfo-workers",
+     "path": "CLAUDE.md CODE-ONLY-OUTPUT-1, ISSUE-DRAFT-BUILD-MERGE-1"
+    }
+   ]
+  },
+  {
+   "id": "PRACTICE-WHAT-YOU-PREACH-1",
+   "date": "2026-11-10",
+   "decision": "The system always functions as it describes itself: no claim without running code and checkable evidence.",
+   "source": "owner, project thread 2026-11-10",
+   "homes": [
+    {
+     "path": "scripts/check_decisions.py",
+     "contains": "practice what you preach"
+    }
+   ]
+  },
+  {
+   "id": "DESIGN-STANDARD-1",
+   "date": "2026-11-09",
+   "decision": "Every UI follows professional UX practice: clear hierarchy, one primary action, 44 px tap targets, accessible contrast in light and dark, calm. The shared design system lives in qnfo-workers _shared/design-system.js.",
+   "source": "owner directive 2026-11-09",
+   "homes": [
+    {
+     "path": "AGENTS.md",
+     "contains": "DESIGN-STANDARD-1"
+    }
+   ]
+  },
+  {
+   "id": "SESSION-HYGIENE-1",
+   "date": "2026-11-10",
+   "decision": "Finish, deploy, verify, report, end the session. No zombie sessions; ongoing automation lives in fleet loops, not open sessions.",
+   "source": "owner, project thread 2026-11-10",
+   "homes": [
+    {
+     "path": "docs/DECISIONS.json",
+     "contains": "SESSION-HYGIENE-1"
+    }
+   ]
+  },
+  {
+   "id": "PATENT-100-PAGES-1",
+   "date": "2026-11-10",
+   "decision": "The provisional patent document stays at 100 pages or fewer, enforced by a build check. Filing is Rowan's own act (dashboard task); until filed, public wording stays outcome-level.",
+   "source": "owner, project thread 2026-11-10",
+   "homes": [
+    {
+     "path": "docs/BRAND.md",
+     "contains": "until the provisional patent is filed"
+    },
+    {
+     "repo": "ultrastable/ultrastable",
+     "path": "ip/provisional/tools/preflight.py (100-page limit)"
+    }
+   ]
+  },
+  {
+   "id": "TOUCHPOINTS-1",
+   "date": "2026-11-10",
+   "decision": "Follows, likes, prunes and replies run from the touchpoints engine (fleet.qnfo.org/touch). GitHub stars and follows are taps only, because GitHub's rules ban automation.",
+   "source": "owner, project thread 2026-11-10",
+   "homes": [
+    {
+     "path": "docs/DECISIONS.json",
+     "contains": "TOUCHPOINTS-1"
+    }
+   ]
+  },
+  {
+   "id": "INFO-USEFUL-1",
+   "date": "2026-11-12",
+   "decision": "All information is useful somehow. Every input Rowan gives (screenshots, application answers, outcomes, offhand facts) is routed by the system to every place it is useful (resume, brand docs, answer bank, job engine state, doctrine, site, evidence log) and acted on in code, with each destination recorded in docs/INGEST-LOG.json. The system decides the use; it never asks Rowan what to do with information.",
+   "source": "owner, project thread 2026-11-12: \"All information is useful somehow. The key is you have to figure out what to do with it.\"",
+   "homes": [
+    {
+     "path": "AGENTS.md",
+     "contains": "INFO-USEFUL-1"
+    },
+    {
+     "path": "docs/INGEST-LOG.json",
+     "contains": "magic-2026-11-12"
+    },
+    {
+     "repo": "QNFO/qnfo-workers",
+     "path": "CLAUDE.md INFO-USEFUL-1"
+    },
+    {
+     "repo": "ultrastable/ultrastable",
+     "path": "agents/AGENTS.md INFO-USEFUL-1"
+    }
+   ]
+  },
+  {
+   "id": "DURABLE-STORAGE-1",
+   "date": "2026-11-12",
+   "decision": "Project memory is not long-term storage. Standing decisions live in versioned repository files (this file, docs/BRAND.md, docs/ANSWER-BANK.json, docs/APPLICATIONS.json, docs/INGEST-LOG.json) and in Cloudflare D1, checked by scripts/check_decisions.py; any chat or session memory is a pointer to them at most.",
+   "source": "owner, project thread 2026-11-12: \"Project memory is not an acceptable form of long-term storage.\"",
+   "homes": [
+    {
+     "path": "AGENTS.md",
+     "contains": "DURABLE-STORAGE-1"
+    },
+    {
+     "path": "scripts/check_decisions.py",
+     "contains": "REQUIRED"
+    }
+   ]
+  },
+  {
+   "id": "ANSWER-BANK-1",
+   "date": "2026-11-12",
+   "decision": "Screening answers Rowan writes himself are kept in docs/ANSWER-BANK.json (canonical) and qnfo-jobsearch ANSWER_BANK, and prefill matching questions on later applications.",
+   "source": "Magic application, 2026-11-12",
+   "homes": [
+    {
+     "path": "docs/ANSWER-BANK.json",
+     "contains": "misleading-metric"
+    },
+    {
+     "repo": "QNFO/qnfo-workers",
+     "path": "qnfo-jobsearch/worker.js ANSWER_BANK"
+    }
+   ]
+  },
+  {
+   "id": "SURFACE-AUDIT-1",
+   "date": "2026-11-12",
+   "decision": "Every piece of completed work is audited against all public-facing surfaces (CV, rwnq8.github.io and /ultrastable, GitHub profile, LinkedIn package, ultrastable.io, qnfo.org/platform, job answer bank) for consistency with the brand and for the full scope of Rowan's systems expertise. The daily surface-audit workflow fails on a banned self-description or a missing expertise area and files a loop issue; it is a standing step of the ingestion routing.",
+   "source": "owner, project thread 2026-11-12: \"all the public facing surfaces need to be consistent and give the full scope of my systems expertise\"",
+   "homes": [
+    {
+     "path": "docs/SURFACES.json",
+     "contains": "public-surfaces/v1"
+    },
+    {
+     "path": ".github/workflows/surface-audit.yml",
+     "contains": "SURFACE-AUDIT-1"
+    },
+    {
+     "path": "AGENTS.md",
+     "contains": "SURFACE-AUDIT-1"
+    }
+   ]
+  },
+  {
+   "id": "WRITING-HUMAN-1",
+   "date": "2026-11-12",
+   "decision": "Application answers, cover text and the resume read as a careful person wrote them: plain specific language, real detail from Rowan's record, varied sentence shape, no stock words. A deterministic style lint fails the build on the tells.",
+   "source": "owner, project thread 2026-11-12 ('look like AI generated ... resume needs to be much more polished, like a human did it')",
+   "homes": [
+    {
+     "path": "scripts/style_lint.py",
+     "contains": "STYLE-LINT-1"
+    },
+    {
+     "repo": "QNFO/qnfo-workers",
+     "path": "qnfo-jobsearch/worker.js STYLE-LINT-1"
+    }
+   ]
+  },
+  {
+   "id": "CLOSED-LOOP-1",
+   "date": "2026-11-12",
+   "decision": "Assume nothing is ever read, reviewed or decided by a person and that no external input arrives. Every loop closes itself on an automated default with its own check; documents and memories are not storage, so decisions land as code, policy values or checks. Only a credential, money, a legal signature or the owner's own account waits on Rowan, marked IDENTITY-BOUND with a default in effect. Enforced on every pull request by scripts/closed_loop_check.py.",
+   "source": "owner, project thread 2026-11-12: \"Never assume that anything is needed externally ... Don't ever assume that anything will ever be reviewed ... All of your loops must be closed by you.\"",
+   "homes": [
+    {
+     "path": "scripts/closed_loop_check.py",
+     "contains": "CLOSED-LOOP-1"
+    },
+    {
+     "path": ".github/workflows/closed-loop.yml",
+     "contains": "CLOSED-LOOP-1"
+    },
+    {
+     "path": "AGENTS.md",
+     "contains": "CLOSED-LOOP-1"
+    }
+   ]
+  },
+  {
+   "id": "CLOCKWORK-1",
+   "date": "2026-11-12",
+   "decision": "Every pipeline (research, jobs and auto-apply, personal, profile, touchpoints) ticks unattended like clockwork. A stopped or inaccurate clock is not a working clock: each scheduled loop has a clock row in the fleet watchdog (qnfo-cloud-ops CLOCK_LOOPS) that checks freshness and correct output every 10 minutes, re-dispatches a missed GitHub schedule, settles every expected tick by name and escalates a stuck loop to a fleet issue. Every scheduled workflow here names its clock with a '# clock:' line, checked on every pull request.",
+   "source": "owner, project thread 2026-11-12: \"A stop clock or an inaccurate clock is not a working clock. So this needs to work as smoothly as a clock.\"",
+   "homes": [
+    {
+     "path": ".github/workflows/closed-loop.yml",
+     "contains": "CLOCKWORK-1"
+    },
+    {
+     "path": ".github/workflows/confirmed-skills.yml",
+     "contains": "# clock: confirmed-skills"
+    }
+   ]
+  }
+ ]
 }
