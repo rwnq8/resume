@@ -120,6 +120,16 @@ Every QNFO paper is prepared with an AI-assisted research pipeline; the author i
 **Systems and decisions:** systems and network modeling · travel-demand and simulation modeling · statistical modeling and applied machine learning · data-driven decision support · GIS · research program direction and management · federal contract oversight
 
 <!-- CONFIRMED-SKILLS:START (written by .github/workflows/confirmed-skills.yml from jobs.q08.org/api/cv-skills: only skills Rowan confirmed by tap) -->
+**Confirmed by Rowan:** IP strategy for an autonomous platform · Venture and go-to-market planning · Prompt and agent-instruction design · Red-teaming and adversarial testing of AI agents · AI model selection and cost-quality trade-offs · EU AI Act · GDPR compliance · People management
+
+- Directed intellectual-property strategy for Ultrastable: the invention disclosure (named inventor) and preparation of a provisional patent application (not yet filed). (confirmed by owner, 2026-11-11)
+- Directed the Ultrastable venture plan: target customers, a competitive map, pitch materials and funding options. (confirmed by owner, 2026-11-11)
+- Designed and tuned the instructions and prompts that steer an autonomous agent fleet (writers, referees and the code loop). (confirmed by owner, 2026-11-11)
+- Red-teamed autonomous AI agents: tested their claims against real output and turned each failure found into a standing rule or check. (confirmed by owner, 2026-11-11)
+- Chose AI models for each job by cost and quality, including reviewers from different model families so their errors do not line up. (confirmed by owner, 2026-11-11)
+- Worked with the EU AI Act’s risk tiers and obligations in the design and governance of an AI product. (confirmed by owner, 2026-11-11)
+- Worked hands-on with GDPR requirements in the design and governance of AI and data systems. (confirmed by owner, 2026-11-12)
+- Managed direct reports: hired staff, set goals and reviewed their work. (confirmed by owner, 2026-11-11)
 <!-- CONFIRMED-SKILLS:END -->
 
 Tools I direct and work with: Python, SQL, Cloudflare Workers, GIS (ArcGIS, QGIS), LLM agent frameworks.
