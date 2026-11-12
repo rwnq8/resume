@@ -1,0 +1,150 @@
+{
+ "schema": "public-surfaces/v1",
+ "about": "SURFACE-AUDIT-1 (owner 2026-11-12): every public surface must match the brand in docs/BRAND.md and show the full scope of Rowan's systems expertise. scripts/audit_surfaces.py reads this file; add a surface or an expertise area here and it is checked on the next run.",
+ "banned": [
+  "software engineer",
+  "full-stack",
+  "\\bcoder\\b",
+  "\\bprogrammer\\b",
+  "AI safety researcher",
+  "quantum computing researcher"
+ ],
+ "areas": {
+  "autonomous-ai": [
+   "autonomous (AI|development|research)? ?(AI )?systems?",
+   "autonomous AI"
+  ],
+  "evaluation": [
+   "evaluat",
+   "assurance",
+   "audit"
+  ],
+  "governance": [
+   "governance",
+   "oversight",
+   "govern"
+  ],
+  "systems-modeling": [
+   "network model",
+   "systems model",
+   "Tour-Based",
+   "travel[- ]demand"
+  ],
+  "decision-support": [
+   "decision[- ]support",
+   "Livability Index",
+   "decision systems",
+   "decisions from evidence"
+  ],
+  "ultrastable": [
+   "Ultrastable"
+  ]
+ },
+ "surfaces": [
+  {
+   "id": "cv",
+   "local": "resume/RESUME.md",
+   "url": "https://raw.githubusercontent.com/rwnq8/resume/main/RESUME.md",
+   "areas": [
+    "autonomous-ai",
+    "evaluation",
+    "governance",
+    "systems-modeling",
+    "decision-support",
+    "ultrastable"
+   ]
+  },
+  {
+   "id": "github-profile",
+   "local": "rwnq8/README.md",
+   "url": "https://raw.githubusercontent.com/rwnq8/rwnq8/main/README.md",
+   "areas": [
+    "autonomous-ai",
+    "evaluation",
+    "governance",
+    "systems-modeling",
+    "decision-support",
+    "ultrastable"
+   ]
+  },
+  {
+   "id": "site-home",
+   "local": "rwnq8.github.io/index.html",
+   "url": "https://rwnq8.github.io/",
+   "areas": [
+    "autonomous-ai",
+    "governance",
+    "systems-modeling",
+    "ultrastable"
+   ]
+  },
+  {
+   "id": "site-ultrastable",
+   "local": "rwnq8.github.io/ultrastable/index.html",
+   "url": "https://rwnq8.github.io/ultrastable/",
+   "areas": [
+    "autonomous-ai",
+    "evaluation",
+    "governance",
+    "systems-modeling",
+    "ultrastable"
+   ]
+  },
+  {
+   "id": "linkedin-package",
+   "local": "resume/linkedin-profile-update.json",
+   "url": "https://raw.githubusercontent.com/rwnq8/resume/main/linkedin-profile-update.json",
+   "areas": [
+    "autonomous-ai",
+    "evaluation",
+    "governance",
+    "systems-modeling",
+    "decision-support",
+    "ultrastable"
+   ]
+  },
+  {
+   "id": "brand-doc",
+   "local": "resume/docs/BRAND.md",
+   "url": "https://raw.githubusercontent.com/rwnq8/resume/main/docs/BRAND.md",
+   "areas": [
+    "autonomous-ai",
+    "evaluation",
+    "governance",
+    "systems-modeling",
+    "decision-support",
+    "ultrastable"
+   ],
+   "banned_exempt": true
+  },
+  {
+   "id": "answer-bank",
+   "local": "resume/docs/ANSWER-BANK.json",
+   "url": "https://raw.githubusercontent.com/rwnq8/resume/main/docs/ANSWER-BANK.json",
+   "areas": [
+    "autonomous-ai",
+    "evaluation",
+    "ultrastable"
+   ]
+  },
+  {
+   "id": "ultrastable-io",
+   "url": "https://ultrastable.io/",
+   "areas": [
+    "autonomous-ai",
+    "ultrastable"
+   ],
+   "must": [
+    "Quni-Gudzinas"
+   ]
+  },
+  {
+   "id": "qnfo-platform",
+   "url": "https://qnfo.org/platform",
+   "areas": [
+    "autonomous-ai",
+    "ultrastable"
+   ]
+  }
+ ]
+}

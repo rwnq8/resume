@@ -1,0 +1,19 @@
+# DURABLE-STORAGE-1 / INFO-USEFUL-1: the standing decisions, answer bank and ingest log hold what they claim.
+name: decisions
+on:
+  pull_request:
+  push:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: decisions-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - name: Decisions, answer bank and ingest log
+        run: python3 scripts/check_decisions.py && python3 scripts/test_check_decisions.py

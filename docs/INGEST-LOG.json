@@ -1,0 +1,166 @@
+{
+ "schema": "ingest-log/v1",
+ "about": "INFO-USEFUL-1: every input Rowan gives, the facts drawn from it and each place they were written. scripts/check_decisions.py fails when a local destination does not hold its marker.",
+ "inputs": [
+  {
+   "id": "magic-2026-11-12",
+   "received": "2026-11-12",
+   "input": "four screenshots of the submitted Magic application (Member of Technical Staff, Evals) plus the directive \"All information is useful somehow\"",
+   "facts": [
+    {
+     "fact": "Applied to Magic, Member of Technical Staff, Evals; never show it again",
+     "destinations": [
+      {
+       "path": "docs/APPLICATIONS.json",
+       "contains": "Member of Technical Staff, Evals"
+      },
+      {
+       "repo": "QNFO/qnfo-workers",
+       "path": "migrations/2026-11-12-jobsearch-magic-applied.sql"
+      }
+     ]
+    },
+    {
+     "fact": "Four screening answers in Rowan's own words, reusable",
+     "destinations": [
+      {
+       "path": "docs/ANSWER-BANK.json",
+       "contains": "universal ignorance audit"
+      },
+      {
+       "repo": "QNFO/qnfo-workers",
+       "path": "qnfo-jobsearch/worker.js ANSWER_BANK"
+      }
+     ]
+    },
+    {
+     "fact": "Proxy quality signals looked healthy while the system drifted; found by scoring the fleet against its own logged predictions",
+     "destinations": [
+      {
+       "path": "RESUME.md",
+       "contains": "proxy quality signals"
+      },
+      {
+       "path": "docs/BRAND.md",
+       "contains": "proxy quality signals"
+      },
+      {
+       "path": "linkedin-profile-update.json",
+       "contains": "proxy quality signals"
+      },
+      {
+       "repo": "rwnq8/rwnq8.github.io",
+       "path": "ultrastable/index.html"
+      }
+     ]
+    },
+    {
+     "fact": "Hands-on experience with the EU AI Act's risk tiers and GDPR (owner statement)",
+     "destinations": [
+      {
+       "path": "docs/BRAND.md",
+       "contains": "EU AI Act risk tiers and GDPR"
+      },
+      {
+       "repo": "QNFO/qnfo-workers",
+       "path": "migrations/2026-11-12-jobsearch-magic-applied.sql (owner_asks cv-skill eu_ai_act and gdpr answered yes; CONFIRMED-SKILLS in RESUME.md follows)"
+      }
+     ]
+    },
+    {
+     "fact": "Career goal: behavior, evaluation and governance of autonomous AI systems; researcher, AI evaluation and assurance, or research leadership",
+     "destinations": [
+      {
+       "path": "RESUME.md",
+       "contains": "AI evaluation and assurance"
+      },
+      {
+       "path": "docs/BRAND.md",
+       "contains": "AI evaluation and assurance"
+      }
+     ]
+    },
+    {
+     "fact": "Wrote the operating doctrine for what agents decide alone versus what comes to a person",
+     "destinations": [
+      {
+       "path": "RESUME.md",
+       "contains": "Wrote and revised its operating doctrine"
+      }
+     ]
+    },
+    {
+     "fact": "FHWA Tour-Based Model System; AARP Livability Index from 50+ sources; universal ignorance audit; JPCUB",
+     "destinations": [
+      {
+       "path": "RESUME.md",
+       "contains": "Universal Ignorance Audit"
+      },
+      {
+       "path": "RESUME.md",
+       "contains": "JPCUB"
+      },
+      {
+       "path": "RESUME.md",
+       "contains": "50+ data sources"
+      }
+     ]
+    },
+    {
+     "fact": "Guiding directive: all information is useful somehow; the system decides the use and acts",
+     "destinations": [
+      {
+       "path": "docs/DECISIONS.json",
+       "contains": "INFO-USEFUL-1"
+      },
+      {
+       "path": "AGENTS.md",
+       "contains": "INFO-USEFUL-1"
+      },
+      {
+       "repo": "QNFO/qnfo-workers",
+       "path": "CLAUDE.md INFO-USEFUL-1"
+      },
+      {
+       "repo": "ultrastable/ultrastable",
+       "path": "agents/AGENTS.md"
+      }
+     ]
+    },
+    {
+     "fact": "All completed work must be consistent across all public surfaces with the full scope of systems expertise",
+     "destinations": [
+      {
+       "path": "docs/SURFACES.json",
+       "contains": "autonomous-ai"
+      },
+      {
+       "path": ".github/workflows/surface-audit.yml",
+       "contains": "cron"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "memory-migration-2026-11-12",
+   "received": "2026-11-12",
+   "input": "Rowan: \"Project memory is not an acceptable form of long-term storage.\" The standing decisions held only in project memory were moved here.",
+   "facts": [
+    {
+     "fact": "Every standing decision from project memory",
+     "destinations": [
+      {
+       "path": "docs/DECISIONS.json",
+       "contains": "TOUCHPOINTS-1"
+      },
+      {
+       "path": "docs/DECISIONS.json",
+       "contains": "PATENT-100-PAGES-1"
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

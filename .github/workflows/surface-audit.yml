@@ -1,0 +1,46 @@
+# SURFACE-AUDIT-1: every public surface matches the brand and shows the full scope of Rowan's systems expertise.
+# budget: ~1 min a run, 1 run a day (public repo, no private-minute quota)
+# trigger: daily because the surfaces change when other repos merge; workflow_dispatch for a manual run; never faster than daily
+# free-alternative: python3 scripts/audit_surfaces.py --local <dir holding the sibling checkouts> runs the same check offline
+name: surface-audit
+on:
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+  pull_request:
+    paths: ["docs/SURFACES.json", "scripts/audit_surfaces.py", "RESUME.md", "docs/BRAND.md", "linkedin-profile-update.json", "docs/ANSWER-BANK.json"]
+permissions:
+  contents: read
+  issues: write
+concurrency:
+  group: surface-audit-${{ github.ref }}
+  cancel-in-progress: true
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+      - run: python3 scripts/test_audit_surfaces.py
+      - name: Audit the public surfaces (a pull request audits its own checkout; other live pages only warn)
+        id: audit
+        run: |
+          if [ "${{ github.event_name }}" = "pull_request" ]; then
+            python3 scripts/audit_surfaces.py --checkout . --advisory-live --out surface-audit.json
+          else
+            python3 scripts/audit_surfaces.py --out surface-audit.json
+          fi
+        continue-on-error: true
+      - uses: actions/upload-artifact@v4
+        with: { name: surface-audit, path: surface-audit.json }
+      - name: File or refresh the drift issue
+        if: steps.audit.outcome == 'failure' && github.event_name != 'pull_request'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          body=$(python3 -c "import json;r=json.load(open('surface-audit.json'));print('closing probe: python3 scripts/audit_surfaces.py exits 0\n\nowner: surface-audit loop\n\n'+'\n'.join('- '+x['id']+': '+'; '.join(x['problems']) for x in r['surfaces'] if x['problems']))")
+          n=$(gh issue list --label loop --search "SURFACE-AUDIT-1 in:title" --state open --json number --jq '.[0].number // empty')
+          if [ -n "$n" ]; then gh issue comment "$n" --body "$body"; else gh issue create --title "SURFACE-AUDIT-1: public surfaces drift from the brand" --label loop --body "$body"; fi
+      - name: Fail the run when a surface drifts
+        if: steps.audit.outcome == 'failure'
+        run: exit 1
