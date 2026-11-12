@@ -269,6 +269,22 @@
      "contains": "SURFACE-AUDIT-1"
     }
    ]
+  },
+  {
+   "id": "WRITING-HUMAN-1",
+   "date": "2026-11-12",
+   "decision": "Application answers, cover text and the resume read as a careful person wrote them: plain specific language, real detail from Rowan's record, varied sentence shape, no stock words. A deterministic style lint fails the build on the tells.",
+   "source": "owner, project thread 2026-11-12 ('look like AI generated ... resume needs to be much more polished, like a human did it')",
+   "homes": [
+    {
+     "path": "scripts/style_lint.py",
+     "contains": "STYLE-LINT-1"
+    },
+    {
+     "repo": "QNFO/qnfo-workers",
+     "path": "qnfo-jobsearch/worker.js STYLE-LINT-1"
+    }
+   ]
   }
  ]
 }
