@@ -16,3 +16,7 @@ jobs:
         with:
           fetch-depth: 0
       - run: python3 scripts/closed_loop_check.py --base "origin/${{ github.base_ref }}"
+      # CLOCKWORK-1: every scheduled workflow names its clock (the qnfo-cloud-ops watchdog row that detects a missed or wrong run).
+      - name: Every scheduled workflow has a clock
+        run: |
+          bad=0; for f in .github/workflows/*.yml; do grep -q '^ *schedule:' "$f" || continue; grep -q '^# clock: ' "$f" || { echo "::error file=$f::scheduled workflow without a '# clock: <loop>' line (CLOCKWORK-1)"; bad=1; }; done; exit $bad

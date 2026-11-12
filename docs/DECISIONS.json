@@ -305,6 +305,22 @@
      "contains": "CLOSED-LOOP-1"
     }
    ]
+  },
+  {
+   "id": "CLOCKWORK-1",
+   "date": "2026-11-12",
+   "decision": "Every pipeline (research, jobs and auto-apply, personal, profile, touchpoints) ticks unattended like clockwork. A stopped or inaccurate clock is not a working clock: each scheduled loop has a clock row in the fleet watchdog (qnfo-cloud-ops CLOCK_LOOPS) that checks freshness and correct output every 10 minutes, re-dispatches a missed GitHub schedule, settles every expected tick by name and escalates a stuck loop to a fleet issue. Every scheduled workflow here names its clock with a '# clock:' line, checked on every pull request.",
+   "source": "owner, project thread 2026-11-12: \"A stop clock or an inaccurate clock is not a working clock. So this needs to work as smoothly as a clock.\"",
+   "homes": [
+    {
+     "path": ".github/workflows/closed-loop.yml",
+     "contains": "CLOCKWORK-1"
+    },
+    {
+     "path": ".github/workflows/confirmed-skills.yml",
+     "contains": "# clock: confirmed-skills"
+    }
+   ]
   }
  ]
 }
