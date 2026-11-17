@@ -21,6 +21,20 @@
     "anything-else"
    ],
    "d1": "jobsearch_matches id manual:magic.dev:mts-evals (QNFO/qnfo-workers migrations/2026-11-12-jobsearch-magic-applied.sql)"
+  },
+  {
+   "id": "wla-outreach-2026-11-17",
+   "kind": "outreach",
+   "company": "World Laureates Association (WLA)",
+   "site": "https://www.wlasci.org/",
+   "contact": "info@wlaosci.com (address published on wlasci.org; press@wlasci.org is not published there and was not used)",
+   "title": "Synergy inquiry: OPENSCI Insights commentary, Mobius Forum or summit talk, audit and provenance methods",
+   "status": "contacted",
+   "contacted_on": "2026-11-17",
+   "channel": "Gmail (rwnq8 owner mailbox), approved by Rowan 2026-11-17",
+   "never_reshow": true,
+   "notes": "Membership is laureates by invitation; the contribution path is commentary, talks and methods. OPENSCI is a blockchain and token project: no token, minting or crypto endorsement in any outreach.",
+   "follow_up": "A reply in the thread with subject 'Possible collaboration: auditing AI-run science' is routed back to this entry; no second cold email to WLA."
   }
  ]
 }

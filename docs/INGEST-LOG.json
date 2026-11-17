@@ -161,6 +161,31 @@
      ]
     }
    ]
+  },
+  {
+   "id": "wla-2026-11-17",
+   "received": "2026-11-17",
+   "input": "Rowan shared https://www.wlasci.org/ with info@wlaosci.com and press@wlasci.org and asked how to contribute; then approved sending an outreach email.",
+   "facts": [
+    {
+     "fact": "WLA is real (Kornberg chair, founded 2017 Hong Kong, Dubai office 2026); membership is laureates only; OPENSCI is a token project to keep at arm's length",
+     "destinations": [
+      {
+       "path": "docs/APPLICATIONS.json",
+       "contains": "wla-outreach-2026-11-17"
+      }
+     ]
+    },
+    {
+     "fact": "Synergy email sent to info@wlaosci.com on 2026-11-17",
+     "destinations": [
+      {
+       "path": "docs/APPLICATIONS.json",
+       "contains": "contacted_on\": \"2026-11-17"
+      }
+     ]
+    }
+   ]
   }
  ]
 }
